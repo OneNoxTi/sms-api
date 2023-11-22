@@ -36,12 +36,23 @@ const config = {
       navbar: {
         title: 'SMS Docs',
       },
-
+      zoom: {
+        selector: '.markdown :not(em) > img',
+        background: {
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)'
+        }
+      },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+
+
     },
+    plugins: [
+      require.resolve('docusaurus-plugin-image-zoom')
+    ]
 };
 
 export default config;

@@ -1,6 +1,8 @@
 const sidebars = {
   docs:[
-    'intro'
+    'instruction/login',
+    'instruction/registration',
+    'instruction/interface',
   ]  
 };
 
