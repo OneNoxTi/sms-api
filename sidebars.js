@@ -1,9 +1,26 @@
-const sidebars = {
-  docs:[
-    'instruction/login',
-    'instruction/registration',
-    'instruction/interface',
-  ]  
-};
+require('dotenv-defaults').config()
 
-export default sidebars;
+let instruction_list = [
+  'instruction/login',
+]
+
+if (process.env.PSP_NAME == 'AlphaSMS')
+{
+  instruction_list.push
+  (
+    'instruction/registration',
+    'instruction/interface'
+  )
+}
+
+if (process.env.PSP_NAME == 'AlphaSMS_2')
+{
+  instruction_list.push
+  (
+    'instruction/registration'
+  )
+}
+
+module.exports = {
+  instruction_list
+};

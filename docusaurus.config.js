@@ -1,7 +1,9 @@
+require('dotenv-defaults').config()
+
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const config = {
-  title: 'SMS Docs',
+  title: process.env.PSP_DOCS_DOMAIN,
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
   url: 'https://your-docusaurus-site.example.com',
@@ -12,8 +14,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: process.env.DEFAULT_LOCALE,
+    locales: process.env.LOCALES.split(','),
   },
 
   presets: [
@@ -34,7 +36,13 @@ const config = {
   themeConfig:
     {
       navbar: {
-        title: 'SMS Docs',
+        title: process.env.PSP_NAME,
+        items : [
+            {
+              type: 'localeDropdown',
+              position: 'right',
+            }
+        ],
       },
       zoom: {
         selector: '.markdown :not(em) > img',
