@@ -6,7 +6,7 @@ slug: /
 
 ## Sign in to personal cabinet
 
-Go to the [https://alphasms.net/](https://alphasms.net/) and click the **Login** button in the upper right corner of the page.
+Go to the website and click the **Login** button in the upper right corner of the page.
 
 ![image1](/img/instruction/login/image1.png)
 

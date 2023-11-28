@@ -4,7 +4,7 @@ title: Registration
 slug: /registration
 ---
 
-To register a new personal account, click the Registration button in the upper right corner of the page.
+To register a new personal account, go to the website and click the **Registration** button in the upper right corner of the page.
 
 ![image1](/img/instruction/registration/image1.png)
 

@@ -26,7 +26,7 @@ The header is a detached upper part of the cabinet containing:
 |  №  | Description |
 | :-: | ----------- |
 | 1 | Logo and company name |
-| 2 | Buttons to return to the [home page](https://alphasms.net/) |
+| 2 | Buttons to return to the home page |
 | 3 | Information about the current balance status is displayed, the button of balance top-up is displayed |
 | 4 | Interface language selection icon |
 | 5 | Account logout button |
