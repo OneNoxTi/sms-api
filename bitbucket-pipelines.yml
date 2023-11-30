@@ -3,12 +3,13 @@ image: node:18
 pipelines:
   default:
     - step:
-        name: init-prod
+        name: init
         script:
           - npm install -g wrangler
           - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages project create $CI_PROJECT_NAME-prod --production-branch=main
     - step:
-        name: deploy-to-prod
+        name: deploy
+        deployment: Production
         script:
           - npm install && npm install -g wrangler && npm run build 
           - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=$CI_PROJECT_NAME-prod --branch=main
