@@ -9,7 +9,7 @@ pipelines:
           - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages project create $CI_PROJECT_NAME-prod --production-branch=main
     - step:
         name: deploy
-        deployment: Production
+        deployment: test
         script:
           - npm install && npm install -g wrangler && npm run build 
           - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=$CI_PROJECT_NAME --branch=main
