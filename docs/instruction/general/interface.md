@@ -12,12 +12,12 @@ The personal cabinet is visually divided into 4 blocks:
 
 |  №  | Block | Description |
 | :-: | ----- | ----------- |
-| 1 | **Cabinet header** | Contains company logo, current balance status information, language selection button and account logout button |
+| 1 | **Cabinet header** | Contains information about the current balance status, language selection button and account logout button |
 | 2 | **Side menu** | Allows to select the required section of the personal cabinet |
 | 3 | **Working area** | Contains the main content of the open page |
 | 4 | **Cabinet footer** | Contains copyright information |
 
-## Cabinet header
+## Personal cabinet header
 
 The header is a detached upper part of the cabinet containing:
 
@@ -25,11 +25,10 @@ The header is a detached upper part of the cabinet containing:
 
 |  №  | Description |
 | :-: | ----------- |
-| 1 | Logo and company name |
-| 2 | Buttons to return to the home page |
-| 3 | Information about the current balance status is displayed, the button of balance top-up is displayed |
-| 4 | Interface language selection icon |
-| 5 | Account logout button |
+| 1 | Buttons to return to the home page |
+| 2 | Information about the current balance status and top up button |
+| 3 | Interface language selection icon |
+| 4 | Account logout button |
 
 ### Interface language selection
 
@@ -37,7 +36,7 @@ To select the interface language, use the proper button on the right side of the
 
 ![image3](/img/instruction/interface/image3.png)
 
-You can choose from two available interface languages: EN – English language, RU – Russian language.
+You can choose from two available interface languages: **EN** – English language, **RU** – Russian language.
 
 ## Side menu
 
@@ -47,7 +46,8 @@ The side menu consists of the following blocks:
 
 |  №  | Description |
 | :-: | ----------- |
-| 1 | Contains a list of the available sections |
+| 1 | Contains available sections for working with sms |
+| 1 | Contains accessible sections for working with clients |
 | 2 | Contains a link to download the software |
 
 ## Working area
