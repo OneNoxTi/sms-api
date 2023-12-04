@@ -6,7 +6,7 @@ slug: /single_sms
 
 In this tab you can send SMS to one number or specify several numbers using comma.
 
-To open this tab, open the **Send SMS** subsection and select the **SINGLE SMS** tab.
+To open this tab, open the **Send SMS** section and select the **SINGLE SMS** tab.
 
 ![image1](/img/instruction/sms/send_sms/single_sms/image1.png)
 
@@ -26,7 +26,7 @@ Press **EXECUTE** to send the message.
 
 ![image2](/img/instruction/sms/send_sms/single_sms/image2.png)
 
-To find out how much it costs to send a text message, click **HOW MUCH IS IT?** to the right of the **EXECUTE** button.
+To check the cost of sending messages, click **HOW MUCH IS IT?** to the right of the **EXECUTE** button.
 
 ![image3](/img/instruction/sms/send_sms/single_sms/image3.png)
 

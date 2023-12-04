@@ -6,7 +6,7 @@ slug: /bulk_sms
 
 In this tab you can send bulk SMS to many numbers at the same time.
 
-To open this tab, open the **Send SMS** subsection and select the **BULK SMS** tab.
+To open this tab, open the **Send SMS** section and select the **BULK SMS** tab.
 
 ![image1](/img/instruction/sms/send_sms/bulk_sms/image1.png)
 
@@ -16,13 +16,13 @@ To perform bulk SMS sending, follow the steps below:
 
 |  №  | Action |
 | :-: | ------ |
-| 1 | Select **recipients' phone numbers** from previously added address books. <br/> To create an address book and add recipient numbers to it, go to **Address Book** - [**RECIPIENTS**](/docs/instruction/sms/address_book/recipients.md) tab. |
+| 1 | Select **recipients' phone numbers** from previously added address books. <br/> To create an address book and add recipient numbers to it, go to [**RECIPIENTS**](/docs/instruction/sms/address_book/recipients.md) tab in the **Address Book** section. |
 | 2 | Enter the **Sender ID** or select from a list of previously added Sender IDs. Click the **Sender ID** field to open that list. <br/> You can also register a new **Sender ID** by clicking the **REGISTER NEW SENDER ID** button to the right of the **Sender ID** field. You will be redirected to the [**SENDER ID**](/docs/instruction/sms/send_sms/sender_id.md) tab. |
 | 3 | Select the **date** on which you want to send the message. You can enter the date manually or select it in the calendar, to do this, click the **Calendar icon** on the right side of the field. |
 | 4 | Specify the **time** to send the message. You can enter the time manually or select from the list by pressing the **Clock** icon on the right side of the field. Be sure to specify **Kyiv** time. |
 | 5 | Specify the interval **end time** for even sms mailing. You can enter the time manually or select from the list by pressing the **Clock** icon on the right side of the field. Be sure to specify **Kyiv** time. To enable evenly sms mailing, select the **Send evenly** checkbox. |
 | 6 | Check the **Send evenly** checkbox to enable evenly SMS mailing. With even mailing, messages will be sent evenly over the time interval you select. |
-| 7 | Enter the **name of the mailing** to help you easily navigate through the reports in the future |
+| 7 | Enter the **mailing name** to help you easily navigate through the reports in the future. |
 | 8 | Enter the **message text** (sign limits per message: **70** for cyrillic and **160** for latin). <br/> Use the **VARIABLE VALUE** button to add a variable to the message text. <br/> The right side of the message text input field shows the **number of entered signs** and **the number of messages** required to send the entered text. <br/> You can also switch the message text from cyrillic to latin and vice versa using the **LATIN/CYRILLIC** selector. |
 | 9 | To check what the message will be like for the recipients, you can send yourself a test SMS. To do this, **enter the number** and press **SEND**. |
 
@@ -30,7 +30,7 @@ Press **EXECUTE** to send the message.
 
 ![image2](/img/instruction/sms/send_sms/bulk_sms/image2.png)
 
-To find out how much it costs to send a text message, click **HOW MUCH IS IT?** to the right of the **EXECUTE** button.
+To check the cost of sending messages, click **HOW MUCH IS IT?** to the right of the **EXECUTE** button.
 
 ![image3](/img/instruction/sms/send_sms/bulk_sms/image3.png)
 
@@ -40,7 +40,7 @@ The **SMS Sending** pop-up window opens with detailed information about the cost
 
 ## Advanced options
 
-You can also apply additional options when you send sms. Click **Advanced options** to expand them.
+You can also apply additional options when you create a mailing. Click **Advanced options** to expand them.
 
 ![image5](/img/instruction/sms/send_sms/bulk_sms/image5.png)
 
