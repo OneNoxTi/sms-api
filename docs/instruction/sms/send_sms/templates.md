@@ -22,7 +22,7 @@ Enter the **message text** (sign limits per message: **70** for cyrillic and **1
 
 ### Additional options
 
-Use the **VARIABLE VALUE** button to add a variable to the message text. This feature will allow you to insert a name for each recipient in a bulk mailing.
+Use the **VARIABLE VALUE** button to add a variable to the message text. This feature allows you to insert a name or any other data for each recipient in a mass mailing.
 
 ![image4](/img/instruction/sms/send_sms/templates/image4.png)
 
