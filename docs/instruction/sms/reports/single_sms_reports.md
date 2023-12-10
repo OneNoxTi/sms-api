@@ -56,10 +56,10 @@ All single sms reports are located in the table on the **SINGLE SMS** tab.
 
 |  №  | Description |
 | :-: | ----------- |
-| 1 | Recipient's phone number and SMS status |
-| 2 | Sender ID |
-| 3 | Date and time of the beginning and end of the mailing |
-| 4 | Number of SMS and their price |
+| 1 | **Recipient's phone number** and **SMS status** |
+| 2 | **Sender ID** |
+| 3 | Date and time of the **beginning** and **end** of the mailing |
+| 4 | **Number of SMS** and their **price** |
 
 Click on the report to view the text of the message.
 

@@ -46,6 +46,8 @@ Click on the mailing to view the text of the message.
 
 ## Additional actions with planned mailing
 
+On the right side of the message text line there is a menu of additional actions:
+
 ![image6](/img/instruction/sms/send_sms/planner/image6.png)
 
 |  №  | Action | Description |
