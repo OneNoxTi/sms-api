@@ -16,13 +16,13 @@ To create a voice mailing, follow the steps below:
 
 |  №  | Action |
 | :-: | ------ |
-| 1 | Select **recipients' phone numbers** from previously added address books. <br/> To create an address book and add recipient numbers to it, go to [**RECIPIENTS**](/docs/instruction/sms/address_book/recipients.md) tab in the **Address Book** section. |
-| 2 | Select the **date** on which you want to send the message. You can enter the date manually or select it in the calendar, to do this, click the **Calendar icon** on the right side of the field. |
-| 3 | Specify the **time** to send the message. You can enter the time manually or select from the list by pressing the **Clock** icon on the right side of the field. Be sure to specify **Kyiv** time. |
-| 4 | Select and upload the **audioframe** file to be voiced to the recipient. Valid format **.wav**, not more than **5 MB**. |
-| 5 | Check the **Wait for subscriber to press the button** checkbox if you need to expect the recipient to press a button on the phone. |
-| 6 | Enter the **mailing name** to help you easily navigate through the reports in the future. |
-| 7 | To check what the message will be like for the recipients, you can send yourself a test SMS. To do this, **enter the number** and press **SEND**. |
+| 1 | Select **recipients' phone numbers** from previously added address books. <br/> To create an address book and add recipient numbers to it, go to [**RECIPIENTS**](/docs/instruction/sms/address_book/recipients.md) tab in the **Address Book** section |
+| 2 | Select the **date** on which you want to send the message. You can enter the date manually or select it in the calendar, to do this, click the **Calendar icon** on the right side of the field |
+| 3 | Specify the **time** to send the message. You can enter the time manually or select from the list by pressing the **Clock** icon on the right side of the field. Be sure to specify **Kyiv** time |
+| 4 | Select and upload the **audioframe** file to be voiced to the recipient. Valid format **.wav**, not more than **5 MB** |
+| 5 | Check the **Wait for subscriber to press the button** checkbox if you need to expect the recipient to press a button on the phone |
+| 6 | Enter the **mailing name** to help you easily navigate through the reports in the future |
+| 7 | To check what the message will be like for the recipients, you can send yourself a test SMS. To do this, **enter the number** and press **SEND** |
 
 Press **EXECUTE** to create a mailing.
 
@@ -44,6 +44,6 @@ You can also apply additional options when you create a mailing. Click **Advance
 
 |  №  | Option | Description |
 | :-: | ------ | ----------- |
-| 1 | **Mailing is valid until (Date)** | The date until which the mailing will be active. Messages will not be sent to recipients after the specified date and time. |
-| 2 | **Mailing is valid until (Time)** | The time until which the mailing will be active. Messages will not be sent to recipients after the specified date and time. Be sure to specify **Kyiv** time. |
-| 3 | **Send me SMS upon completion of mailing** | Upon completion of the mailing you will be sent an SMS notification. |
+| 1 | **Mailing is valid until (Date)** | The date until which the mailing will be active. Messages will not be sent to recipients after the specified date and time |
+| 2 | **Mailing is valid until (Time)** | The time until which the mailing will be active. Messages will not be sent to recipients after the specified date and time. Be sure to specify **Kyiv** time |
+| 3 | **Send me SMS upon completion of mailing** | Upon completion of the mailing you will be sent an SMS notification |
