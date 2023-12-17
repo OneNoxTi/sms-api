@@ -3,3 +3,23 @@ id: transfer
 title: Transfer
 slug: /transfer
 ---
+
+In this tab you can transfer funds from your balance to another user's balance.
+
+To open this tab, open the **Finance** section and select the **TRANSFER** tab.
+
+![image1](/img/instruction/sms/finances/transfer/image1.png)
+
+## Transfer execution
+
+To perform a fund transfer, follow the steps below:
+
+|  №  | Action |
+| :-: | ------ |
+| 1 | Enter the **recipient's username** (phone number, for example 380501234567) |
+| 2 | Enter the **amount of transfer** ( for example 50 or 49.99) |
+| 3 | Add a **note** to the transfer |
+
+Press **EXECUTE** to perform a fund transfer.
+
+![image2](/img/instruction/sms/finances/transfer/image2.png)
