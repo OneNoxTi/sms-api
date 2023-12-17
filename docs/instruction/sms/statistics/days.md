@@ -37,7 +37,7 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 ## Statistics chart
 
-This chart displays the number of sent and delivered messages for each day of the specified period.
+This chart displays the number of sent and delivered messages for each day of the [specified period](#period-selection).
 
 ![image5](/img/instruction/sms/statistics/days/image5.png)
 
@@ -51,7 +51,7 @@ All statistical data are arranged in the table in separate columns:
 
 |  №  | Description |
 | :-: | ----------- |
-| 1 | **Date** - date of sending messages|
+| 1 | **Date** - date of sending messages |
 | 2 | **Send SMS (parts)** - number of sent messages (parts) |
 | 3 | **SMS (Parts) Delivered** - number of delivered messages (parts) |
 | 4 | **Efficiency** - mailing efficiency (number of delivered messages out of the total number of sent messages ) |
