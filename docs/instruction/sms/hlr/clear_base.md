@@ -42,4 +42,4 @@ The results of the base cleanup are located in a table with the data in separate
 | 2 | **Good** | Number of valid phone numbers |
 | 3 | **Bad** | Number of invalid phone numbers |
 | 4 | **No data** | Number of telephone numbers for which data could not be obtained |
-| 5 | **Price, ₴** | Total cost of the service (in Ukrainian hryvnias) |
+| 5 | **Price, ₴** | Total cost of the service (in UAH) |
