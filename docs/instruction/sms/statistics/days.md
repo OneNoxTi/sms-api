@@ -49,10 +49,10 @@ All statistical data are arranged in the table in separate columns:
 
 ![image6](/img/instruction/sms/statistics/days/image6.png)
 
-|  №  | Description |
-| :-: | ----------- |
-| 1 | **Date** - date of sending messages |
-| 2 | **Send SMS (parts)** - number of sent messages (parts) |
-| 3 | **SMS (Parts) Delivered** - number of delivered messages (parts) |
-| 4 | **Efficiency** - mailing efficiency (number of delivered messages out of the total number of sent messages ) |
-| 5 | **SMS Price** - messaging costs |
+|  №  | Column | Description |
+| :-: | ------ | ----------- |
+| 1 | **Date** | Date of sending messages |
+| 2 | **Send SMS (parts)** | Number of sent messages (parts) |
+| 3 | **SMS (Parts) Delivered** | Number of delivered messages (parts) |
+| 4 | **Efficiency** | Mailing efficiency (number of delivered messages out of the total number of sent messages ) |
+| 5 | **SMS Price** | Messaging costs |

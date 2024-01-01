@@ -4,7 +4,7 @@ title: Black List
 slug: /black_list
 ---
 
-This tab allows you to blacklist numbers you do not want to send messages to 
+This tab allows you to blacklist numbers you do not want to send messages to.
 
 To open this tab, open the **Address Book** section and select the **BLACK LIST** tab.
 
