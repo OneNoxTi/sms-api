@@ -89,7 +89,8 @@ let instruction_list = [
           'instruction/sms/settings/profile',
           'instruction/sms/settings/api_settings',
           'instruction/sms/settings/sender_id_settings',
-          'instruction/sms/settings/template_sms'
+          'instruction/sms/settings/templates_sms',
+          'instruction/sms/settings/templates_viber'
         ]
       },
       {
