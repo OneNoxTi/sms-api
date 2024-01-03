@@ -93,13 +93,13 @@ let instruction_list = [
           'instruction/sms/settings/templates_viber'
         ]
       },
-      {
-        type: 'category',
-        label: 'Help',
-        items: [
-          'instruction/sms/help/help'
-        ]
-      }
+      // {
+      //   type: 'category',
+      //   label: 'Help',
+      //   items: [
+      //     'instruction/sms/help/help'
+      //   ]
+      // }
     ]
   },
   {
