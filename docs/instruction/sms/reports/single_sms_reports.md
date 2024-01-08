@@ -30,7 +30,7 @@ You can also find specific reports by **phone number** or **Sender ID**. To sear
 |  №  | Action |
 | :-: | ------ |
 | 1 | Specify a search parameter: <li>**By phone number**</li> <li>**By Sender ID**</li> |
-| 2 | Enter the **phone number** or **Sender ID** to search for the report |
+| 2 | Enter the **parameter value** to search for the report |
 
 Next, click **SEARCH**, the page will be refreshed and reports for the specified parameters will be displayed.
 

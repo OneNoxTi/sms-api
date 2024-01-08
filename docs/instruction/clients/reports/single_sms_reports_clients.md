@@ -39,12 +39,12 @@ After selecting a date, the page will be refreshed to display reports for the sp
 
 ## Search
 
-You can also find specific reports by **phone number**, **Sender ID** or **User** name. To search for reports, follow the steps below:
+You can also find specific reports by **phone number**, **Sender ID** or **User**. To search for reports, follow the steps below:
 
 |  №  | Action |
 | :-: | ------ |
-| 1 | Specify a search parameter: <li>**By phone number**</li> <li>**By Sender ID**</li> |
-| 2 | Enter the **phone number**, **Sender ID** or **User** name to search for the report |
+| 1 | Specify a search parameter: <li>**By phone number**</li> <li>**By Sender ID**</li> <li>**By User**</li> |
+| 2 | Enter the **parameter value** to search for the report |
 
 Next, click **SEARCH**, the page will be refreshed and reports for the specified parameters will be displayed.
 
@@ -88,7 +88,7 @@ All single sms reports are located in the table on the **SINGLE SMS** tab.
 |  №  | Description |
 | :-: | ----------- |
 | 1 | **Recipient's phone number** and **SMS status** |
-| 2 | **Company name** and **Sender ID** of client |
+| 2 | **Sender ID** and **name** of client |
 | 3 | Date and time of the **beginning** and **end** of the mailing |
 | 4 | **Number of SMS** and their **price** |
 

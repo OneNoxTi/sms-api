@@ -23,6 +23,8 @@ After selecting a date, the page will be refreshed to display reports for the sp
 
 ![image2](/img/instruction/sms/reports/bulk_sms_reports/image2.png)
 
+## Search
+
 You can also find specific reports by **name**, **content** or **Sender ID**. To search for reports, follow the steps below:
 
 |  №  | Action |
