@@ -61,6 +61,6 @@ All single sms reports are located in the table on the **SINGLE SMS** tab.
 | 3 | Date and time of the **beginning** and **end** of the mailing |
 | 4 | **Number of SMS** and their **price** |
 
-Click on the report to view the text of the message.
+Click on the **report** to view the text of the message.
 
 ![image7](/img/instruction/sms/reports/single_sms_reports/image7.png)
