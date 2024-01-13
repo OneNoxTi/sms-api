@@ -20,9 +20,9 @@ Follow the steps below:
 
 |  №  | Action |
 | :-: | ------ |
-| 1 | Select **recipients' phone numbers** from previously added address books. <br/> To create an address book and add recipient numbers to it, go to [**RECIPIENTS**](/docs/en/sms/address_book/recipients.md) tab in the **Address Book** section. |
-| 2 | Enter the **Sender ID** or select from a list of previously added Sender IDs. Click the **Sender ID** field to open that list. <br/> You can also register a new **Sender ID** by clicking the **REGISTER NEW SENDER ID** button to the right of the **Sender ID** field. You will be redirected to the [**SENDER ID**](/docs/en/sms/send_sms/sender_id.md) tab. |
-| 3 | Select when to **send** the message: on the day of the event or 1 to 14 days before the event. The date of the event is selected from the [**address book**](/docs/en/sms/address_book/recipients.md). |
+| 1 | Select **recipients' phone numbers** from previously added address books. <br/> To create an address book and add recipient numbers to it, go to [**RECIPIENTS**](/docs/instruction/sms/address_book/recipients.md) tab in the **Address Book** section. |
+| 2 | Enter the **Sender ID** or select from a list of previously added Sender IDs. Click the **Sender ID** field to open that list. <br/> You can also register a new **Sender ID** by clicking the **REGISTER NEW SENDER ID** button to the right of the **Sender ID** field. You will be redirected to the [**SENDER ID**](/docs/instruction/sms/send_sms/sender_id.md) tab. |
+| 3 | Select when to **send** the message: on the day of the event or 1 to 14 days before the event. The date of the event is selected from the [**address book**](/docs/instruction/sms/address_book/recipients.md). |
 | 4 | Specify the **time** to send the message. You can enter the time manually or select from the list by pressing the **Clock** icon on the right side of the field. Be sure to specify **Kyiv** time. |
 | 5 | Specify the interval **end time** for even sms mailing. You can enter the time manually or select from the list by pressing the **Clock** icon on the right side of the field. Be sure to specify **Kyiv** time. To enable evenly sms mailing, select the **Send evenly** checkbox. |
 | 6 | Check the **Send evenly** checkbox to enable evenly SMS mailing. With even mailing, messages will be sent evenly over the time interval you select. |

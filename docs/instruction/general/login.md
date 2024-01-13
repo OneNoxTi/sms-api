@@ -18,7 +18,7 @@ Authorize in the opened **Your Personal Account** window:
 | 2 | Enter your personal account **password** |
 
 :::info
-If you don't already have an account, you can [**register**](/docs/en/general/registration.md) in the service
+If you don't already have an account, you can [**register**](/docs/instruction/general/registration.md) in the service
 :::
 
 After entering the account information, click the **Log in** button:

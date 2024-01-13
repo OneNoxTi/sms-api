@@ -22,4 +22,4 @@ Check the data you entered and then press the **Registration** button.
 
 ![image2](/img/en/general_registration/image2.png)
 
-After successful registration, you can proceed to [**authorization**](/docs/en/general/login.md).
+After successful registration, you can proceed to [**authorization**](/docs/instruction/general/login.md).
