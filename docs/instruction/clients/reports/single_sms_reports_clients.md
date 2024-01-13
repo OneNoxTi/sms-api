@@ -8,7 +8,7 @@ In this tab, you can view a report of single sms sent by your clients. You can a
 
 To open this tab, open the **Reports** section and select the **SINGLE SMS** tab.
 
-![image1](/img/instruction/clients/reports/single_sms_reports_clients/image1.png)
+![image1](/img/en/clients_reports_single_sms/image1.png)
 
 ## Interface
 
@@ -18,11 +18,11 @@ To change the **number of entries** displayed on the reports list **page**, clic
 
 By default, up to 10 entries are displayed per page.
 
-![image2](/img/instruction/clients/reports/single_sms_reports_clients/image2.png)
+![image2](/img/en/clients_reports_single_sms/image2.png)
 
 Use the **Left** and **Right** navigation buttons at the bottom of the page to switch pages. You can also enter the number of the desired page to jump to it.
 
-![image3](/img/instruction/clients/reports/single_sms_reports_clients/image3.png)
+![image3](/img/en/clients_reports_single_sms/image3.png)
 
 ## Period selection
 
@@ -35,7 +35,7 @@ To select the **time period** for which you want to display reports, follow the 
 
 After selecting a date, the page will be refreshed to display reports for the specified period.
 
-![image4](/img/instruction/clients/reports/single_sms_reports_clients/image4.png)
+![image4](/img/en/clients_reports_single_sms/image4.png)
 
 ## Search
 
@@ -48,17 +48,17 @@ You can also find specific reports by **phone number**, **Sender ID** or **User*
 
 Next, click **SEARCH**, the page will be refreshed and reports for the specified parameters will be displayed.
 
-![image5](/img/instruction/clients/reports/single_sms_reports_clients/image5.png)
+![image5](/img/en/clients_reports_single_sms/image5.png)
 
 ## Exporting a report
 
 The report must be generated before saving, to do this, click the **Export** button icon to the right of the **SEARCH** button.
 
-![image6](/img/instruction/clients/reports/single_sms_reports_clients/image6.png)
+![image6](/img/en/clients_reports_single_sms/image6.png)
 
 After a while the report will be generated and can be downloaded by clicking the **DOWNLOAD** button icon.
 
-![image7](/img/instruction/clients/reports/single_sms_reports_clients/image7.png)
+![image7](/img/en/clients_reports_single_sms/image7.png)
 
 The report will be saved on your device in an **.xlsx** file.
 
@@ -66,7 +66,7 @@ The report will be saved on your device in an **.xlsx** file.
 
 At the top of the page are filters that allow you to display only the required reports in the table. The following filters are available:
 
-![image8](/img/instruction/clients/reports/single_sms_reports_clients/image8.png)
+![image8](/img/en/clients_reports_single_sms/image8.png)
 
 |  №  | Filter |
 | :-: | ------ |
@@ -83,7 +83,7 @@ At the top of the page are filters that allow you to display only the required r
 
 All single sms reports are located in the table on the **SINGLE SMS** tab.
 
-![image9](/img/instruction/clients/reports/single_sms_reports_clients/image9.png)
+![image9](/img/en/clients_reports_single_sms/image9.png)
 
 |  №  | Description |
 | :-: | ----------- |
@@ -94,4 +94,4 @@ All single sms reports are located in the table on the **SINGLE SMS** tab.
 
 Click on the **report** to view the text of the message.
 
-![image10](/img/instruction/clients/reports/single_sms_reports_clients/image10.png)
+![image10](/img/en/clients_reports_single_sms/image10.png)

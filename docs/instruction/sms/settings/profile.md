@@ -8,13 +8,13 @@ This tab contains basic information about your profile. You can correct or updat
 
 To open this tab, open the **Settings** section and select the **PROFILE** tab.
 
-![image1](/img/instruction/sms/settings/profile/image1.png)
+![image1](/img/en/sms_settings_profile/image1.png)
 
 ## Required information
 
 The required information on your profile contains the following data:
 
-![image2](/img/instruction/sms/settings/profile/image2.png)
+![image2](/img/en/sms_settings_profile/image2.png)
 
 |  №  | Data | Description |
 | :-: | ---- | ----------- |
@@ -31,7 +31,7 @@ The required information on your profile contains the following data:
 
 The non-required information on your profile contains the following data:
 
-![image3](/img/instruction/sms/settings/profile/image3.png)
+![image3](/img/en/sms_settings_profile/image3.png)
 
 |  №  | Data | Description |
 | :-: | ---- | ----------- |
@@ -52,13 +52,13 @@ You can also specify your current address in your profile. To do this, follow th
 | 2 | Specify a **region** |
 | 3 | Choose a **city** |
 
-![image4](/img/instruction/sms/settings/profile/image4.png)
+![image4](/img/en/sms_settings_profile/image4.png)
 
 ## SMS informers
 
 You can use SMS informers about the quote of the day, exchange rate, weather forecast. To do this, expand the block and specify the required SMS-informers.
 
-![image5](/img/instruction/sms/settings/profile/image5.png)
+![image5](/img/en/sms_settings_profile/image5.png)
 
 |  №  | SMS informer |
 | :-: | ------------ |
@@ -75,10 +75,10 @@ To change the password, expand the block and follow the steps below:
 | 1 | Enter a **new password** |
 | 2 | Repeat the **new password** |
 
-![image6](/img/instruction/sms/settings/profile/image6.png)
+![image6](/img/en/sms_settings_profile/image6.png)
 
 ## Saving changes
 
 To save all changes, press the **SAVE** button.
 
-![image7](/img/instruction/sms/settings/profile/image7.png)
+![image7](/img/en/sms_settings_profile/image7.png)

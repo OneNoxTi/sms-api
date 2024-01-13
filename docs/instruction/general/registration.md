@@ -6,7 +6,7 @@ slug: /registration
 
 To register a new personal account, go to the website and click the **Registration** button in the upper right corner of the page.
 
-![image1](/img/instruction/general/registration/image1.png)
+![image1](/img/en/general_registration/image1.png)
 
 To register in the service, perform the following actions step by step:
 
@@ -20,6 +20,6 @@ To register in the service, perform the following actions step by step:
 
 Check the data you entered and then press the **Registration** button.
 
-![image2](/img/instruction/general/registration/image2.png)
+![image2](/img/en/general_registration/image2.png)
 
-After successful registration, you can proceed to [**authorization**](/docs/instruction/general/login.md).
+After successful registration, you can proceed to [**authorization**](/docs/en/general/login.md).

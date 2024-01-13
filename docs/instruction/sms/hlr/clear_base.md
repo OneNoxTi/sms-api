@@ -8,17 +8,17 @@ In this tab you can clean up your address books leaving only valid numbers. Phon
 
 To open this tab, open the **HLR** section and select the **CLEAR BASE** tab.
 
-![image1](/img/instruction/sms/hlr/clear_base/image1.png)
+![image1](/img/en/sms_hlr_clear_base/image1.png)
 
 ## Base cleaning
 
 To clear your address book of invalid numbers, press **+ ADD**.
 
-![image2](/img/instruction/sms/hlr/clear_base/image2.png)
+![image2](/img/en/sms_hlr_clear_base/image2.png)
 
 Next, add numbers using one of the available methods:
 
-![image3](/img/instruction/sms/hlr/clear_base/image3.png)
+![image3](/img/en/sms_hlr_clear_base/image3.png)
 
 |  №  | Description |
 | :-: | ----------- |
@@ -28,13 +28,13 @@ Next, add numbers using one of the available methods:
 
 Press the **EXECUTE** button to start base clearing.
 
-![image4](/img/instruction/sms/hlr/clear_base/image4.png)
+![image4](/img/en/sms_hlr_clear_base/image4.png)
 
 ## Base clearing results
 
 The results of the base cleanup are located in a table with the data in separate columns:
 
-![image5](/img/instruction/sms/hlr/clear_base/image5.png)
+![image5](/img/en/sms_hlr_clear_base/image5.png)
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |

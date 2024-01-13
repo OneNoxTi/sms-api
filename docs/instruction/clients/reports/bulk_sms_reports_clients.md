@@ -8,7 +8,7 @@ In this tab, you can view a report of bulk sms sent by your clients. You can als
 
 To open this tab, open the **Reports** section and select the **BULK SMS** tab.
 
-![image1](/img/instruction/clients/reports/bulk_sms_reports_clients/image1.png)
+![image1](/img/en/clients_reports_bulk_sms/image1.png)
 
 ## Period selection
 
@@ -21,7 +21,7 @@ To select the **time period** for which you want to display reports, follow the 
 
 After selecting a date, the page will be refreshed to display reports for the specified period.
 
-![image2](/img/instruction/clients/reports/bulk_sms_reports_clients/image2.png)
+![image2](/img/en/clients_reports_bulk_sms/image2.png)
 
 ## Search
 
@@ -34,13 +34,13 @@ You can also find specific reports by **name**, **content**, **Sender ID** or **
 
 Next, click **SEARCH**, the page will be refreshed and reports for the specified parameters will be displayed.
 
-![image3](/img/instruction/clients/reports/bulk_sms_reports_clients/image3.png)
+![image3](/img/en/clients_reports_bulk_sms/image3.png)
 
 ## Filter
 
 At the top of the page are filters that allow you to display only the required reports in the table. The following filters are available:
 
-![image4](/img/instruction/clients/reports/bulk_sms_reports_clients/image4.png)
+![image4](/img/en/clients_reports_bulk_sms/image4.png)
 
 |  №  | Filter |
 | :-: | ------ |
@@ -58,7 +58,7 @@ At the top of the page are filters that allow you to display only the required r
 
 All bulk sms reports are located in the table on the **BULK SMS** tab.
 
-![image5](/img/instruction/clients/reports/bulk_sms_reports_clients/image5.png)
+![image5](/img/en/clients_reports_bulk_sms/image5.png)
 
 |  №  | Data |
 | :-: | ---- |
@@ -69,17 +69,17 @@ All bulk sms reports are located in the table on the **BULK SMS** tab.
 
 A special icon with the viber logo marks viber mailings.
 
-![image6](/img/instruction/clients/reports/bulk_sms_reports_clients/image6.png)
+![image6](/img/en/clients_reports_bulk_sms/image6.png)
 
 Click on the **report** to view the text of the message.
 
-![image7](/img/instruction/clients/reports/bulk_sms_reports_clients/image7.png)
+![image7](/img/en/clients_reports_bulk_sms/image7.png)
 
 ## Additional actions with mailing
 
 On the right side of the message text field there is a menu of additional actions:
 
-![image8](/img/instruction/clients/reports/bulk_sms_reports_clients/image8.png)
+![image8](/img/en/clients_reports_bulk_sms/image8.png)
 
 |  №  | Action | Description |
 | :-: | ------ | ----------- |
@@ -91,7 +91,7 @@ On the right side of the message text field there is a menu of additional action
 
 The page with the mailing report is visually divided into three blocks:
 
-![image9](/img/instruction/clients/reports/bulk_sms_reports_clients/image9.png)
+![image9](/img/en/clients_reports_bulk_sms/image9.png)
 
 |  №  | Description |
 | :-: | ----------- |
@@ -103,7 +103,7 @@ The page with the mailing report is visually divided into three blocks:
 
 Detailed information about sms mailing contains the following information:
 
-![image10](/img/instruction/clients/reports/bulk_sms_reports_clients/image10.png)
+![image10](/img/en/clients_reports_bulk_sms/image10.png)
 
 |  №  | Data | Description |
 | :-: | ---- | ----------- |
@@ -115,7 +115,7 @@ Detailed information about sms mailing contains the following information:
 | 6 | **End of sending** | Date and time of the end of mailing |
 | 7 | **The volume of sending** | Number of messages in the mailing |
 | 8 | **Sent** | Number of sent messages |
-| 9 | **Delivered** | Number of delivered messages. Press **SAVE LIST** to save the list of contacts to which the SMS has been delivered to a individual [address book](/docs/instruction/sms/address_book/recipients.md) |
+| 9 | **Delivered** | Number of delivered messages. Press **SAVE LIST** to save the list of contacts to which the SMS has been delivered to a individual [address book](/docs/en/sms/address_book/recipients.md) |
 | 10 | **DeliveredSMS** | Number of delivered SMS messages |
 | 11 | **DeliveredViber** | Number of delivered Viber messages |
 | 12 | **ReadViber** | Number of read Viber messages |
@@ -130,17 +130,17 @@ At the bottom of the mailing report page is a table that contains statistics for
 
 To find a report by a specific number, enter the number in the **search field**. Then press **[ Enter ]** on the device keyboard or the **Search button icon** on the right side of the field.
 
-![image11](/img/instruction/clients/reports/bulk_sms_reports_clients/image11.png)
+![image11](/img/en/clients_reports_bulk_sms/image11.png)
 
 You can also display only delivered messages in the table. To do this, select the **Delivered** status from the **Select status** drop-down list.
 
-![image12](/img/instruction/clients/reports/bulk_sms_reports_clients/image12.png)
+![image12](/img/en/clients_reports_bulk_sms/image12.png)
 
 #### Report table
 
 The information in the report is presented in separate columns:
 
-![image13](/img/instruction/clients/reports/bulk_sms_reports_clients/image13.png)
+![image13](/img/en/clients_reports_bulk_sms/image13.png)
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
@@ -156,6 +156,6 @@ The report must be generated before saving, to do this, click the **Export** or 
 
 After a while the report will be generated and can be downloaded by clicking the **DOWNLOAD** button.
 
-![image14](/img/instruction/clients/reports/bulk_sms_reports_clients/image14.png)
+![image14](/img/en/clients_reports_bulk_sms/image14.png)
 
 The report will be saved on your device in an **.xlsx** file.

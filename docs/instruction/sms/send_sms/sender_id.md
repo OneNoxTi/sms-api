@@ -8,13 +8,13 @@ This tab is intended for adding new sender names, as well as for editing and del
 
 To open this tab, open the **Send SMS** section and select the **SENDER ID** tab.
 
-![image1](/img/instruction/sms/send_sms/sender_id/image1.png)
+![image1](/img/en/sms_send_sms_sender_id/image1.png)
 
 ## Adding a new sender ID
 
 To add a new sender ID, click the **+ ADD** button in the upper left corner of the page.
 
-![image2](/img/instruction/sms/send_sms/sender_id/image2.png)
+![image2](/img/en/sms_send_sms_sender_id/image2.png)
 
 Follow the steps below:
 
@@ -29,13 +29,13 @@ Follow the steps below:
 
 Press **SAVE** to create a Sender ID.The new Sender ID will be displayed in the [table](#sender-id-table).
 
-![image3](/img/instruction/sms/send_sms/sender_id/image3.png)
+![image3](/img/en/sms_send_sms_sender_id/image3.png)
 
 ## Sender ID table
 
 The data is arranged in separate columns:
 
-![image4](/img/instruction/sms/send_sms/sender_id/image4.png)
+![image4](/img/en/sms_send_sms_sender_id/image4.png)
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
@@ -46,4 +46,4 @@ The data is arranged in separate columns:
 
 To delete a sender ID, check the checkbox next to the desired sender ID and click the **Delete** button icon at the top right of the table.
 
-![image5](/img/instruction/sms/send_sms/sender_id/image5.png)
+![image5](/img/en/sms_send_sms_sender_id/image5.png)

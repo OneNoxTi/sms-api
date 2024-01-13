@@ -8,7 +8,7 @@ In this tab you can view single sms reports for a specific period, as well as ex
 
 To open this tab, open the **Reports** section and select the **SINGLE SMS** tab.
 
-![image1](/img/instruction/sms/reports/single_sms_reports/image1.png)
+![image1](/img/en/sms_reports_single_sms/image1.png)
 
 ## Period selection
 
@@ -21,7 +21,7 @@ To select the **time period** for which you want to display reports, follow the 
 
 After selecting a date, the page will be refreshed to display reports for the specified period.
 
-![image2](/img/instruction/sms/reports/single_sms_reports/image2.png)
+![image2](/img/en/sms_reports_single_sms/image2.png)
 
 ## Search
 
@@ -34,17 +34,17 @@ You can also find specific reports by **phone number** or **Sender ID**. To sear
 
 Next, click **SEARCH**, the page will be refreshed and reports for the specified parameters will be displayed.
 
-![image3](/img/instruction/sms/reports/single_sms_reports/image3.png)
+![image3](/img/en/sms_reports_single_sms/image3.png)
 
 ## Exporting a report
 
 The report must be generated before saving, to do this, click the **Export** button icon to the right of the **SEARCH** button.
 
-![image4](/img/instruction/sms/reports/single_sms_reports/image4.png)
+![image4](/img/en/sms_reports_single_sms/image4.png)
 
 After a while the report will be generated and can be downloaded by clicking the **DOWNLOAD** button icon.
 
-![image5](/img/instruction/sms/reports/single_sms_reports/image5.png)
+![image5](/img/en/sms_reports_single_sms/image5.png)
 
 The report will be saved on your device in an **.xlsx** file.
 
@@ -52,7 +52,7 @@ The report will be saved on your device in an **.xlsx** file.
 
 All single sms reports are located in the table on the **SINGLE SMS** tab.
 
-![image6](/img/instruction/sms/reports/single_sms_reports/image6.png)
+![image6](/img/en/sms_reports_single_sms/image6.png)
 
 |  №  | Description |
 | :-: | ----------- |
@@ -63,4 +63,4 @@ All single sms reports are located in the table on the **SINGLE SMS** tab.
 
 Click on the **report** to view the text of the message.
 
-![image7](/img/instruction/sms/reports/single_sms_reports/image7.png)
+![image7](/img/en/sms_reports_single_sms/image7.png)

@@ -8,29 +8,29 @@ In this tab you can customize the API integration and generate a new API key. Yo
 
 To open this tab, open the **Settings** section and select the **API** tab.
 
-![image1](/img/instruction/sms/settings/api_settings/image1.png)
+![image1](/img/en/sms_settings_api/image1.png)
 
 ## API key
 
 At the top of the page in the **Your key** line is your current **API key**.
 
-![image2](/img/instruction/sms/settings/api_settings/image2.png)
+![image2](/img/en/sms_settings_api/image2.png)
 
 By default the **API key** is partially hidden, the full **API key** is only displayed immediately after generation. Therefore it is better to save the **API key** right after generation.
 
 To generate a new API key click the **Update** button icon on the right side of the **Your key** line.
 
-![image3](/img/instruction/sms/settings/api_settings/image3.png)
+![image3](/img/en/sms_settings_api/image3.png)
 
 Also to the right of the **Your key** field is a link to the integration documentation.
 
-![image4](/img/instruction/sms/settings/api_settings/image4.png)
+![image4](/img/en/sms_settings_api/image4.png)
 
 ## Settings
 
 In the **API** tab you can enable or disable the required services and protocols, as well as specify additional settings.
 
-![image5](/img/instruction/sms/settings/api_settings/image5.png)
+![image5](/img/en/sms_settings_api/image5.png)
 
 |  №  | Description |
 | :-: | ----------- |
@@ -46,8 +46,8 @@ Press the **SAVE** button to save the settings.
 
 To test an XML query, enter it in the **Text XML** field and click the **SEND** button.
 
-![image6](/img/instruction/sms/settings/api_settings/image6.png)
+![image6](/img/en/sms_settings_api/image6.png)
 
 After the query is executed, a field with the **response** is displayed on the right side of the **Text XML** field.
 
-![image7](/img/instruction/sms/settings/api_settings/image7.png)
+![image7](/img/en/sms_settings_api/image7.png)

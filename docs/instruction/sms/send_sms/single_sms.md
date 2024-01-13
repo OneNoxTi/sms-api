@@ -8,7 +8,7 @@ In this tab you can send SMS to one number or specify several numbers using comm
 
 To open this tab, open the **Send SMS** section and select the **SINGLE SMS** tab.
 
-![image1](/img/instruction/sms/send_sms/single_sms/image1.png)
+![image1](/img/en/sms_send_sms_single_sms/image1.png)
 
 ## Sending single sms
 
@@ -17,20 +17,20 @@ To send a SMS message, follow the steps below:
 |  №  | Action |
 | :-: | ------ |
 | 1 | Enter the **recipient phone number**. <br/> You can also enter multiple numbers separated by commas (e.g. 0501234567, 39371234567) |
-| 2 | Enter the **Sender ID** or select from a list of previously added Sender IDs. Click the **Sender ID** field to open that list. <br/> You can also register a new **Sender ID** by clicking the **REGISTER NEW SENDER ID** button to the right of the **Sender ID** field. You will be redirected to the [**SENDER ID**](/docs/instruction/sms/send_sms/sender_id.md) tab |
+| 2 | Enter the **Sender ID** or select from a list of previously added Sender IDs. Click the **Sender ID** field to open that list. <br/> You can also register a new **Sender ID** by clicking the **REGISTER NEW SENDER ID** button to the right of the **Sender ID** field. You will be redirected to the [**SENDER ID**](/docs/en/sms/send_sms/sender_id.md) tab |
 | 3 | Select the **date** on which you want to send the message. You can enter the date manually or select it in the calendar, to do this, click the **Calendar icon** on the right side of the field |
 | 4 | Specify the **time** to send the message. You can enter the time manually or select from the list by pressing the **Clock** icon on the right side of the field. Be sure to specify **Kyiv** time |
 | 5 | Enter the **message text** (sign limits per message: **70** for cyrillic and **160** for latin). <br/> Use the **VARIABLE VALUE** button to add a variable to the message text. <br/> The right side of the message text input field shows the **number of entered signs** and **the number of messages** required to send the entered text. <br/> You can also switch the message text from cyrillic to latin and vice versa using the **LATIN/CYRILLIC** selector |
 
 Press **EXECUTE** to send the message.
 
-![image2](/img/instruction/sms/send_sms/single_sms/image2.png)
+![image2](/img/en/sms_send_sms_single_sms/image2.png)
 
 ## Advanced options
 
 You can also apply additional options when you send sms. Click **Advanced options** to expand them.
 
-![image3](/img/instruction/sms/send_sms/single_sms/image3.png)
+![image3](/img/en/sms_send_sms_single_sms/image3.png)
 
 |  №  | Option | Description |
 | :-: | ------ | ----------- |
@@ -42,14 +42,14 @@ You can also apply additional options when you send sms. Click **Advanced option
 
 To check the cost of sending messages, click **HOW MUCH IS IT?** to the right of the **EXECUTE** button.
 
-![image4](/img/instruction/sms/send_sms/single_sms/image4.png)
+![image4](/img/en/sms_send_sms_single_sms/image4.png)
 
 The **SMS Sending** pop-up window opens with detailed information about the cost of sending the message(s).
 
-![image5](/img/instruction/sms/send_sms/single_sms/image5.png)
+![image5](/img/en/sms_send_sms_single_sms/image5.png)
 
 ## Message preview
 
 On the right side of the page is a window in the form of a mobile phone. This window shows a preview of your message as it will be received by the recipient.
 
-![image6](/img/instruction/sms/send_sms/single_sms/image6.png)
+![image6](/img/en/sms_send_sms_single_sms/image6.png)

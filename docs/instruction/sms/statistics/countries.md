@@ -8,7 +8,7 @@ In this tab you can view statistics by countries and also check the efficiency o
 
 To open this tab, open the **Statistics** section and select the **COUNTRIES** tab.
 
-![image1](/img/instruction/sms/statistics/countries/image1.png)
+![image1](/img/en/sms_statistics_countries/image1.png)
 
 ## Period selection
 
@@ -21,17 +21,17 @@ To select the **time period** for which you want to display statistic, follow th
 
 After selecting a date, click the **SEARCH** button. The page will be refreshed and display statistics for the specified period.
 
-![image2](/img/instruction/sms/statistics/countries/image2.png)
+![image2](/img/en/sms_statistics_countries/image2.png)
 
 ## Exporting a report
 
 To export statistical reporting click the **Export** button icon to the right of the **SEARCH** button.
 
-![image3](/img/instruction/sms/statistics/countries/image3.png)
+![image3](/img/en/sms_statistics_countries/image3.png)
 
 A new pop-up window will open where you need to select the data you want to export. After selecting the data, click the **EXPORT** button to export. To cancel, click the **CANCEL** button.
 
-![image4](/img/instruction/sms/statistics/countries/image4.png)
+![image4](/img/en/sms_statistics_countries/image4.png)
 
 After pressing the **EXPORT** button, the report will be saved on your device in an **.xlsx** file.
 
@@ -39,13 +39,13 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 This chart displays the number of sent messages for each country. Statistics are displayed for the [specified period](#period-selection).
 
-![image5](/img/instruction/sms/statistics/countries/image5.png)
+![image5](/img/en/sms_statistics_countries/image5.png)
 
 ## Statistics table
 
 All statistical data are arranged in the table in separate columns:
 
-![image6](/img/instruction/sms/statistics/countries/image6.png)
+![image6](/img/en/sms_statistics_countries/image6.png)
 
 |  №  | Description |
 | :-: | ----------- |

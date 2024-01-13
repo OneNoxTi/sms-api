@@ -8,7 +8,7 @@ In this tab you can create a mailing of voice messages. The recipient will recei
 
 To open this tab, open the **Send SMS** section and select the **VOICE MAILING** tab.
 
-![image1](/img/instruction/sms/send_sms/voice_mailing/image1.png)
+![image1](/img/en/sms_send_sms_voice_mailing/image1.png)
 
 ## Creating a voice mailing
 
@@ -16,7 +16,7 @@ To create a voice mailing, follow the steps below:
 
 |  №  | Action |
 | :-: | ------ |
-| 1 | Select **recipients' phone numbers** from previously added address books. <br/> To create an address book and add recipient numbers to it, go to [**RECIPIENTS**](/docs/instruction/sms/address_book/recipients.md) tab in the **Address Book** section |
+| 1 | Select **recipients' phone numbers** from previously added address books. <br/> To create an address book and add recipient numbers to it, go to [**RECIPIENTS**](/docs/en/sms/address_book/recipients.md) tab in the **Address Book** section |
 | 2 | Select the **date** on which you want to send the message. You can enter the date manually or select it in the calendar, to do this, click the **Calendar icon** on the right side of the field |
 | 3 | Specify the **time** to send the message. You can enter the time manually or select from the list by pressing the **Clock** icon on the right side of the field. Be sure to specify **Kyiv** time |
 | 4 | Select and upload the **audioframe** file to be voiced to the recipient. Valid format **.wav**, not more than **5 MB** |
@@ -26,21 +26,21 @@ To create a voice mailing, follow the steps below:
 
 Press **EXECUTE** to create a mailing.
 
-![image2](/img/instruction/sms/send_sms/voice_mailing/image2.png)
+![image2](/img/en/sms_send_sms_voice_mailing/image2.png)
 
 To check the cost of sending messages, click **HOW MUCH IS IT?** to the right of the **EXECUTE** button.
 
-![image3](/img/instruction/sms/send_sms/voice_mailing/image3.png)
+![image3](/img/en/sms_send_sms_voice_mailing/image3.png)
 
 The **SMS Sending** pop-up window opens with detailed information about the cost of sending the message(s).
 
-![image4](/img/instruction/sms/send_sms/voice_mailing/image4.png)
+![image4](/img/en/sms_send_sms_voice_mailing/image4.png)
 
 ## Advanced options
 
 You can also apply additional options when you create a mailing. Click **Advanced options** to expand them.
 
-![image5](/img/instruction/sms/send_sms/voice_mailing/image5.png)
+![image5](/img/en/sms_send_sms_voice_mailing/image5.png)
 
 |  №  | Option | Description |
 | :-: | ------ | ----------- |

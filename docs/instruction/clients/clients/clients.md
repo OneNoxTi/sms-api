@@ -8,7 +8,7 @@ This section contains a list of your clients with detailed information about the
 
 To open this section, select **Clients** from the side menu.
 
-![image1](/img/instruction/clients/clients/image1.png)
+![image1](/img/en/clients_clients/image1.png)
 
 ## Interface
 
@@ -18,23 +18,23 @@ To change the **number of entries** displayed on the client list **page**, click
 
 By default, up to 10 entries are displayed per page.
 
-![image2](/img/instruction/clients/clients/image2.png)
+![image2](/img/en/clients_clients/image2.png)
 
 Use the **Left** and **Right** navigation buttons at the bottom of the page to switch pages. You can also enter the number of the desired page to jump to it.
 
-![image3](/img/instruction/clients/clients/image3.png)
+![image3](/img/en/clients_clients/image3.png)
 
 ## Search
 
 To search for a specific client, enter the desired value in the **User search** field and press the Search button icon or **[ Enter ]** key. You can search for a client by **ID**, **login**, **company name** or **client name**.
 
-![image4](/img/instruction/clients/clients/image4.png)
+![image4](/img/en/clients_clients/image4.png)
 
 ## Client table
 
 The table contains a list of clients with detailed information about them. The data is arranged in separate columns.
 
-![image5](/img/instruction/clients/clients/image5.png)
+![image5](/img/en/clients_clients/image5.png)
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
@@ -51,11 +51,11 @@ The table contains a list of clients with detailed information about them. The d
 
 To view the client page, in the table, click on the row of the desired client.
 
-![image6](/img/instruction/clients/clients/image6.png)
+![image6](/img/en/clients_clients/image6.png)
 
 The **client page** contains the following tabs:
 
-![image7](/img/instruction/clients/clients/image7.png)
+![image7](/img/en/clients_clients/image7.png)
 
 |  №  | Tab | Description |
 | :-: | --- | ----------- |
@@ -68,7 +68,7 @@ The **client page** contains the following tabs:
 
 The **GENERAL INFO** tab contains the following information about the client:
 
-![image8](/img/instruction/clients/clients/image8.png)
+![image8](/img/en/clients_clients/image8.png)
 
 |  №  | Data | Description |
 | :-: | ---- | ----------- |
@@ -89,13 +89,13 @@ The **GENERAL INFO** tab contains the following information about the client:
 
 To enable/disable the client's SMS subscription, check the **SMS subscription** checkbox (or uncheck it). Then press **SAVE**.
 
-![image9](/img/instruction/clients/clients/image9.png)
+![image9](/img/en/clients_clients/image9.png)
 
 ### Finance
 
 The top left of the **FINANCE** tab shows the current account balance and credit balance.
 
-![image10](/img/instruction/clients/clients/image10.png)
+![image10](/img/en/clients_clients/image10.png)
 
 #### Set credit
 
@@ -108,7 +108,7 @@ Follow the steps below to set the credit balance:
 
 Press the **SAVE** button to save your changes.
 
-![image11](/img/instruction/clients/clients/image11.png)
+![image11](/img/en/clients_clients/image11.png)
 
 #### Top up account
 
@@ -121,7 +121,7 @@ Follow the steps below to top up your client's account:
 
 Press the **SAVE** button to top up.
 
-![image12](/img/instruction/clients/clients/image12.png)
+![image12](/img/en/clients_clients/image12.png)
 
 #### Period selection
 
@@ -134,13 +134,13 @@ To select the **time period** for which you want to display the transaction hist
 
 After selecting a date, the page will be refresh and display the transaction history for the specified period.
 
-![image13](/img/instruction/clients/clients/image13.png)
+![image13](/img/en/clients_clients/image13.png)
 
 #### Transactions list
 
 All transaction history of the account balance are located in the table in separate columns:
 
-![image14](/img/instruction/clients/clients/image14.png)
+![image14](/img/en/clients_clients/image14.png)
 
 |  №  | Description |
 | :-: | ----------- |
@@ -154,7 +154,7 @@ All transaction history of the account balance are located in the table in separ
 
 To export transaction history click the **Export** button icon.
 
-![image15](/img/instruction/clients/clients/image15.png)
+![image15](/img/en/clients_clients/image15.png)
 
 After pressing the **Export** button icon, the report will be saved on your device in an **.xlsx** file.
 
@@ -168,7 +168,7 @@ In this report you can view statistics by day and also check the efficiency of t
 
 To open this report, open the **STATISTICS** tab and select the **GROUPING BY DAY** report.
 
-![image16](/img/instruction/clients/clients/image16.png)
+![image16](/img/en/clients_clients/image16.png)
 
 ##### Period selection
 
@@ -181,17 +181,17 @@ To select the **time period** for which you want to display statistic, follow th
 
 After selecting a date, click the **SEARCH** button. The page will be refreshed and display statistics for the specified period.
 
-![image17](/img/instruction/clients/clients/image17.png)
+![image17](/img/en/clients_clients/image17.png)
 
 ##### Exporting a report
 
 To export statistical reporting click the **Export** button icon to the right of the **SEARCH** button.
 
-![image18](/img/instruction/clients/clients/image18.png)
+![image18](/img/en/clients_clients/image18.png)
 
 A new pop-up window will open where you need to select the data you want to export. After selecting the data, click the **EXPORT** button to export. To cancel, click the **CANCEL** button.
 
-![image19](/img/instruction/clients/clients/image19.png)
+![image19](/img/en/clients_clients/image19.png)
 
 After pressing the **EXPORT** button, the report will be saved on your device in an **.xlsx** file.
 
@@ -199,7 +199,7 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 This chart displays the number of sent and delivered messages for each day of the specified period.
 
-![image20](/img/instruction/clients/clients/image20.png)
+![image20](/img/en/clients_clients/image20.png)
 
 **Blue plot** - number of messages sent. **Purple plot** - number of delivered messages.
 
@@ -207,7 +207,7 @@ This chart displays the number of sent and delivered messages for each day of th
 
 All statistical data are arranged in the table in separate columns:
 
-![image21](/img/instruction/clients/clients/image21.png)
+![image21](/img/en/clients_clients/image21.png)
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
@@ -223,7 +223,7 @@ In this report you can view statistics by operators and also check the efficienc
 
 To open this report, open the **STATISTICS** tab and select the **GROUPING BY OPERATOR** report.
 
-![image22](/img/instruction/clients/clients/image22.png)
+![image22](/img/en/clients_clients/image22.png)
 
 ##### Period selection
 
@@ -236,17 +236,17 @@ To select the **time period** for which you want to display statistic, follow th
 
 After selecting a date, click the **SEARCH** button. The page will be refreshed and display statistics for the specified period.
 
-![image23](/img/instruction/clients/clients/image23.png)
+![image23](/img/en/clients_clients/image23.png)
 
 ##### Exporting a report
 
 To export statistical reporting click the **Export** button icon to the right of the **SEARCH** button.
 
-![image24](/img/instruction/clients/clients/image24.png)
+![image24](/img/en/clients_clients/image24.png)
 
 A new pop-up window will open where you need to select the data you want to export. After selecting the data, click the **EXPORT** button to export. To cancel, click the **CANCEL** button.
 
-![image25](/img/instruction/clients/clients/image25.png)
+![image25](/img/en/clients_clients/image25.png)
 
 After pressing the **EXPORT** button, the report will be saved on your device in an **.xlsx** file.
 
@@ -254,13 +254,13 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 This chart displays the number of sent messages for each operator. Statistics are displayed for the specified period.
 
-![image26](/img/instruction/clients/clients/image26.png)
+![image26](/img/en/clients_clients/image26.png)
 
 ##### Statistics table
 
 All statistical data are arranged in the table in separate columns:
 
-![image27](/img/instruction/clients/clients/image27.png)
+![image27](/img/en/clients_clients/image27.png)
 
 |  №  | Description |
 | :-: | ----------- |
@@ -276,7 +276,7 @@ In this report you can view statistics by sender id and also check the efficienc
 
 To open this report, open the **STATISTICS** tab and select the **GROUPING BY SENDER ID** report.
 
-![image28](/img/instruction/clients/clients/image28.png)
+![image28](/img/en/clients_clients/image28.png)
 
 ##### Period selection
 
@@ -289,17 +289,17 @@ To select the **time period** for which you want to display statistic, follow th
 
 After selecting a date, click the **SEARCH** button. The page will be refreshed and display statistics for the specified period.
 
-![image29](/img/instruction/clients/clients/image29.png)
+![image29](/img/en/clients_clients/image29.png)
 
 ##### Exporting a report
 
 To export statistical reporting click the **Export** button icon to the right of the **SEARCH** button.
 
-![image30](/img/instruction/clients/clients/image30.png)
+![image30](/img/en/clients_clients/image30.png)
 
 A new pop-up window will open where you need to select the data you want to export. After selecting the data, click the **EXPORT** button to export. To cancel, click the **CANCEL** button.
 
-![image31](/img/instruction/clients/clients/image31.png)
+![image31](/img/en/clients_clients/image31.png)
 
 After pressing the **EXPORT** button, the report will be saved on your device in an **.xlsx** file.
 
@@ -307,13 +307,13 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 This chart displays the number of sent messages for each sender ID. Statistics are displayed for the specified period.
 
-![image32](/img/instruction/clients/clients/image32.png)
+![image32](/img/en/clients_clients/image32.png)
 
 ##### Statistics table
 
 All statistical data are arranged in the table in separate columns:
 
-![image33](/img/instruction/clients/clients/image33.png)
+![image33](/img/en/clients_clients/image33.png)
 
 |  №  | Description |
 | :-: | ----------- |
@@ -329,7 +329,7 @@ In this report you can view statistics by viber sender id and also check the eff
 
 To open this report, open the **STATISTICS** tab and select the **GROUPING BY VIBER SENDER ID** report.
 
-![image34](/img/instruction/clients/clients/image34.png)
+![image34](/img/en/clients_clients/image34.png)
 
 ##### Period selection
 
@@ -342,17 +342,17 @@ To select the **time period** for which you want to display statistic, follow th
 
 After selecting a date, click the **SEARCH** button. The page will be refreshed and display statistics for the specified period.
 
-![image35](/img/instruction/clients/clients/image35.png)
+![image35](/img/en/clients_clients/image35.png)
 
 ##### Exporting a report
 
 To export statistical reporting click the **Export** button icon to the right of the **SEARCH** button.
 
-![image36](/img/instruction/clients/clients/image36.png)
+![image36](/img/en/clients_clients/image36.png)
 
 A new pop-up window will open where you need to select the data you want to export. After selecting the data, click the **EXPORT** button to export. To cancel, click the **CANCEL** button.
 
-![image37](/img/instruction/clients/clients/image37.png)
+![image37](/img/en/clients_clients/image37.png)
 
 After pressing the **EXPORT** button, the report will be saved on your device in an **.xlsx** file.
 
@@ -360,13 +360,13 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 This chart displays the number of sent viber messages for each sender ID. Statistics are displayed for the [specified period](#period-selection).
 
-![image38](/img/instruction/clients/clients/image38.png)
+![image38](/img/en/clients_clients/image38.png)
 
 ##### Statistics table
 
 All statistical data are arranged in the table in separate columns:
 
-![image39](/img/instruction/clients/clients/image39.png)
+![image39](/img/en/clients_clients/image39.png)
 
 |  №  | Description |
 | :-: | ----------- |
@@ -382,7 +382,7 @@ In this report you can view statistics by country and also check the efficiency 
 
 To open this report, open the **STATISTICS** tab and select the **GROUPING BY COUNTRY** report.
 
-![image40](/img/instruction/clients/clients/image40.png)
+![image40](/img/en/clients_clients/image40.png)
 
 ##### Period selection
 
@@ -395,17 +395,17 @@ To select the **time period** for which you want to display statistic, follow th
 
 After selecting a date, click the **SEARCH** button. The page will be refreshed and display statistics for the specified period.
 
-![image41](/img/instruction/clients/clients/image41.png)
+![image41](/img/en/clients_clients/image41.png)
 
 ##### Exporting a report
 
 To export statistical reporting click the **Export** button icon to the right of the **SEARCH** button.
 
-![image42](/img/instruction/clients/clients/image42.png)
+![image42](/img/en/clients_clients/image42.png)
 
 A new pop-up window will open where you need to select the data you want to export. After selecting the data, click the **EXPORT** button to export. To cancel, click the **CANCEL** button.
 
-![image43](/img/instruction/clients/clients/image43.png)
+![image43](/img/en/clients_clients/image43.png)
 
 After pressing the **EXPORT** button, the report will be saved on your device in an **.xlsx** file.
 
@@ -413,13 +413,13 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 This chart displays the number of sent messages for each country. Statistics are displayed for the [specified period](#period-selection).
 
-![image44](/img/instruction/clients/clients/image44.png)
+![image44](/img/en/clients_clients/image44.png)
 
 ##### Statistics table
 
 All statistical data are arranged in the table in separate columns:
 
-![image45](/img/instruction/clients/clients/image45.png)
+![image45](/img/en/clients_clients/image45.png)
 
 |  №  | Description |
 | :-: | ----------- |
@@ -435,7 +435,7 @@ The **NAMES** tab contains a list of client sender id's with detailed informatio
 
 All client sender id's are located in a table with separate columns:
 
-![image46](/img/instruction/clients/clients/image46.png)
+![image46](/img/en/clients_clients/image46.png)
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
