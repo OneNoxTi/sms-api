@@ -6,7 +6,7 @@ slug: /api_reports_clients
 
 In this tab, you can view reports on messages sent by your customers through the API. You can also export the report to an xlsx file.
 
-To open this tab, open the **Reports** section and select the **API** tab.
+To open this tab, select **Clients** → **Reports** in the side menu and select **API** tab.
 
 ![image1](/img/en/clients_reports_api/image1.png)
 

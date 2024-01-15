@@ -6,7 +6,7 @@ slug: /sender_id_statistics_clients
 
 In this tab, you can view statistics on your clients' Sender IDs and check the effectiveness of their mailing.
 
-To open this tab, open the **Statistics** section and select the **SENDER IDS** tab.
+To open this tab, select **Clients** → **Statistics** in the side menu and select **SENDER IDS** tab.
 
 ![image1](/img/en/clients_statistics_sender_ids/image1.png)
 

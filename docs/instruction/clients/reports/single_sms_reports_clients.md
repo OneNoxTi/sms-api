@@ -6,7 +6,7 @@ slug: /single_sms_reports_clients
 
 In this tab, you can view a report of single sms sent by your clients. You can also export the report to an xlsx file.
 
-To open this tab, open the **Reports** section and select the **SINGLE SMS** tab.
+To open this tab, select **Clients** → **Reports** in the side menu and select **SINGLE SMS** tab.
 
 ![image1](/img/en/clients_reports_single_sms/image1.png)
 

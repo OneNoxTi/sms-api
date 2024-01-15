@@ -6,7 +6,7 @@ slug: /payment
 
 In this tab you can top up your account balance online or by invoice.
 
-To open this tab, open the **Finance** section and select the **PAYMENT** tab.
+To open this tab, select **SMS** → **Finance** in the side menu and select **PAYMENT** tab.
 
 ![image1](/img/en/sms_finances_payment/image1.png)
 

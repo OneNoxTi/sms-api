@@ -6,7 +6,7 @@ slug: /operators_clients
 
 In this tab you can view statistics on your clients' operators and check the effectiveness of their mailings.
 
-To open this tab, open the **Statistics** section and select the **OPERATORS** tab.
+To open this tab, select **Clients** → **Statistics** in the side menu and select **OPERATORS** tab.
 
 ![image1](/img/en/clients_statistics_operators/image1.png)
 

@@ -6,7 +6,7 @@ slug: /templates_sms
 
 This tab is intended for adding new SMS templates, as well as for editing and deleting existing templates.
 
-To open this tab, open the **Settings** section and select the **TEMPLATES SMS** tab.
+To open this tab, select **SMS** → **Settings** in the side menu and select **TEMPLATES SMS** tab.
 
 ![image1](/img/en/sms_settings_templates_sms/image1.png)
 

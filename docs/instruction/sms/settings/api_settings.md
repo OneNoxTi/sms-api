@@ -6,7 +6,7 @@ slug: /api_settings
 
 In this tab you can customize the API integration and generate a new API key. You can also send a test XML request to the specified address.
 
-To open this tab, open the **Settings** section and select the **API** tab.
+To open this tab, select **SMS** → **Settings** in the side menu and select **API** tab.
 
 ![image1](/img/en/sms_settings_api/image1.png)
 

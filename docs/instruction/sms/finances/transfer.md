@@ -6,7 +6,7 @@ slug: /transfer
 
 In this tab you can transfer funds from your balance to another user's balance.
 
-To open this tab, open the **Finance** section and select the **TRANSFER** tab.
+To open this tab, select **SMS** → **Finance** in the side menu and select **TRANSFER** tab.
 
 ![image1](/img/en/sms_finances_transfer/image1.png)
 

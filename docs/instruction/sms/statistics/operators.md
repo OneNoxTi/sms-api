@@ -6,7 +6,7 @@ slug: /operators
 
 In this tab you can view statistics by operators and also check the efficiency of the mailing.
 
-To open this tab, open the **Statistics** section and select the **OPERATORS** tab.
+To open this tab, select **SMS** → **Statistics** in the side menu and select **OPERATORS** tab.
 
 ![image1](/img/en/sms_statistics_operators/image1.png)
 

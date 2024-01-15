@@ -6,7 +6,7 @@ slug: /single_sms_reports
 
 In this tab you can view single sms reports for a specific period, as well as export the report to an xlsx file.
 
-To open this tab, open the **Reports** section and select the **SINGLE SMS** tab.
+To open this tab, select **SMS** → **Reports** in the side menu and select **SINGLE SMS** tab.
 
 ![image1](/img/en/sms_reports_single_sms/image1.png)
 

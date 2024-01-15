@@ -6,7 +6,7 @@ slug: /bulk_sms_reports
 
 In this tab you can view bulk sms reports for a specific period, as well as export the report to an xlsx file.
 
-To open this tab, open the **Reports** section and select the **BULK SMS** tab.
+To open this tab, select **SMS** → **Reports** in the side menu and select **BULK SMS** tab.
 
 ![image1](/img/en/sms_reports_bulk_sms/image1.png)
 

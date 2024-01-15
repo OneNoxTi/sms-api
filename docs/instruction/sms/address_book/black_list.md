@@ -6,7 +6,7 @@ slug: /black_list
 
 This tab allows you to blacklist numbers you do not want to send messages to.
 
-To open this tab, open the **Address Book** section and select the **BLACK LIST** tab.
+To open this tab, select **SMS** → **Address Book** in the side menu and select **BLACK LIST** tab.
 
 ![image1](/img/en/sms_address_book_black_list/image1.png)
 

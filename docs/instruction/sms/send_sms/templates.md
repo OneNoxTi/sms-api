@@ -6,7 +6,7 @@ slug: /templates
 
 This tab is intended for creating message templates, as well as for editing and deleting already existing templates.
 
-To open this tab, open the **Send SMS** section and select the **TEMPLATES** tab.
+To open this tab, select **SMS** → **Send SMS** in the side menu and select **TEMPLATES** tab.
 
 ![image1](/img/en/sms_send_sms_templates/image1.png)
 

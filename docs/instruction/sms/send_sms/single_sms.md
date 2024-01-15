@@ -6,7 +6,7 @@ slug: /single_sms
 
 In this tab you can send SMS to one number or specify several numbers using comma.
 
-To open this tab, open the **Send SMS** section and select the **SINGLE SMS** tab.
+To open this tab, select **SMS** → **Send SMS** in the side menu and select **SINGLE SMS** tab.
 
 ![image1](/img/en/sms_send_sms_single_sms/image1.png)
 

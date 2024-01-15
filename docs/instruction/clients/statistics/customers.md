@@ -6,7 +6,7 @@ slug: /customers
 
 On this tab you can view statistics on your clients' mailings and check the effectiveness of their mailings.
 
-To open this tab, open the **Statistics** section and select the **CUSTOMERS** tab.
+To open this tab, select **Clients** → **Statistics** in the side menu and select **CUSTOMERS** tab.
 
 ![image1](/img/en/clients_statistics_customers/image1.png)
 

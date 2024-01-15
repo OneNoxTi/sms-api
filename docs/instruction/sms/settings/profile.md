@@ -6,7 +6,7 @@ slug: /profile
 
 This tab contains basic information about your profile. You can correct or update it at any time, and you can also change your password. You can use SMS-informers about the quote of the day, currency exchange rate, weather forecast.
 
-To open this tab, open the **Settings** section and select the **PROFILE** tab.
+To open this tab, select **SMS** → **Settings** in the side menu and select **PROFILE** tab.
 
 ![image1](/img/en/sms_settings_profile/image1.png)
 

@@ -6,7 +6,7 @@ slug: /bulk_sms
 
 In this tab you can send bulk SMS to many numbers at the same time.
 
-To open this tab, open the **Send SMS** section and select the **BULK SMS** tab.
+To open this tab, select **SMS** → **Send SMS** in the side menu and select **BULK SMS** tab.
 
 ![image1](/img/en/sms_send_sms_bulk_sms/image1.png)
 

@@ -6,7 +6,7 @@ slug: /viber_sender_id
 
 In this tab you can view statistics by sender ID's and also check the efficiency of the viber mailing.
 
-To open this tab, open the **Statistics** section and select the **VIBER SENDER ID** tab.
+To open this tab, select **SMS** → **Statistics** in the side menu and select **VIBER SENDER ID** tab.
 
 ![image1](/img/en/sms_statistics_viber_sender_id/image1.png)
 

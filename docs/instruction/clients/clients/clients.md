@@ -6,7 +6,7 @@ slug: /clients
 
 This section contains a list of your clients with detailed information about them. Also in this section you can view detailed statistics of the client, as well as manage the balance of his account.
 
-To open this section, select **Clients** from the side menu.
+To open this section, select **Clients** → **Clients** in the side menu.
 
 ![image1](/img/en/clients_clients/image1.png)
 

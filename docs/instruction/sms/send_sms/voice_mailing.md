@@ -6,7 +6,7 @@ slug: /voice_mailing
 
 In this tab you can create a mailing of voice messages. The recipient will receive a phone call in which they will hear your recorded voice message.
 
-To open this tab, open the **Send SMS** section and select the **VOICE MAILING** tab.
+To open this tab, select **SMS** → **Send SMS** in the side menu and select **VOICE MAILING** tab.
 
 ![image1](/img/en/sms_send_sms_voice_mailing/image1.png)
 

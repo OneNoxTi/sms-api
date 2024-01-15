@@ -6,7 +6,7 @@ slug: /planner
 
 In this tab you can plan mailings on specific dates. You can use the service for birthday greetings, congratulations on all kinds of holidays, various promotions, quizzes, bonus programs. To do this, you only need to correct the data in your address book.
 
-To open this tab, open the **Send SMS** section and select the **PLANNER** tab.
+To open this tab, select **SMS** → **Send SMS** in the side menu and select **PLANNER** tab.
 
 ![image1](/img/en/sms_send_sms_planner/image1.png)
 

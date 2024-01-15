@@ -6,7 +6,7 @@ slug: /countries
 
 In this tab you can view statistics by countries and also check the efficiency of the mailing.
 
-To open this tab, open the **Statistics** section and select the **COUNTRIES** tab.
+To open this tab, select **SMS** → **Statistics** in the side menu and select **COUNTRIES** tab.
 
 ![image1](/img/en/sms_statistics_countries/image1.png)
 

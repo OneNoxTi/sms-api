@@ -6,7 +6,7 @@ slug: /sender_id
 
 This tab is intended for adding new sender names, as well as for editing and deleting existing sender names. These names are used for sending messages.
 
-To open this tab, open the **Send SMS** section and select the **SENDER ID** tab.
+To open this tab, select **SMS** → **Send SMS** in the side menu and select **SENDER ID** tab.
 
 ![image1](/img/en/sms_send_sms_sender_id/image1.png)
 

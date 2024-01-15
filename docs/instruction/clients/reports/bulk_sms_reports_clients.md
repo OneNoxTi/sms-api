@@ -6,7 +6,7 @@ slug: /bulk_sms_reports_clients
 
 In this tab, you can view a report of bulk sms sent by your clients. You can also export the report to an xlsx file.
 
-To open this tab, open the **Reports** section and select the **BULK SMS** tab.
+To open this tab, select **Clients** → **Reports** in the side menu and select **BULK SMS** tab.
 
 ![image1](/img/en/clients_reports_bulk_sms/image1.png)
 

@@ -6,7 +6,7 @@ slug: /api_reports
 
 On this tab you can view reports about messages sent via API. You can also export the report to an xlsx file.
 
-To open this tab, open the **Reports** section and select the **API** tab.
+To open this tab, select **SMS** → **Reports** in the side menu and select **API** tab.
 
 ![image1](/img/en/sms_reports_api/image1.png)
 

@@ -6,7 +6,7 @@ slug: /clear_base
 
 In this tab you can clean up your address books leaving only valid numbers. Phones will be cleared using operator logs of bulk messaging. You pay only for numbers that were found.
 
-To open this tab, open the **HLR** section and select the **CLEAR BASE** tab.
+To open this tab, select **SMS** → **HLR** in the side menu and select **CLEAR BASE** tab.
 
 ![image1](/img/en/sms_hlr_clear_base/image1.png)
 

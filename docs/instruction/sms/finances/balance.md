@@ -6,7 +6,7 @@ slug: /balance
 
 In this tab you can view the transaction history of the wallet balance for a certain period.
 
-To open this tab, open the **Finance** section and select the **BALANCE** tab.
+To open this tab, select **SMS** → **Finance** in the side menu and select **BALANCE** tab.
 
 ![image1](/img/en/sms_finances_balance/image1.png)
 

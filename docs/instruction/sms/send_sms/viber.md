@@ -6,7 +6,7 @@ slug: /viber
 
 In this tab you can send messages via Viber to one or more numbers. You can also create bulk Viber messages. Messages can contain text and image, or a combination of text, image and button.
 
-To open this tab, open the **Send SMS** section and select the **VIBER** tab.
+To open this tab, select **SMS** → **Send SMS** in the side menu and select **VIBER** tab.
 
 ![image1](/img/en/sms_send_sms_viber/image1.png)
 
