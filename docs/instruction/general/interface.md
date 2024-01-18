@@ -36,7 +36,12 @@ To select the interface language, use the proper button on the right side of the
 
 ![image3](/img/en/general_interface/image3.png)
 
-You can choose from two available interface languages: **EN** – English language, **RU** – Russian language.
+You can choose from two available interface languages:
+
+* **RU** – Russian language;
+* **UK** – Ukrainian language;
+* **EN** – English language;
+* **PT** – Portuguese language.
 
 ## Side menu
 
