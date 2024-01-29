@@ -165,17 +165,9 @@ let instruction_list = [
       },
       {
         type: 'category',
-        label: 'Software',
-        items: [
-          'instruction/clients/software/software_versions',
-          'instruction/clients/software/about'
-        ]
-      },
-      {
-        type: 'category',
         label: 'Mailing',
         items: [
-          'instruction/clients/mailing/sms_sending'
+          'instruction/clients/mailing/email_mailing'
         ]
       },
       {
