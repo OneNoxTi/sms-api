@@ -12,7 +12,7 @@ To open this tab, select **Clients** → **Pages** in the side menu.
 
 ## Adding a page
 
-To new a page, click the **+ ADD** button in the upper left corner of the page.
+To add a new page, click the **+ ADD** button in the upper left corner of the page.
 
 ![image2](/img/en/clients_pages/image2.png)
 
