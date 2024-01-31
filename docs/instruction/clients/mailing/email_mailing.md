@@ -6,7 +6,7 @@ slug: /email_mailing
 
 In this tab, you can send emails to the site's clients.
 
-To open this tab, select **Clients** → **Mailing** in the side menu and select **Email Mailing** tab.
+To open this tab, select **Clients** → **Mailing** in the side menu and select **EMAIL MAILING** tab.
 
 ![image1](/img/en/clients_mailing_email_mailing/image1.png)
 

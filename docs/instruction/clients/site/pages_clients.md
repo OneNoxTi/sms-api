@@ -6,7 +6,7 @@ slug: /pages_clients
 
 In this tab you can customize the structure of the site's information pages. You can add new pages, as well as edit and delete pages already created.
 
-To open this tab, select **Clients** → **Site** in the side menu and select **Pages** tab.
+To open this tab, select **Clients** → **Site** in the side menu and select **PAGES** tab.
 
 ![image1](/img/en/clients_site_pages/image1.png)
 
