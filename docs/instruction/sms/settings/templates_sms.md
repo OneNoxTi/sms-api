@@ -34,14 +34,20 @@ You can also switch the message text from cyrillic to latin and vice versa using
 
 ![image6](/img/en/sms_settings_templates_sms/image6.png)
 
+## Template search
+
+To find the required template, enter its name in the **Search field** and press the **Search** button icon or the **[ ENTER ]** button.
+
+![image7](/img/en/sms_settings_templates_sms/image7.png)
+
 ## Template list
 
 All added templates are displayed in the **My templates** list.
 
-![image7](/img/en/sms_settings_templates_sms/image7.png)
+![image8](/img/en/sms_settings_templates_sms/image8.png)
 
 ## Deleting template
 
 To delete a template, check the checkbox next to the desired template and click the **Delete** button icon at the top right of the table.
 
-![image8](/img/en/sms_settings_templates_sms/image8.png)
+![image9](/img/en/sms_settings_templates_sms/image9.png)
