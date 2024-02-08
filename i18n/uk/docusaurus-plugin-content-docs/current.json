@@ -1,0 +1,47 @@
+{
+  "sidebar.instruction_list.category.General info": {
+    "message": "Загальна інформація"
+  },
+  "sidebar.instruction_list.category.Send SMS": {
+    "message": "Розсилка"
+  },
+  "sidebar.instruction_list.category.Reports": {
+    "message": "Звіти"
+  },
+  "sidebar.instruction_list.category.Finances": {
+    "message": "Фінанси"
+  },
+  "sidebar.instruction_list.category.Statistics": {
+    "message": "Аналітика"
+  },
+  "sidebar.instruction_list.category.Incoming SMS": {
+    "message": "Вхідні СМС"
+  },
+  "sidebar.instruction_list.category.Address Book": {
+    "message": "Адресна книга"
+  },
+  "sidebar.instruction_list.category.HLR": {
+    "message": "Чистка баз (HLR)"
+  },
+  "sidebar.instruction_list.category.Settings": {
+    "message": "Налаштування"
+  },
+  "sidebar.instruction_list.category.Clients": {
+    "message": "Клієнти"
+  },
+  "sidebar.instruction_list.category.Pages": {
+    "message": "Сторінки"
+  },
+  "sidebar.instruction_list.category.Menu": {
+    "message": "Меню"
+  },
+  "sidebar.instruction_list.category.Site": {
+    "message": "Сайт"
+  },
+  "sidebar.instruction_list.category.Mailing": {
+    "message": "Розсилка"
+  },
+  "sidebar.instruction_list.category.Support": {
+    "message": "Підтримка"
+  }
+}

@@ -58,14 +58,14 @@ let instruction_list = [
           'instruction/sms/statistics/countries'
         ]
       },
-      // {
-      //   type: 'category',
-      //   label: 'Incoming SMS',
-      //   items: [
-      //     'instruction/sms/incoming_sms/received_sms',
-      //     'instruction/sms/incoming_sms/tariffs'
-      //   ]
-      // },
+      {
+        type: 'category',
+        label: 'Incoming SMS',
+        items: [
+          'instruction/sms/incoming_sms/received_sms',
+          'instruction/sms/incoming_sms/tariffs'
+        ]
+      },
       {
         type: 'category',
         label: 'Address Book',
