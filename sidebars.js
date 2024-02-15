@@ -281,15 +281,14 @@ if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.net')
 
 if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.ua')
 {
-  admin_clients();
-  admin_reports();
-  admin_pages();
-  admin_menu();
-  admin_finances();
-  admin_statistics();
-  admin_site();
-  admin_mailing();
-  admin_support();
+  client_send_sms();
+  client_reports();
+  client_finances();
+  client_statistics();
+  client_incoming();
+  client_address_book();
+  client_hlr();
+  client_settings();
 }
 
 if (process.env.PSP_DOCS_DOMAIN == 'docs.interconnect.solutions')
