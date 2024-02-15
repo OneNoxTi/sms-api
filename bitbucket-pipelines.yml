@@ -3,6 +3,7 @@ image: node:18
 pipelines:
   default:
     - parallel:
+      steps:
         - step:
             name: deploy-default
             deployment: production
