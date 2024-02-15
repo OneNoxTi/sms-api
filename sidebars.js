@@ -247,8 +247,8 @@ function admin_support() {
   )
 }
 
-if (process.env.PSP_NAME == 'SMS-Docs'){
-
+if (process.env.PSP_DOCS_DOMAIN == 'sms-doc.pages.dev')
+{
   client_send_sms();
   client_reports();
   client_finances();
@@ -268,16 +268,28 @@ if (process.env.PSP_NAME == 'SMS-Docs'){
   admin_support();
 }
 
-if (process.env.PSP_NAME == 'AlphaSMS'){
-
+if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.net')
+{
   client_send_sms();
   client_reports();
   client_finances();
   client_statistics();
-  client_incoming();
   client_address_book();
   client_hlr();
   client_settings();
+}
+
+if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.ua')
+{
+  admin_clients();
+  admin_reports();
+  admin_pages();
+  admin_menu();
+  admin_finances();
+  admin_statistics();
+  admin_site();
+  admin_mailing();
+  admin_support();
 }
 
 module.exports = {

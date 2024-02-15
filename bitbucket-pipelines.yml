@@ -2,14 +2,21 @@ image: node:18
 
 pipelines:
   default:
-    - step:
-        name: deploy-default
-        script:
-          - npm install && npm install -g wrangler && npm run build 
-          - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=sms-doc --branch=main
-    - step:
-        name: deploy-alphasms
-        script:
-          - cp .env.alphasms .env
-          - npm install && npm install -g wrangler && npm run build 
-          - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=docs-alphasms-net --branch=main
+    parallel:
+      - step:
+          name: deploy-default
+          script:
+            - npm install && npm install -g wrangler && npm run build 
+            - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=sms-doc --branch=main
+      - step:
+          name: deploy-alphasms-net
+          script:
+            - cp .env.alphasms.net .env
+            - npm install && npm install -g wrangler && npm run build 
+            - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=docs-alphasms-net --branch=main
+      - step:
+          name: deploy-alphasms-ua
+          script:
+            - cp .env.alphasms.ua .env
+            - npm install && npm install -g wrangler && npm run build 
+            - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=docs-alphasms-ua --branch=main
