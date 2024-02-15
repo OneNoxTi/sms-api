@@ -1,5 +1,5 @@
 :root {
-  --ifm-color-primary: #ff2562;
+  --ifm-color-primary: rgb(255, 37, 98)
   --ifm-color-primary-dark: #ff084d;
   --ifm-color-primary-darker: #f80045;
   --ifm-color-primary-darkest: #cc0039;
@@ -11,7 +11,7 @@
 }
 
 [data-theme='dark'] {
-  --ifm-color-primary: #ff2562;
+  --ifm-color-primary: rgb(255, 37, 98)
   --ifm-color-primary-dark: #ff084d;
   --ifm-color-primary-darker: #f80045;
   --ifm-color-primary-darkest: #cc0039;
@@ -23,5 +23,5 @@
 }
 
 html[data-theme="light"] .navbar {
-  background-color: #FF2562;
+  background-color: rgb(255, 37, 98)
 }
