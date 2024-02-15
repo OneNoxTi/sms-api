@@ -292,6 +292,17 @@ if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.ua')
   admin_support();
 }
 
+if (process.env.PSP_DOCS_DOMAIN == 'docs.interconnect.solutions')
+{
+  client_send_sms();
+  client_reports();
+  client_finances();
+  client_statistics();
+  client_address_book();
+  client_hlr();
+  client_settings();
+}
+
 module.exports = {
   instruction_list
 };

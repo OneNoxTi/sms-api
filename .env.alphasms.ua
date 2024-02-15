@@ -1,5 +1,4 @@
 PSP_NAME=AlphaSMS
-PSP_FULL_NAME=AlphaSMS
 PSP_SITE_URL=/
 PSP_DOCS_DOMAIN=docs.alphasms.ua
 STATIC_IMAGES_PATH=alphasmsua

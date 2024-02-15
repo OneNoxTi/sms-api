@@ -20,3 +20,9 @@ pipelines:
             - cp .env.alphasms.ua .env
             - npm install && npm install -g wrangler && npm run build 
             - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=docs-alphasms-ua --branch=main
+      - step:
+          name: deploy-interconnect-solutions
+          script:
+            - cp .env.interconnect.solutions .env
+            - npm install && npm install -g wrangler && npm run build 
+            - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=docs-interconnect-solutions --branch=main
