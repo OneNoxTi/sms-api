@@ -2,7 +2,7 @@ image: node:18
 
 pipelines:
   default:
-    parallel:
+    - parallel:
       - step:
           name: deploy-default
           script:
