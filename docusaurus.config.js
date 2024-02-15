@@ -27,7 +27,7 @@ const config = {
           sidebarPath: './sidebars.js',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: process.env.THEME,
         },
       },
     ],
