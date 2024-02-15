@@ -2,18 +2,16 @@ image: node:18
 
 pipelines:
   default:
-    - parallel:
-      steps:
-        - step:
-            name: deploy
-            deployment: production
-            script:
-              - npm install && npm install -g wrangler && npm run build 
-              - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=sms-doc --branch=main
-        - step:
-          name: deploy
-          deployment: production
-          script:
-            - cp .env.alphasms .env
-            - npm install && npm install -g wrangler && npm run build 
-            - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=docs-alphasms-net --branch=main
+    - step:
+        name: deploy
+        deployment: production
+        script:
+          - npm install && npm install -g wrangler && npm run build 
+          - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=sms-doc --branch=main
+    - step:
+      name: deploy
+      deployment: production
+      script:
+        - cp .env.alphasms .env
+        - npm install && npm install -g wrangler && npm run build 
+        - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=docs-alphasms-net --branch=main
