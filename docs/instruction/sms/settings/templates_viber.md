@@ -1,7 +1,7 @@
 ---
 id: templates_viber
 title: Templates Viber (WIP)
-slug: /templates_viber
+slug: /viber_templates
 ---
 
 This tab is intended for adding new Viber message templates, as well as for editing and deleting existing templates.
