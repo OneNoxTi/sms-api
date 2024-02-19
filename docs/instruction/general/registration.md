@@ -8,7 +8,7 @@ To register a new personal account, go to the website and click the **Registrati
 
 ![image1](/img/en/general_registration/image1.png)
 
-To register in the service, perform the following actions step by step:
+To continue registration in the service, follow the steps below:
 
 |  №  | Action |
 | :-: | ------ |
@@ -22,4 +22,4 @@ Check the data you entered and then press the **Registration** button.
 
 ![image2](/img/en/general_registration/image2.png)
 
-After successful registration, you can proceed to [**authorization**](/docs/instruction/general/login.md).
+After successful registration, you can proceed to [**authorization**](login.md).

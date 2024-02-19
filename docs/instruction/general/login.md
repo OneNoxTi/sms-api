@@ -18,7 +18,7 @@ Authorize in the opened **Your Personal Account** window:
 | 2 | Enter your personal account **password** |
 
 :::info
-If you don't already have an account, you can [**register**](/docs/instruction/general/registration.md) in the service
+If you don't already have an account, you can [**register**](registration.md) in the service
 :::
 
 After entering the account information, click the **Log in** button:
@@ -31,7 +31,7 @@ If you have forgotten your personal account password, you can restore it. To res
 
 ![image3](/img/en/general_login/image3.png)
 
-In the **Restore password** window that opens, enter your phone number and click **Get SMS with code**.
+In the **Restore password** window that opens, enter your **phone number** and click **Get SMS with code**.
 
 ![image4](/img/en/general_login/image4.png)
 

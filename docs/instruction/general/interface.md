@@ -36,7 +36,7 @@ To select the interface language, use the proper button on the right side of the
 
 ![image3](/img/en/general_interface/image3.png)
 
-You can choose from two available interface languages:
+You can choose one of the available interface languages:
 
 * **RU** – Russian language;
 * **UK** – Ukrainian language;
@@ -51,9 +51,8 @@ The side menu consists of the following blocks:
 
 |  №  | Description |
 | :-: | ----------- |
-| 1 | Contains available sections for working with sms |
-| 1 | Contains accessible sections for working with clients |
-| 2 | Contains a link to download the software |
+| 1 | Contains available sections for working with **SMS** |
+| 2 | Contains accessible sections for working with **Clients** |
 
 ## Working area
 
