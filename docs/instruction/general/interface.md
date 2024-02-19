@@ -52,7 +52,7 @@ The side menu consists of the following blocks:
 |  №  | Description |
 | :-: | ----------- |
 | 1 | Contains available sections for working with **SMS** |
-| 2 | Contains accessible sections for working with **Clients** |
+| 2 | Contains available sections for working with **Clients** |
 
 ## Working area
 
