@@ -4,6 +4,6 @@ PSP_DOCS_DOMAIN=docs.alphasms.ua
 STATIC_IMAGES_PATH=alphasms_ua
 LOGO_NAME=logo.svg
 THEME_DEFAULT_MODE=light
-THEME=./src/css/custom.css
+THEME=./src/css/alphasms.css
 LOCALES=uk
 DEFAULT_LOCALE=uk
