@@ -16,7 +16,9 @@ To add a new template, click the **+ ADD** button in the upper left corner of th
 
 ![image2](/img/en/sms_send_sms_templates/image2.png)
 
-Enter the **message text** (sign limits per message: **70** for cyrillic and **160** for latin) and press **EXECUTE** to create a template. The new template will be displayed in the [list](#template-list).
+Enter the **message text** (sign limits per message: **70** for cyrillic and **160** for latin) and press **EXECUTE** to create a template.
+
+The new template will be displayed in the [template list](#template-list).
 
 ![image3](/img/en/sms_send_sms_templates/image3.png)
 
@@ -39,6 +41,8 @@ You can also switch the message text from cyrillic to latin and vice versa using
 All added templates are displayed in the **My templates** list.
 
 ![image7](/img/en/sms_send_sms_templates/image7.png)
+
+To edit a template, click on it, and an editing window similar to [add new template](#adding-a-new-template) will open.
 
 ## Deleting template
 
