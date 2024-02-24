@@ -1,5 +1,5 @@
 ---
 id: received_sms
-title: Прийняті СМС
+title: Прийняті SMS
 slug: /received_sms
 ---
