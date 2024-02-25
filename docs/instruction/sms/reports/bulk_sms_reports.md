@@ -4,7 +4,7 @@ title: Bulk SMS
 slug: /bulk_sms_reports
 ---
 
-In this tab you can view bulk sms reports for a specific period, as well as export the report to an xlsx file.
+In this tab you can view bulk mailing reports for a specific period, as well as export the report to an xlsx file.
 
 To open this tab, select **SMS** → **Reports** in the side menu and select **BULK SMS** tab.
 
@@ -36,9 +36,9 @@ Next, click **SEARCH**, the page will be refreshed and reports for the specified
 
 ![image3](/img/en/sms_reports_bulk_sms/image3.png)
 
-## Bulk sms reports list
+## Reports list
 
-All bulk sms reports are located in the table on the **BULK SMS** tab.
+All bulk mailing reports are located in the table on the **BULK SMS** tab.
 
 ![image4](/img/en/sms_reports_bulk_sms/image4.png)
 
@@ -74,7 +74,7 @@ The page with the mailing report is visually divided into three blocks:
 |  №  | Description |
 | :-: | ----------- |
 | 1 | [Detailed information](#detailed-information) about sms mailing |
-| 2 | Circle diagram with statistics on **statuses** and **operators**. To toggle the chart display, use the **STATUSES/OPERATORS** switch above the chart. |
+| 2 | Circle diagram with statistics on **statuses** and **operators**. To toggle the chart display, use the **STATUSES/OPERATORS** switch above the chart |
 | 3 | Table with a [report for each recipient](#report-for-each-recipient) |
 
 ### Detailed information
@@ -86,14 +86,14 @@ Detailed information about sms mailing contains the following information:
 |  №  | Data | Description |
 | :-: | ---- | ----------- |
 | 1 | **Mailing ID** | Unique mailing identifier |
-| 2 | **Mailing Name** | The name of the mailing list added when creating the mailing list |
+| 2 | **Mailing Name** | The name of the mailing list added at creation |
 | 3 | **Sender ID** | Sender's name |
 | 4 | **Creation date** | Date and time when the mailing was created |
 | 5 | **Start sending** | Date and time of the beginning of the mailing |
 | 6 | **End of sending** | Date and time of the end of mailing |
 | 7 | **The volume of sending** | Number of messages in the mailing |
 | 8 | **Sent** | Number of sent messages |
-| 9 | **Delivered** | Number of delivered messages. Press **SAVE LIST** to save the list of contacts to which the SMS has been delivered to a individual [address book](/docs/instruction/sms/address_book/recipients.md) |
+| 9 | **Delivered** | Number of delivered messages. Press **SAVE LIST** to save the list of contacts to which the SMS has been delivered to a individual [address book](../address_book/recipients.md) |
 | 10 | **DeliveredSMS** | Number of delivered SMS messages |
 | 11 | **DeliveredViber** | Number of delivered Viber messages |
 | 12 | **ReadViber** | Number of read Viber messages |
