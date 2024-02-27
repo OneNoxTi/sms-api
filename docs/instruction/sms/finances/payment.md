@@ -17,7 +17,7 @@ To top-up your account balance online using the payment system follow the steps 
 |  №  | Action |
 | :-: | ------ |
 | 1 | Select the method of top-up **ONLINE** |
-| 2 | Specify the **amount** of top-up <br/> Minimum amount: 50EUR <br/> Maximum amount: 2000EUR <br/> Fee 3.6% |
+| 2 | Specify the **amount** of top-up <br/> Minimum amount: 50EUR <br/> Maximum amount: 2000EUR <br/> Fee: 3.6% |
 | 3 | Select the required payment system and press **PAY** <br/> In this example, the payment system PayPal is available |
 
 ![image2](/img/en/sms_finances_payment/image2.png)
