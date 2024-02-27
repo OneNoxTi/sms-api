@@ -17,7 +17,7 @@ To perform a fund transfer, follow the steps below:
 |  №  | Action |
 | :-: | ------ |
 | 1 | Enter the **recipient's username** (phone number, for example 380501234567) |
-| 2 | Enter the **amount of transfer** ( for example 50 or 49.99) |
+| 2 | Enter the **amount of transfer** (for example 50 or 49.99) |
 | 3 | Add a **note** to the transfer |
 
 Press **EXECUTE** to perform a fund transfer.

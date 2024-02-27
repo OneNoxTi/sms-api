@@ -22,6 +22,7 @@ function client_send_sms() {
         'instruction/sms/send_sms/bulk_sms',
         'instruction/sms/send_sms/voice_mailing',
         'instruction/sms/send_sms/viber',
+        'instruction/sms/send_sms/rcs_android',
         'instruction/sms/send_sms/sender_id',
         'instruction/sms/send_sms/templates',
         'instruction/sms/send_sms/planner'
@@ -54,7 +55,8 @@ function client_finances() {
         'instruction/sms/finances/payment',
         'instruction/sms/finances/balance',
         'instruction/sms/finances/documents',
-        'instruction/sms/finances/transfer'
+        'instruction/sms/finances/transfer',
+        'instruction/sms/finances/autopay'
       ]
     }
   )
@@ -261,6 +263,7 @@ function all_eng() {
             'instruction/sms/send_sms/bulk_sms',
             'instruction/sms/send_sms/voice_mailing',
             'instruction/sms/send_sms/viber',
+            'instruction/sms/send_sms/rcs_android',
             'instruction/sms/send_sms/sender_id',
             'instruction/sms/send_sms/templates',
             'instruction/sms/send_sms/planner'
@@ -283,7 +286,8 @@ function all_eng() {
             'instruction/sms/finances/payment',
             'instruction/sms/finances/balance',
             'instruction/sms/finances/documents',
-            'instruction/sms/finances/transfer'
+            'instruction/sms/finances/transfer',
+            'instruction/sms/finances/autopay'
           ]
         },
         {
@@ -420,6 +424,7 @@ function all_ukr() {
             'instruction/sms/send_sms/bulk_sms',
             'instruction/sms/send_sms/voice_mailing',
             'instruction/sms/send_sms/viber',
+            'instruction/sms/send_sms/rcs_android',
             'instruction/sms/send_sms/sender_id',
             'instruction/sms/send_sms/templates',
             'instruction/sms/send_sms/planner'
@@ -442,7 +447,8 @@ function all_ukr() {
             'instruction/sms/finances/payment',
             'instruction/sms/finances/balance',
             'instruction/sms/finances/documents',
-            'instruction/sms/finances/transfer'
+            'instruction/sms/finances/transfer',
+            'instruction/sms/finances/autopay'
           ]
         },
         {
