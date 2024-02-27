@@ -1,5 +1,5 @@
 ---
 id: sender_id_statistics
-title: Відправник
+title: Альфаімена
 slug: /sender_id_statistics
 ---

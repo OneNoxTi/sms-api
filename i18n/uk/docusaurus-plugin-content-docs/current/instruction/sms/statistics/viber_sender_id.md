@@ -1,5 +1,5 @@
 ---
 id: viber_sender_id
-title: Відправник Viber
+title: Альфаімена Viber
 slug: /viber_sender_id
 ---

@@ -54,5 +54,5 @@ All statistical data are arranged in the table in separate columns:
 | 1 | **Date** | Date of sending messages |
 | 2 | **Send SMS (parts)** | Number of sent messages (parts) |
 | 3 | **SMS (Parts) Delivered** | Number of delivered messages (parts) |
-| 4 | **Efficiency** | Mailing efficiency (number of delivered messages out of the total number of sent messages ) |
+| 4 | **Efficiency** | Mailing efficiency (number of delivered messages out of the total number of sent messages) |
 | 5 | **SMS Price** | Messaging costs |
