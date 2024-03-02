@@ -47,10 +47,10 @@ All statistical data are arranged in the table in separate columns:
 
 ![image6](/img/en/sms_statistics_viber_sender_id/image6.png)
 
-|  №  | Description |
-| :-: | ----------- |
-| 1 | **Sender ID** - sender's name (ID) |
-| 2 | **Send SMS (parts)** - number of sent messages (parts) |
-| 3 | **SMS (Parts) Delivered** - number of delivered messages (parts) |
-| 4 | **Efficiency** - mailing efficiency (number of delivered messages out of the total number of sent messages ) |
-| 5 | **SMS Price** - messaging costs |
+|  №  | Column | Description |
+| :-: | ------ | ----------- |
+| 1 | **Sender ID** | Sender's name (ID) |
+| 2 | **Send SMS (parts)** | Number of sent messages (parts) |
+| 3 | **SMS (Parts) Delivered** | Number of delivered messages (parts) |
+| 4 | **Efficiency** | Mailing efficiency (number of delivered messages out of the total number of sent messages ) |
+| 5 | **SMS Price** | Messaging costs |
