@@ -4,7 +4,7 @@ title: Recipients
 slug: /recipients
 ---
 
-In this tab, you can create and delete address books that contain recipients' phone numbers. You can also add other information, such as name or birthday, to the address book besides the phone number.
+In this tab, you can create and delete address books that contain recipients' phone numbers. You can also add additional information to your address book, such as a name or birthday.
 
 To open this tab, select **SMS** → **Address Book** in the side menu and select **RECIPIENTS** tab.
 
