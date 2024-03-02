@@ -19,10 +19,10 @@ To check numbers on your address book, press **+ ADD**.
 Next, follow the steps below:
 
 |  №  | Action |
-| :-: | ----------- |
+| :-: | ------ |
 | 1 | Enter **mailing name** |
 | 2 | Enter the **recipients' phone** numbers <br/> For example: 0501234567, 39371234567 |
-| 3 | Or select the **address book** |
+| 3 | Or select the [**address book**](../address_book/recipients.md) |
 
 Press the **EXECUTE** button to start checking numbers.
 
@@ -50,7 +50,7 @@ The results of the numbers check are located in a table with the data in separat
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
 | 1 | **Date** | Date and time of the beginning of the number check |
-| 2 | **Mailing name** | Name of the mailing for which the report can be found in [**Reports**](/docs/instruction/sms/reports/bulk_sms_reports.md) |
+| 2 | **Mailing name** | Name of the mailing for which the report can be found in [**Reports**](../reports/bulk_sms_reports.md) |
 | 3 | **Status** | Current check status |
 | 4 | **SMS** | Number of messages sent |
 | 5 | **Price, ₴** | Total cost of the service (in UAH) |
