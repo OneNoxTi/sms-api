@@ -4,7 +4,7 @@ title: Clear Base
 slug: /clear_base
 ---
 
-In this tab you can clean up your address books leaving only valid numbers. Phones will be cleared using operator logs of bulk messaging. You pay only for numbers that were found.
+In this tab you can clean up your address books leaving only valid numbers. Phones will be cleared using operator logs of bulk messaging. You pay only for numbers that were found. Price 0₴ per number.
 
 To open this tab, select **SMS** → **HLR** in the side menu and select **CLEAR BASE** tab.
 
@@ -20,8 +20,8 @@ Next, add numbers using one of the available methods:
 
 ![image3](/img/en/sms_hlr_clear_base/image3.png)
 
-|  №  | Description |
-| :-: | ----------- |
+|  №  | Method |
+| :-: | ------ |
 | 1 | Add an **address book** |
 | 2 | Enter **phone numbers** line by line |
 | 3 | Download the **txt file** with phone numbers |
