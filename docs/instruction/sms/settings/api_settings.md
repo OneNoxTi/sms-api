@@ -32,13 +32,13 @@ In the **API** tab you can enable or disable the required services and protocols
 
 ![image5](/img/en/sms_settings_api/image5.png)
 
-|  №  | Description |
-| :-: | ----------- |
-| 1 | **Activate Email2SMS** - with the Email2SMS (Email to SMS) gateway, you can send SMS via email. SMS messages can be delivered to one or many recipients. The gateway reads each incoming email, parses it, and sends the SMS |
-| 2 | **Activate API** - using API you can connect SMS and Viber distribution for your website or software via such protocols as JSON, HTTP or XML POST |
-| 3 | **Activate SMPP** - the Short Message Peer to Peer (SMPP) protocol is an open, industry standard protocol designed to provide a flexible data communications interface for transfer of short message data |
-| 4 | **IP address from which you are allowed access to the API and SMPP** |
-| 5 | **URL/Email for notification about SMS statuses** |
+|  №  | Setting | Description |
+| :-: | ------- | ----------- |
+| 1 | **Activate Email2SMS** | With the Email2SMS (Email to SMS) gateway, you can send SMS via email. SMS messages can be delivered to one or many recipients. The gateway reads each incoming email, parses it, and sends the SMS |
+| 2 | **Activate API** | Using API you can connect SMS and Viber distribution for your website or software via such protocols as JSON, HTTP or XML POST |
+| 3 | **Activate SMPP** | The Short Message Peer to Peer (SMPP) protocol is an open, industry standard protocol designed to provide a flexible data communications interface for transfer of short message data |
+| 4 | **IP address from which you are allowed access to the API and SMPP** |  |
+| 5 | **URL/Email for notification about SMS statuses** |  |
 
 Press the **SAVE** button to save the settings.
 
