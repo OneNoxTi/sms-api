@@ -59,12 +59,12 @@ The **client page** contains the following tabs:
 
 |  №  | Tab | Description |
 | :-: | --- | ----------- |
-| 1 | [**General info**](#general-info) | Contains basic customer information and also allows you to manage SMS subscription |
-| 2 | [**Finance**](#finance) | Allows you to view the client's balance change history, top up the account balance and set a credit balance |
-| 3 | [**Statistics**](#statistics) | Allows you to view detailed sending statistics |
-| 4 | [**Names**](#names) | Allows you to view and edit the Sender ID of the client |
+| 1 | [**GENERAL INFO**](#general-info) | Contains basic customer information and also allows you to manage SMS subscription |
+| 2 | [**FINANCE**](#finance) | Allows you to view the client's balance change history, top up the account balance and set a credit balance |
+| 3 | [**STATISTICS**](#statistics) | Allows you to view detailed mailing statistics |
+| 4 | [**NAMES**](#names) | Allows you to view and edit the Sender ID of the client |
 
-### General info
+### GENERAL INFO
 
 The **GENERAL INFO** tab contains the following information about the client:
 
@@ -80,18 +80,19 @@ The **GENERAL INFO** tab contains the following information about the client:
 | 6 | **Property Type** | <li>**Legal entity**</li><li>**Individual**</li><li>**Entrepreneur**</li> |
 | 7 | **Address, postal** | Client's postal address |
 | 8 | **Email accounting** | The e-mail address of the client company's accounting department |
-| 9 | **Registration Date** | Date and time of client registration |
-| 10 | **Last login date** | Date and time of the last client login |
-| 11 | **SMS price** | Cost of sending one message for a client |
-| 12 | **Login attempts** | Number of unsuccessful attempts to log in to the cabinet |
-| 13 | **Activation** | Is activation of the client's account required |
-| 14 | **Referer** |  |
+| 9 | **Email** |  |
+| 10 | **Registration Date** | Date and time of client registration |
+| 11 | **Last login date** | Date and time of the last client login |
+| 12 | **Detailed statistics** | Link to the client's detailed statistical report |
+| 13 | **Login attempts** | Number of unsuccessful attempts to log in to the cabinet |
+| 14 | **Activation** | Is activation of the client's account required |
+| 15 | **Referer** |  |
 
 To enable/disable the client's SMS subscription, check the **SMS subscription** checkbox (or uncheck it). Then press **SAVE**.
 
 ![image9](/img/en/clients_clients/image9.png)
 
-### Finance
+### FINANCE
 
 The top left of the **FINANCE** tab shows the current account balance and credit balance.
 
@@ -142,13 +143,13 @@ All transaction history of the account balance are located in the table in separ
 
 ![image14](/img/en/clients_clients/image14.png)
 
-|  №  | Description |
-| :-: | ----------- |
-| 1 | **Date** - date and time of the transaction (sending a message or balance top-up) |
-| 2 | **Credit** - mailing costs (in the currency of the client's account) |
-| 3 | **Debit** - account top-up (in the currency of the client's account) |
-| 4 | **Purpose** - transaction assignment |
-| 5 | **Balance** - balance status after the transaction (in the currency of the client's account) |
+|  №  | Column | Description |
+| :-: | ------ | ----------- |
+| 1 | **Date** | Date and time of the transaction (sending a message or balance top-up) |
+| 2 | **Credit** | Mailing costs (in the currency of the client's account) |
+| 3 | **Debit** | Account top-up (in the currency of the client's account) |
+| 4 | **Purpose** | Transaction assignment |
+| 5 | **Balance** | Balance status after the transaction (in the currency of the client's account) |
 
 #### Exporting a transaction history
 
@@ -158,7 +159,7 @@ To export transaction history click the **Export** button icon.
 
 After pressing the **Export** button icon, the report will be saved on your device in an **.xlsx** file.
 
-### Statistics
+### STATISTICS
 
 The **STATISTICS** tab contains several reports on which you can view the statistics and effectiveness of the mailing.
 
@@ -262,13 +263,13 @@ All statistical data are arranged in the table in separate columns:
 
 ![image27](/img/en/clients_clients/image27.png)
 
-|  №  | Description |
-| :-: | ----------- |
-| 1 | **Country - Operator** - country and operator name |
-| 2 | **Send SMS (parts)** - number of sent messages (parts) |
-| 3 | **SMS (Parts) Delivered** - number of delivered messages (parts) |
-| 4 | **Efficiency** - mailing efficiency (number of delivered messages out of the total number of sent messages ) |
-| 5 | **SMS Price** - messaging costs |
+|  №  | Column | Description |
+| :-: | ------ | ----------- |
+| 1 | **Country - Operator** | Country and operator name |
+| 2 | **Send SMS (parts)** | Number of sent messages (parts) |
+| 3 | **SMS (Parts) Delivered** | Number of delivered messages (parts) |
+| 4 | **Efficiency** | Mailing efficiency (number of delivered messages out of the total number of sent messages ) |
+| 5 | **SMS Price** | Messaging costs |
 
 #### GROUPING BY SENDER ID
 
@@ -315,13 +316,13 @@ All statistical data are arranged in the table in separate columns:
 
 ![image33](/img/en/clients_clients/image33.png)
 
-|  №  | Description |
-| :-: | ----------- |
-| 1 | **Sender ID** - sender's name (ID) |
-| 2 | **Send SMS (parts)** - number of sent messages (parts) |
-| 3 | **SMS (Parts) Delivered** - number of delivered messages (parts) |
-| 4 | **Efficiency** - mailing efficiency (number of delivered messages out of the total number of sent messages ) |
-| 5 | **SMS Price** - messaging costs |
+|  №  | Column | Description |
+| :-: | ------ | ----------- |
+| 1 | **Sender ID** | Sender's name (ID) |
+| 2 | **Send SMS (parts)** | Number of sent messages (parts) |
+| 3 | **SMS (Parts) Delivered** | Number of delivered messages (parts) |
+| 4 | **Efficiency** | Mailing efficiency (number of delivered messages out of the total number of sent messages ) |
+| 5 | **SMS Price** | Messaging costs |
 
 #### GROUPING BY VIBER SENDER ID
 
@@ -358,7 +359,7 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 ##### Statistics chart
 
-This chart displays the number of sent viber messages for each sender ID. Statistics are displayed for the [specified period](#period-selection).
+This chart displays the number of sent viber messages for each sender ID. Statistics are displayed for the specified period.
 
 ![image38](/img/en/clients_clients/image38.png)
 
@@ -368,13 +369,13 @@ All statistical data are arranged in the table in separate columns:
 
 ![image39](/img/en/clients_clients/image39.png)
 
-|  №  | Description |
-| :-: | ----------- |
-| 1 | **Sender ID** - sender's name (ID) |
-| 2 | **Send SMS (parts)** - number of sent messages (parts) |
-| 3 | **SMS (Parts) Delivered** - number of delivered messages (parts) |
-| 4 | **Efficiency** - mailing efficiency (number of delivered messages out of the total number of sent messages ) |
-| 5 | **SMS Price** - messaging costs |
+|  №  | Column | Description |
+| :-: | ------ | ----------- |
+| 1 | **Sender ID** | Sender's name (ID) |
+| 2 | **Send SMS (parts)** | Number of sent messages (parts) |
+| 3 | **SMS (Parts) Delivered** | Number of delivered messages (parts) |
+| 4 | **Efficiency** | Mailing efficiency (number of delivered messages out of the total number of sent messages ) |
+| 5 | **SMS Price** | Messaging costs |
 
 #### GROUPING BY COUNTRY
 
@@ -421,15 +422,15 @@ All statistical data are arranged in the table in separate columns:
 
 ![image45](/img/en/clients_clients/image45.png)
 
-|  №  | Description |
-| :-: | ----------- |
-| 1 | **Country** - country name |
-| 2 | **Send SMS (parts)** - number of sent messages (parts) |
-| 3 | **SMS (Parts) Delivered** - number of delivered messages (parts) |
-| 4 | **Efficiency** - mailing efficiency (number of delivered messages out of the total number of sent messages ) |
-| 5 | **SMS Price** - messaging costs |
+|  №  | Column | Description |
+| :-: | ------ | ----------- |
+| 1 | **Country** | Country name |
+| 2 | **Send SMS (parts)** | Number of sent messages (parts) |
+| 3 | **SMS (Parts) Delivered** | Number of delivered messages (parts) |
+| 4 | **Efficiency** | Mailing efficiency (number of delivered messages out of the total number of sent messages ) |
+| 5 | **SMS Price** | Messaging costs |
 
-### Names
+### NAMES
 
 The **NAMES** tab contains a list of client sender id's with detailed information about them. These names are used for sending messages.
 

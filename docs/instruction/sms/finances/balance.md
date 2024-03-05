@@ -29,10 +29,10 @@ All transaction history of the wallet balance are located in the table in separa
 
 ![image3](/img/en/sms_finances_balance/image3.png)
 
-|  №  | Description |
-| :-: | ----------- |
-| 1 | **Date** - date and time of the transaction (sending a message or balance top-up) |
-| 2 | **Credit, ₴** - mailing costs (in UAH) |
-| 3 | **Debit, ₴** - account top-up (in UAH) |
-| 4 | **Purpose** - transaction assignment |
-| 5 | **Balance, ₴** - balance status after the transaction (in UAH) |
+|  №  | Column | Description |
+| :-: | ------ | ----------- |
+| 1 | **Date** | Date and time of the transaction (sending a message or balance top-up) |
+| 2 | **Credit, ₴** | Mailing costs (in UAH) |
+| 3 | **Debit, ₴** | Account top-up (in UAH) |
+| 4 | **Purpose** | Transaction assignment |
+| 5 | **Balance, ₴** | Balance status after the transaction (in UAH) |
