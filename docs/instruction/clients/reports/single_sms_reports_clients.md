@@ -95,3 +95,7 @@ All single sms reports are located in the table on the **SINGLE SMS** tab.
 Click on the **report** to view the text of the message.
 
 ![image10](/img/en/clients_reports_single_sms/image10.png)
+
+Also below the message text is the **number of symbols in the message**, the **number of message parts**, and the **message identifier (MSGID)**.
+
+![image11](/img/en/clients_reports_single_sms/image11.png)
