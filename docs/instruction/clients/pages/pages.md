@@ -6,7 +6,7 @@ slug: /pages
 
 This section is provided for creating new pages of the site, and also allows you to edit and delete existing pages.
 
-To open this tab, select **Clients** → **Pages** in the side menu.
+To open this section, select **Clients** → **Pages** in the side menu.
 
 ![image1](/img/en/clients_pages/image1.png)
 
