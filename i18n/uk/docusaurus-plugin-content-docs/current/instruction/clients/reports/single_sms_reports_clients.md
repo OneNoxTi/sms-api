@@ -10,20 +10,6 @@ slug: /single_sms_reports_clients
 
 ![image1](/img/uk/clients_reports_single_sms/image1.png)
 
-## Інтерфейс
-
-Для зручності роботи з вмістом таблиці можна вибрати кількість рядків для відображення на одній сторінці. Ви можете вибрати 10, 20, 50 або 100 рядків.
-
-Щоб змінити **кількість рядків**, що відображаються на **сторінці** зі списком звітів, натисніть на іконку з зображенням кількості сторінок у нижній частині сторінки.
-
-За замовчуванням на сторінці відображається до 10 рядків.
-
-![image2](/img/uk/clients_reports_single_sms/image2.png)
-
-Для перемикання сторінок скористайтеся кнопками навігації **Вліво** і **Вправо**, які розташовані під таблицею. Ви також можете ввести номер потрібної сторінки, щоб перейти на неї.
-
-![image3](/img/uk/clients_reports_single_sms/image3.png)
-
 ## Вибір періоду
 
 Щоб вибрати **Період**, за який ви хочете відображати звіти, виконайте наведені нижче дії:
@@ -35,7 +21,7 @@ slug: /single_sms_reports_clients
 
 Після вибору дати сторінка оновиться, щоб відобразити звіти за вказаний період.
 
-![image4](/img/uk/clients_reports_single_sms/image4.png)
+![image2](/img/uk/clients_reports_single_sms/image2.png)
 
 ## Пошук
 
@@ -48,17 +34,17 @@ slug: /single_sms_reports_clients
 
 Далі натисніть **ПОШУК**, сторінка оновиться і на ній відобразяться звіти за вказаними параметрами.
 
-![image5](/img/uk/clients_reports_single_sms/image5.png)
+![image3](/img/uk/clients_reports_single_sms/image3.png)
 
 ## Експорт звіту
 
 Перед збереженням звіт необхідно згенерувати, для цього натисніть іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image6](/img/uk/clients_reports_single_sms/image6.png)
+![image4](/img/uk/clients_reports_single_sms/image4.png)
 
 Через деякий час звіт буде сформовано і його можна буде завантажити, натиснувши на іконку кнопки **ЗАВАНТАЖИТИ**.
 
-![image7](/img/uk/clients_reports_single_sms/image7.png)
+![image5](/img/uk/clients_reports_single_sms/image5.png)
 
 Звіт буде збережено на вашому пристрої у форматі **.xlsx**.
 
@@ -66,7 +52,7 @@ slug: /single_sms_reports_clients
 
 У верхній частині сторінки розташовані фільтри, які дозволяють відображати в таблиці тільки необхідні звіти. Доступні наступні фільтри:
 
-![image8](/img/uk/clients_reports_single_sms/image8.png)
+![image6](/img/uk/clients_reports_single_sms/image6.png)
 
 |  №  | Фільтр |
 | :-: | ------ |
@@ -82,9 +68,9 @@ slug: /single_sms_reports_clients
 
 Всі звіти за одиночними SMS розташовані в таблиці на вкладці **ОДИНОЧНІ SMS**.
 
-![image9](/img/uk/clients_reports_single_sms/image9.png)
+![image7](/img/uk/clients_reports_single_sms/image7.png)
 
-|  №  | Опис |
+|  №  | Дані |
 | :-: | ---- |
 | 1 | **Номер телефону отримувача** та **Статус SMS** |
 | 2 | **Ім'я відправника** та **Ім'я** клієнта |
@@ -93,8 +79,8 @@ slug: /single_sms_reports_clients
 
 Натисніть на **Звіт**, щоб переглянути текст повідомлення.
 
-![image10](/img/uk/clients_reports_single_sms/image10.png)
+![image8](/img/uk/clients_reports_single_sms/image8.png)
 
 Також під текстом повідомлення зазначено **Кількість символів у повідомленні**, **Кількість частин повідомлення** та **Ідентифікатор повідомлення (MSGID)**.
 
-![image11](/img/uk/clients_reports_single_sms/image11.png)
+![image9](/img/uk/clients_reports_single_sms/image9.png)

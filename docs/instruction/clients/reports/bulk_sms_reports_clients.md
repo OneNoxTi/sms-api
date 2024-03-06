@@ -62,7 +62,7 @@ All bulk sms reports are located in the table on the **BULK SMS** tab.
 
 |  №  | Data |
 | :-: | ---- |
-| 1 | **Mailing name** and **SMS status** |
+| 1 | **Mailing name** and **Mailing status** |
 | 2 | **Sender ID** and **name** of client |
 | 3 | Date and time of the **beginning** and **end** of the mailing |
 | 4 | **Number of SMS** and their **price** |
@@ -115,7 +115,7 @@ Detailed information about sms mailing contains the following information:
 | 6 | **End of sending** | Date and time of the end of mailing |
 | 7 | **The volume of sending** | Number of messages in the mailing |
 | 8 | **Sent** | Number of sent messages |
-| 9 | **Delivered** | Number of delivered messages. Press **SAVE LIST** to save the list of contacts to which the SMS has been delivered to a individual [address book](/docs/instruction/sms/address_book/recipients.md) |
+| 9 | **Delivered** | Number of delivered messages. Press **SAVE LIST** to save the list of contacts to which the SMS has been delivered to a individual [address book](../../sms/address_book/recipients.md) |
 | 10 | **DeliveredSMS** | Number of delivered SMS messages |
 | 11 | **DeliveredViber** | Number of delivered Viber messages |
 | 12 | **ReadViber** | Number of read Viber messages |
