@@ -4,7 +4,6 @@ title: Lower Menu
 slug: /lower_menu
 ---
 
-
 In this tab, you can add new menu that are displayed at the bottom of the page.
 
 To open this tab, select **Clients** → **Menu** in the side menu and select **LOWER MENU** tab.
@@ -46,7 +45,7 @@ The table contains a list of menus with detailed information about them. The dat
 
 ## Editing a menu
 
-To edit a page click on it in the table with pages. The page of **page editing** will open, the actions are similar to [adding a menu](#adding-a-menu).
+To edit a menu click on it in the table with menus. The page of **menu editing** will open, the actions are similar to [adding a menu](#adding-a-menu).
 
 ![image5](/img/en/clients_menu_lower_menu/image5.png)
 
