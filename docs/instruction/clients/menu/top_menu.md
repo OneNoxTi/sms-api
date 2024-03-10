@@ -44,7 +44,7 @@ The table contains a list of menus with detailed information about them. The dat
 
 ## Editing a menu
 
-To edit a page click on it in the table with pages. The page of **page editing** will open, the actions are similar to [adding a menu](#adding-a-menu).
+To edit a menu click on it in the table with menus. The page of **menu editing** will open, the actions are similar to [adding a menu](#adding-a-menu).
 
 ![image5](/img/en/clients_menu_top_menu/image5.png)
 
