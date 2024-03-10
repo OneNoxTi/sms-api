@@ -16,7 +16,7 @@ To send emails to site clients follow the steps below:
 
 |  №  | Action |
 | :-: | ------ |
-| 1 | Select the **site** whose clients you want to send an email to. |
+| 1 | Select the **site** whose clients you want to send an email to |
 | 2 | Select the types of **clients** you want to send the email to: <li>**All clients**</li><li>**To all clients with a contract**</li><li>**To all clients without a contract**</li><li>**Individuals**</li><li>**Individuals with a contract**</li><li>**Legal entities**</li><li>**Legal entities with a contract**</li><li>**To legal entities without a contract**</li><li>**To legal entities end all clients with a contract**</li> |
 | 3 | Enter the **email subject** line |
 | 4 | Use the editor to enter the **text** of the email |
