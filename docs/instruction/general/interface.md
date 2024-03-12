@@ -25,10 +25,9 @@ The header is a detached upper part of the cabinet containing:
 
 |  №  | Description |
 | :-: | ----------- |
-| 1 | Buttons to return to the home page |
-| 2 | Information about the current balance status and top up button |
-| 3 | Interface language selection icon |
-| 4 | Account logout button |
+| 1 | Information about the current balance status |
+| 2 | Interface language selection icon |
+| 3 | Account logout button |
 
 ### Interface language selection
 
