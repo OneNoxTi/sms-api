@@ -43,5 +43,11 @@
   },
   "sidebar.instruction_list.category.Support": {
     "message": "Підтримка"
+  },
+  "sidebar.instruction_list.category.For clients": {
+    "message": "Для клієнтів"
+  },
+  "sidebar.instruction_list.category.Admin module": {
+    "message": "Адмін частина"
   }
 }
