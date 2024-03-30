@@ -29,7 +29,7 @@ You can also find specific reports by **phone number**, **Sender ID** or **User*
 |  №  | Action |
 | :-: | ------ |
 | 1 | Specify a search parameter: <li>**By phone number**</li> <li>**By Sender ID**</li> <li>**By User**</li> |
-| 2 | Enter the **parameter value** to search for the report |
+| 2 | Enter the **parameter value** to search for the reports |
 
 Next, click **SEARCH**, the page will be refreshed and reports for the specified parameters will be displayed.
 
