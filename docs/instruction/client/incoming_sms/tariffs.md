@@ -1,0 +1,4 @@
+---
+id: tariffs
+title: Tariffs
+---

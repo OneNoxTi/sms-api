@@ -1,7 +1,6 @@
 ---
 id: interface
 title: Interface
-slug: /interface
 ---
 
 ## Main page of the personal cabinet
