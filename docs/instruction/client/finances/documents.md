@@ -21,4 +21,4 @@ All generated invoices are arranged in a table with detailed information about t
 | 2 | **Data** | Date of invoice creation |
 | 3 | **Payer** | Payer's name |
 | 4 | **Amount** | The amount of the invoice |
-| 5 | **Statement** |  |
+| 5 | **Statement** | Link to the act file |
