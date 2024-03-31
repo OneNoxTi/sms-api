@@ -1,6 +1,6 @@
 ---
 id: templates_viber
-title: Templates Viber (WIP)
+title: Templates Viber
 ---
 
 This tab is intended for adding new Viber message templates, as well as for editing and deleting existing templates.
@@ -20,16 +20,28 @@ Then follow the steps below:
 |  №  | Action |
 | :-: | ------ |
 | 1 | Select **Sender ID** from the list |
+| 2 | Enter the **text** of the message |
 
 Press **EXECUTE** to create a template.
 
 ![image3](/img/en/client_settings_templates_viber/image3.png)
 
+You can also generate a special message that will contain variables. To do this, follow the steps below:
+
+|  №  | Action |
+| :-: | ------ |
+| 1 | Enter the **text of the first message** |
+| 2 | Enter the **text of the second message** |
+
+Press the **GENERATE** button icon.
+
+![image4](/img/en/client_settings_templates_viber/image4.png)
+
 ## Filter
 
 The **Status** filter is located at the top of the page. With this filter you can display in the table templates with required statuses only.
 
-![image4](/img/en/client_settings_templates_viber/image4.png)
+![image5](/img/en/client_settings_templates_viber/image5.png)
 
 Available template statuses:
 
@@ -46,13 +58,13 @@ In this tab, you can search for a template by **Sender ID** and **Template Name*
 
 To search for a template, enter **Sender ID** [1] or **Template Name** [2] in the appropriate search field and press the **Search** button icon or the **[ ENTER ]** key.
 
-![image5](/img/en/client_settings_templates_viber/image5.png)
+![image6](/img/en/client_settings_templates_viber/image6.png)
 
 ## Template table
 
 The data is arranged in separate columns:
 
-![image6](/img/en/client_settings_templates_viber/image6.png)
+![image7](/img/en/client_settings_templates_viber/image7.png)
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
@@ -65,8 +77,8 @@ The data is arranged in separate columns:
 
 To delete a template, check the checkbox next to the desired template and click the **Delete** button icon at the top right of the table.
 
-![image7](/img/en/client_settings_templates_viber/image7.png)
+![image8](/img/en/client_settings_templates_viber/image8.png)
 
 To select all template check the checkbox in the table header.
 
-![image8](/img/en/client_settings_templates_viber/image8.png)
+![image9](/img/en/client_settings_templates_viber/image9.png)
