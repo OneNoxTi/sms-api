@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: process.env.PSP_DOCS_DOMAIN,
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/' + process.env.FAVICON,
   url: 'https://' + process.env.PSP_DOCS_DOMAIN,
   baseUrl: '/',
   organizationName: 'facebook',
@@ -35,6 +35,12 @@ const config = {
 
   themeConfig:
     {
+      metadata: [
+        {
+          name: 'robots', 
+          content: 'noindex, nofollow'
+        }
+      ],
       navbar: {
         title: process.env.PSP_NAME,
         items : [
