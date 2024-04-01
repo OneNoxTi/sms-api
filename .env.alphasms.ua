@@ -7,4 +7,4 @@ THEME_DEFAULT_MODE=light
 THEME=./src/css/alphasms.css
 LOCALES=uk
 DEFAULT_LOCALE=uk
-FAVICON=alpha.png
+FAVICON=alpha.svg
