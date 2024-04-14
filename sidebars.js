@@ -22,7 +22,7 @@ function client_uk(){
         'instruction/client/send_sms/bulk_sms',
         'instruction/client/send_sms/voice_mailing',
         'instruction/client/send_sms/viber',
-        //'instruction/client/send_sms/rcs_android',
+        'instruction/client/send_sms/rcs_android',
         'instruction/client/send_sms/sender_id',
         'instruction/client/send_sms/templates',
         'instruction/client/send_sms/planner'
@@ -108,7 +108,7 @@ function client_en(){
         'instruction/client/send_sms/bulk_sms',
         'instruction/client/send_sms/voice_mailing',
         'instruction/client/send_sms/viber',
-        //'instruction/client/send_sms/rcs_android',
+        'instruction/client/send_sms/rcs_android',
         'instruction/client/send_sms/sender_id',
         'instruction/client/send_sms/templates',
         'instruction/client/send_sms/planner'
@@ -266,7 +266,7 @@ function client_admin(){
             'instruction/client/send_sms/bulk_sms',
             'instruction/client/send_sms/voice_mailing',
             'instruction/client/send_sms/viber',
-            //'instruction/client/send_sms/rcs_android',
+            'instruction/client/send_sms/rcs_android',
             'instruction/client/send_sms/sender_id',
             'instruction/client/send_sms/templates',
             'instruction/client/send_sms/planner'
