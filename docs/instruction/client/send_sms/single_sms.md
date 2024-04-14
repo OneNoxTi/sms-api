@@ -20,6 +20,7 @@ To send a SMS message, follow the steps below:
 | 3 | Select the **date** on which you want to send the message. You can enter the date manually or select it in the calendar, to do this, click the **Calendar icon** on the right side of the field |
 | 4 | Specify the **time** to send the message. You can enter the time manually or select from the list by pressing the **Clock** icon on the right side of the field (be sure to specify **Kyiv** time) |
 | 5 | Enter the **message text** (sign limits per message: **70** for cyrillic and **160** for latin) <br/> Use the **VARIABLE VALUE** button to add a variable to the message text <br/> The right side of the message text input field shows the **number of entered signs** and **the number of messages** required to send the entered text <br/> You can also switch the message text from cyrillic to latin and vice versa using the **LATIN/CYRILLIC** selector |
+| 6 | If necessary, check the checkbox **Shorten and track links**. We will replace your link with our short one and will track the transitions of each individual subscriber |
 
 Press **EXECUTE** to send the message.
 
