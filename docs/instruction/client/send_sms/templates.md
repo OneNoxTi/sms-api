@@ -1,6 +1,7 @@
 ---
 id: templates
 title: Templates
+sidebar_label: Templates
 ---
 
 This tab is intended for creating message templates, as well as for editing and deleting already existing templates.

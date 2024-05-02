@@ -1,6 +1,7 @@
 ---
 id: bulk_sms_reports
 title: Bulk SMS
+sidebar_label: Bulk SMS
 ---
 
 In this tab you can view bulk mailing reports for a specific period, as well as export the report to an xlsx file.

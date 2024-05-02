@@ -1,6 +1,7 @@
 ---
 id: manual
 title: Manual
+sidebar_label: Manual
 ---
 
 In this tab, you can add user instruction (manual).

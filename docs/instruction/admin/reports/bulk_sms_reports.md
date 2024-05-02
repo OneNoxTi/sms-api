@@ -1,6 +1,7 @@
 ---
 id: bulk_sms_reports
 title: Bulk SMS
+sidebar_label: Bulk SMS
 ---
 
 In this tab, you can view a report of bulk sms sent by your clients. You can also export the report to an xlsx file.

@@ -1,6 +1,7 @@
 ---
 id: templates_sms
 title: Templates SMS
+sidebar_label: Templates SMS
 ---
 
 This tab is intended for adding new SMS templates, as well as for editing and deleting existing templates.

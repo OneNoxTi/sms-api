@@ -1,6 +1,7 @@
 ---
 id: settings
 title: Settings
+sidebar_label: Settings
 ---
 
 In this tab, you can specify settings for the site.

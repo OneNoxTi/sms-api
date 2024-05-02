@@ -1,6 +1,7 @@
 ---
 id: interface
 title: Interface
+sidebar_label: Interface
 ---
 
 ## Main page of the personal cabinet

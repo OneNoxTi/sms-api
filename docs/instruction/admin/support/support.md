@@ -1,6 +1,7 @@
 ---
 id: support
 title: Support
+sidebar_label: Support
 ---
 
 This section is used to view tickets with technical support questions from your clients.

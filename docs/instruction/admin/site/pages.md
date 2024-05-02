@@ -1,6 +1,7 @@
 ---
 id: pages
 title: Pages
+sidebar_label: Pages
 ---
 
 In this tab you can customize the structure of the site's information pages. You can add new pages, as well as edit and delete pages already created.

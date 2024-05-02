@@ -1,6 +1,7 @@
 ---
 id: payment
 title: Payment
+sidebar_label: Payments
 ---
 
 In this tab you can top up your account balance online or by invoice.

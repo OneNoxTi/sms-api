@@ -1,6 +1,7 @@
 ---
 id: api_reports
 title: API
+sidebar_label: API
 ---
 
 On this tab you can view reports about messages sent via API. You can also export the report to an xlsx file.

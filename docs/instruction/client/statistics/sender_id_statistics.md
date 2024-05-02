@@ -1,6 +1,7 @@
 ---
 id: sender_id_statistics
 title: Sender ID
+sidebar_label: Sender ID
 ---
 
 In this tab you can view statistics by sender ID's and also check the efficiency of the mailing.

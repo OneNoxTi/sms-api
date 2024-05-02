@@ -1,6 +1,7 @@
 ---
 id: account
 title: Account
+sidebar_label: Account
 ---
 
 This tab contains a list of your clients' invoices with detailed information about them. Invoices are generated on the [**Finance - Deposit**](../../client/finances/payment.md) tab.

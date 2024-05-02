@@ -1,6 +1,7 @@
 ---
 id: lower_menu
 title: Lower Menu
+sidebar_label: Lower Menu
 ---
 
 In this tab, you can add new menu that are displayed at the bottom of the page.

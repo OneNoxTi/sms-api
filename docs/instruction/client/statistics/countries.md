@@ -1,6 +1,7 @@
 ---
 id: countries
 title: Countries
+sidebar_label: Countries
 ---
 
 In this tab you can view statistics by countries and also check the efficiency of the mailing.

@@ -1,6 +1,7 @@
 ---
 id: single_sms_reports
 title: Single SMS
+sidebar_label: Single SMS
 ---
 
 In this tab, you can view a report of single sms sent by your clients. You can also export the report to an xlsx file.

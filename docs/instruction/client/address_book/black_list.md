@@ -1,6 +1,7 @@
 ---
 id: black_list
 title: Black List
+sidebar_label: Black List
 ---
 
 This tab allows you to blacklist numbers you do not want to send messages to.

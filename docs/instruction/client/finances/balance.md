@@ -1,6 +1,7 @@
 ---
 id: balance
 title: Balance
+sidebar_label: Balance
 ---
 
 In this tab you can view the transaction history of the wallet balance for a certain period.

@@ -1,6 +1,7 @@
 ---
 id: single_sms
 title: Single SMS
+sidebar_label: Single SMS
 ---
 
 In this tab you can send SMS to one number or specify several numbers using comma.

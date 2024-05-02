@@ -1,6 +1,7 @@
 ---
 id: viber
 title: Viber
+sidebar_label: Viber
 ---
 
 In this tab you can send messages via Viber to one or more numbers. You can also create bulk Viber messages. Messages can contain text and image, or a combination of text, image and button.

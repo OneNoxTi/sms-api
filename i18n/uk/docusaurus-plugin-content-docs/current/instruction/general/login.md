@@ -1,6 +1,7 @@
 ---
 id: login
 title: Авторизація
+sidebar_label: Авторизація
 slug: /
 ---
 

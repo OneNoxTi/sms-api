@@ -1,6 +1,7 @@
 ---
 id: voice_mailing
 title: Voice Mailing
+sidebar_label: Voice Mailing
 ---
 
 In this tab you can create a mailing of voice messages. The recipient will receive a phone call in which they will hear your recorded voice message.

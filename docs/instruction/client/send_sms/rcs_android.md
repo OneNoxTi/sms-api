@@ -1,6 +1,7 @@
 ---
 id: rcs_android
 title: RCS Android
+sidebar_label: RCS Android
 ---
 
 On this tab, you can create mass mailings of messages that will be sent using the RCS (Rich Communication Services) protocol.

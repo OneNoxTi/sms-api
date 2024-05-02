@@ -1,6 +1,7 @@
 ---
 id: bulk_sms
 title: Bulk SMS
+sidebar_label: Bulk SMS
 ---
 
 In this tab you can send bulk SMS to many numbers at the same time.

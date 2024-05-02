@@ -1,6 +1,7 @@
 ---
 id: templates_viber
 title: Templates Viber
+sidebar_label: Templates Viber
 ---
 
 This tab is intended for adding new Viber message templates, as well as for editing and deleting existing templates.

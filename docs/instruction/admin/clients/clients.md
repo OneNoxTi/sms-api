@@ -1,6 +1,7 @@
 ---
 id: clients
 title: Clients
+sidebar_label: Clients
 ---
 
 This section contains a list of your clients with detailed information about them. Also in this section you can view detailed statistics of the client, as well as manage the balance of his account.

@@ -1,6 +1,7 @@
 ---
 id: hlr
 title: HLR
+sidebar_label: HLR
 ---
 
 In this tab you can check the validity of the number in your address book. You can also get detailed information about numbers, including determining the mobile operator and the numbers in roaming. The subscriber does not receive any notification, since the request is directed to the equipment of the telecom operator.

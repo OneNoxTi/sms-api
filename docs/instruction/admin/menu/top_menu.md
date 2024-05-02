@@ -1,6 +1,7 @@
 ---
 id: top_menu
 title: Top Menu
+sidebar_label: Top Menu
 ---
 
 In this tab, you can add new menu that are displayed at the top of the page.
