@@ -182,7 +182,8 @@ function admin(){
       type: 'category',
       label: 'Clients',
       items: [
-        'instruction/admin/clients/clients'
+        'instruction/admin/clients/clients',
+        'instruction/admin/clients/visits'
       ]
     },
     {
@@ -349,7 +350,8 @@ function client_admin(){
           type: 'category',
           label: 'Clients',
           items: [
-            'instruction/admin/clients/clients'
+            'instruction/admin/clients/clients',
+            'instruction/admin/clients/visits'
           ]
         },
         {
