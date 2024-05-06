@@ -12,13 +12,13 @@ To continue registration in the service, follow the steps below:
 
 |  №  | Action |
 | :-: | ------ |
-| 1 | Enter your **name** |
-| 2 | Enter your **phone number** |
-| 3 | Create and enter a **password** |
-| 4 | Enter the **name of the company** |
-| 5 | Enter your **e-mail** address |
+| 1 | Enter your **Name** |
+| 2 | Enter your **Phone number** |
+| 3 | Create and enter a **Password** |
+| 4 | Enter **The name of the company** |
+| 5 | Enter your **Email** address |
 
-Check the data you entered and then press the **Registration** button.
+Check the data you entered and then press the **REGISTRATION** button.
 
 ![image2](/img/en/general_registration/image2.png)
 
