@@ -3,7 +3,7 @@ require('dotenv-defaults').config()
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const config = {
-  title: process.env.PSP_DOCS_DOMAIN,
+  title: process.env.PSP_NAME,
   tagline: 'Dinosaurs are cool',
   favicon: 'img/' + process.env.FAVICON,
   url: 'https://' + process.env.PSP_DOCS_DOMAIN,
@@ -65,7 +65,14 @@ const config = {
 
     },
     plugins: [
-      require.resolve('docusaurus-plugin-image-zoom')
+      require.resolve('docusaurus-plugin-image-zoom'),
+      [
+        "docusaurus2-dotenv",
+        {
+          systemvars: false,
+          defaults: true
+        },
+      ],
     ]
 };
 

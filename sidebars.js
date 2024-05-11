@@ -5,6 +5,7 @@ let instruction_list = [
     type: 'category',
     label: 'General info',
     items: [
+      'instruction/general/getting_started',
       'instruction/general/registration',
       'instruction/general/login',
       'instruction/general/interface'

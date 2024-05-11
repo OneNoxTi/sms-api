@@ -2,6 +2,7 @@
 id: registration
 title: Registration
 sidebar_label: Registration
+slug: /sign-up/
 ---
 
 To register a new personal account, go to the website and click the **Registration** button in the upper right corner of the page.

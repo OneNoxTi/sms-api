@@ -1,6 +1,6 @@
 ---
 id: viber
-title: Viber
+title: Як зробити масову розсилку в Viber
 sidebar_label: Viber
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: payment
-title: Поповнення
+title: Як поповнити баланс
 sidebar_label: Поповнення
 ---
 

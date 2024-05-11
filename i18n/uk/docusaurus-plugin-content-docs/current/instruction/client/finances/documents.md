@@ -1,6 +1,6 @@
 ---
 id: documents
-title: Документи
+title: Де отримати документи
 sidebar_label: Документи
 ---
 

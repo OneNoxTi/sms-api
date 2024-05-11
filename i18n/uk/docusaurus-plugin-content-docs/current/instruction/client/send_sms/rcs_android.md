@@ -1,6 +1,6 @@
 ---
 id: rcs_android
-title: RCS Android
+title: Як включити RCS Android розсилку
 sidebar_label: RCS Android
 ---
 

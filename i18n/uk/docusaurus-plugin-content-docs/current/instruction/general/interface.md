@@ -2,13 +2,14 @@
 id: interface
 title: Інтерфейс
 sidebar_label: Інтерфейс
+slug: /interface/
 ---
 
 ## Головна сторінка особистого кабінету
 
 Особистий кабінет візуально розділений на 4 блоки:
 
-![image1](/img/uk/general_interface/image1.png)
+![image1](/img/uk/general_interface/image1.png "Інтерфейс") <center><u>Інтерфейс - фото 1</u></center>
 
 |  №  | Блок | Опис |
 | :-: | ---- | ---- |
@@ -21,7 +22,7 @@ sidebar_label: Інтерфейс
 
 Заголовок - це відокремлена верхня частина кабінету, в якій міститься:
 
-![image2](/img/uk/general_interface/image2.png)
+![image2](/img/uk/general_interface/image2.png "Інтерфейс") <center><u>Інтерфейс - фото 2</u></center>
 
 |  №  | Опис |
 | :-: | ---- |
@@ -33,7 +34,7 @@ sidebar_label: Інтерфейс
 
 Щоб вибрати мову інтерфейсу, скористайтеся відповідною кнопкою в правій частині заголовка сторінки.
 
-![image3](/img/uk/general_interface/image3.png)
+![image3](/img/uk/general_interface/image3.png "Інтерфейс") <center><u>Інтерфейс - фото 3</u></center>
 
 Ви можете вибрати одну з доступних мов інтерфейсу:
 
@@ -46,7 +47,7 @@ sidebar_label: Інтерфейс
 
 Бокове меню складається з наступних блоків:
 
-![image4](/img/uk/general_interface/image4.png)
+![image4](/img/uk/general_interface/image4.png "Інтерфейс") <center><u>Інтерфейс - фото 4</u></center>
 
 |  №  | Опис |
 | :-: | ---- |
@@ -57,4 +58,4 @@ sidebar_label: Інтерфейс
 
 Робоча область особистого кабінету містить основний зміст відкритої сторінки. За замовчуванням, при вході в особистий кабінет відображається коротка інструкція **Як надсилати масові SMS**.
 
-![image5](/img/uk/general_interface/image5.png)
+![image5](/img/uk/general_interface/image5.png "Інтерфейс") <center><u>Інтерфейс - фото 5</u></center>

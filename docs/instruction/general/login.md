@@ -2,7 +2,7 @@
 id: login
 title: Login
 sidebar_label: Login
-slug: /
+slug: /sign-in/
 ---
 
 ## Sign in to personal cabinet
