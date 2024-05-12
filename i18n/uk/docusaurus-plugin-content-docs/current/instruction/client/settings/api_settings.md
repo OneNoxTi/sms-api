@@ -10,7 +10,7 @@ sidebar_label: API
 
 ![image1](/img/uk/client_settings_api/image1.png)
 
-## Ключ API
+## Як отримати ключ API
 
 У верхній частині сторінки в рядку **Ваш ключ** вказано ваш поточний **API-ключ**.
 

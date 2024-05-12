@@ -1,6 +1,6 @@
 ---
 id: templates
-title: Templates
+title: How to create email templates for mailing
 sidebar_label: Templates
 ---
 

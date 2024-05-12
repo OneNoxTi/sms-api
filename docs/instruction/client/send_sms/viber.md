@@ -1,6 +1,6 @@
 ---
 id: viber
-title: Viber
+title: How to send a bulk mailing in Viber
 sidebar_label: Viber
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: documents
-title: Documents
+title: Where to get documents
 sidebar_label: Documents
 ---
 

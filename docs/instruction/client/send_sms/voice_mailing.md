@@ -1,6 +1,6 @@
 ---
 id: voice_mailing
-title: Voice Mailing
+title: How to configure voice messaging
 sidebar_label: Voice Mailing
 ---
 

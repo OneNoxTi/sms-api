@@ -1,6 +1,6 @@
 ---
 id: rcs_android
-title: RCS Android
+title: How to enable RCS Android mailing
 sidebar_label: RCS Android
 ---
 

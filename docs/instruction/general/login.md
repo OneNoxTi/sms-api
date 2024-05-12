@@ -2,8 +2,13 @@
 id: login
 title: Login
 sidebar_label: Login
+hide_title: true
 slug: /sign-in/
 ---
+
+import PspName from '@site/src/components/pspName.js';
+
+# How to log in to your personal account <PspName />
 
 ## Sign in to personal cabinet
 

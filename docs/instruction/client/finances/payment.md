@@ -1,6 +1,6 @@
 ---
 id: payment
-title: Payment
+title: How to top up your balance
 sidebar_label: Payments
 ---
 

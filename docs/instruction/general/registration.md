@@ -1,6 +1,6 @@
 ---
 id: registration
-title: Registration
+title: How to register an account
 sidebar_label: Registration
 slug: /sign-up/
 ---

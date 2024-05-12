@@ -10,7 +10,7 @@ To open this tab, select **SMS** → **Settings** in the side menu and select **
 
 ![image1](/img/en/client_settings_api/image1.png)
 
-## API key
+## How to get an API key
 
 At the top of the page in the **Your key** line is your current **API key**.
 

@@ -1,6 +1,6 @@
 ---
 id: black_list
-title: Black List
+title: How to create a blacklist of contacts
 sidebar_label: Black List
 ---
 
