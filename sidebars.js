@@ -35,8 +35,7 @@ function client_uk(){
       items: [
         'instruction/client/reports/single_sms_reports',
         'instruction/client/reports/bulk_sms_reports',
-        'instruction/client/reports/api_reports',
-        //'instruction/client/reports/base_cleaning_reports'
+        'instruction/client/reports/api_reports'
       ]
     },
     {
@@ -121,8 +120,7 @@ function client_en(){
       items: [
         'instruction/client/reports/single_sms_reports',
         'instruction/client/reports/bulk_sms_reports',
-        'instruction/client/reports/api_reports',
-        //'instruction/client/reports/base_cleaning_reports'
+        'instruction/client/reports/api_reports'
       ]
     },
     {
@@ -193,8 +191,7 @@ function admin(){
       items: [
         'instruction/admin/reports/single_sms_reports',
         'instruction/admin/reports/bulk_sms_reports',
-        'instruction/admin/reports/api_reports',
-        //instruction/admin/reports/base_cleaning_reports'
+        'instruction/admin/reports/api_reports'
       ]
     },
     {
@@ -280,8 +277,7 @@ function client_admin(){
           items: [
             'instruction/client/reports/single_sms_reports',
             'instruction/client/reports/bulk_sms_reports',
-            'instruction/client/reports/api_reports',
-            //'instruction/client/reports/base_cleaning_reports'
+            'instruction/client/reports/api_reports'
           ]
         },
         {
@@ -361,8 +357,7 @@ function client_admin(){
           items: [
             'instruction/admin/reports/single_sms_reports',
             'instruction/admin/reports/bulk_sms_reports',
-            'instruction/admin/reports/api_reports',
-            //'instruction/admin/reports/base_cleaning_reports'
+            'instruction/admin/reports/api_reports'
           ]
         },
         {
