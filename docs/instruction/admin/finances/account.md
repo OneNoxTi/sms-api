@@ -5,7 +5,7 @@ sidebar_label: Account
 slug: /admin/account/
 ---
 
-This tab contains a list of your clients' invoices with detailed information about them. Invoices are generated on the [**Finance - Deposit**](../../client/finances/payment.md) tab.
+This tab contains a list of your clients' invoices with detailed information about them. Invoices are generated on the [**Finance - Deposit**](../../client/finances/payments.md) tab.
 
 To open this tab, select **Clients** → **Finances** in the side menu and select **ACCOUNT** tab.
 
