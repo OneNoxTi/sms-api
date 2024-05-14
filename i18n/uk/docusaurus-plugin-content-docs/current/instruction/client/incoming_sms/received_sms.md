@@ -9,7 +9,7 @@ slug: /client/received-sms/
 
 Щоб відкрити дану вкладку, виберіть **Клієнти** → **Вхідні SMS** у боковому меню та перейдіть на вкладку **ПРИЙНЯТІ SMS**.
 
-![image1](/img/uk/client_incoming_sms_received_sms/image1.png)
+![image1](/img/uk/client_incoming_sms_received_sms/image1.png "Прийняті SMS") <center><u>Прийняті SMS - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,7 +22,7 @@ slug: /client/received-sms/
 
 Після вибору дати сторінка оновиться, щоб відобразити прийняті SMS за вказаний період.
 
-![image2](/img/uk/client_incoming_sms_received_sms/image2.png)
+![image2](/img/uk/client_incoming_sms_received_sms/image2.png "Прийняті SMS") <center><u>Прийняті SMS - фото 2</u></center>
 
 ## Пошук
 
@@ -35,17 +35,17 @@ slug: /client/received-sms/
 
 Далі натисніть **ПОШУК**, сторінка оновиться і на ній відобразяться SMS за вказаними параметрами.
 
-![image3](/img/uk/client_incoming_sms_received_sms/image3.png)
+![image3](/img/uk/client_incoming_sms_received_sms/image3.png "Прийняті SMS") <center><u>Прийняті SMS - фото 3</u></center>
 
 ## Експорт звіту
 
 Перед збереженням звіт необхідно згенерувати, для цього натисніть іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image4](/img/uk/client_incoming_sms_received_sms/image4.png)
+![image4](/img/uk/client_incoming_sms_received_sms/image4.png "Прийняті SMS") <center><u>Прийняті SMS - фото 4</u></center>
 
 Через деякий час звіт буде сформовано і його можна буде завантажити, натиснувши на іконку кнопки **ЗАВАНТАЖИТИ**.
 
-![image5](/img/uk/client_incoming_sms_received_sms/image5.png)
+![image5](/img/uk/client_incoming_sms_received_sms/image5.png "Прийняті SMS") <center><u>Прийняті SMS - фото 5</u></center>
 
 Звіт буде збережено на вашому пристрої у форматі **.xlsx**.
 
@@ -53,7 +53,7 @@ slug: /client/received-sms/
 
 Всі прийняті SMS розташовані в таблиці на вкладці **ПРИЙНЯТІ SMS**.
 
-![image6](/img/uk/client_incoming_sms_received_sms/image6.png)
+![image6](/img/uk/client_incoming_sms_received_sms/image6.png "Прийняті SMS") <center><u>Прийняті SMS - фото 6</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

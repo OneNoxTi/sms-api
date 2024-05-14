@@ -9,7 +9,7 @@ This tab contains a list of your clients' invoices with detailed information abo
 
 To open this tab, select **Clients** → **Finances** in the side menu and select **ACCOUNT** tab.
 
-![image1](/img/en/admin_finances_account/image1.png)
+![image1](/img/en/admin_finances_account/image1.png "Account") <center><u>Account - photo 1</u></center>
 
 ## Downloading an invoice
 
@@ -22,7 +22,7 @@ To download a client's invoice, follow these actions:
 
 Click the **DOWNLOAD INVOICE** button.
 
-![image2](/img/en/admin_finances_account/image2.png)
+![image2](/img/en/admin_finances_account/image2.png "Account") <center><u>Account - photo 2</u></center>
 
 ## Period selection
 
@@ -35,7 +35,7 @@ To select the **time period** for which you want to display invoices, follow the
 
 After selecting a date, the page will be refreshed to display invoices for the specified period.
 
-![image3](/img/en/admin_finances_account/image3.png)
+![image3](/img/en/admin_finances_account/image3.png "Account") <center><u>Account - photo 3</u></center>
 
 ## Search
 
@@ -48,13 +48,13 @@ You can also search for specific invoices by **Client ID**. To search for invoic
 
 Next, click **SEARCH**, the page will be refreshed and invoices for the specified parameters will be displayed.
 
-![image4](/img/en/admin_finances_account/image4.png)
+![image4](/img/en/admin_finances_account/image4.png "Account") <center><u>Account - photo 4</u></center>
 
 ## Invoice list
 
 All your clients' invoices are located in the table on the **ACCOUNT** tab. The data is arranged in separate columns:
 
-![image5](/img/en/admin_finances_account/image5.png)
+![image5](/img/en/admin_finances_account/image5.png "Account") <center><u>Account - photo 5</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |

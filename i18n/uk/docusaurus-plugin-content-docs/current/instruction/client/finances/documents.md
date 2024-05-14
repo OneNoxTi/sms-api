@@ -9,13 +9,13 @@ slug: /client/documents/
 
 Щоб відкрити цю вкладку, виберіть **SMS** → **Фінанси** у боковому меню та оберіть вкладку **ДОКУМЕНТИ**.
 
-![image1](/img/uk/client_finances_documents/image1.png)
+![image1](/img/uk/client_finances_documents/image1.png "Де отримати документи") <center><u>Де отримати документи - фото 1</u></center>
 
 ## Список рахунків
 
 Все згенеровані рахунки розташовані в таблиці з детальною інформацією про них. Дані розташовані в окремих колонках:
 
-![image2](/img/uk/client_finances_documents/image2.png)
+![image2](/img/uk/client_finances_documents/image2.png "Де отримати документи") <center><u>Де отримати документи - фото 2</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

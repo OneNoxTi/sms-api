@@ -9,13 +9,13 @@ This tab contains basic information about your profile. You can correct or updat
 
 To open this tab, select **SMS** → **Settings** in the side menu and select **PROFILE** tab.
 
-![image1](/img/en/client_settings_profile/image1.png)
+![image1](/img/en/client_settings_profile/image1.png "Profile") <center><u>Profile - photo 1</u></center>
 
 ## Required information
 
 The required information on your profile contains the following data:
 
-![image2](/img/en/client_settings_profile/image2.png)
+![image2](/img/en/client_settings_profile/image2.png "Profile") <center><u>Profile - photo 2</u></center>
 
 |  №  | Data | Description |
 | :-: | ---- | ----------- |
@@ -32,7 +32,7 @@ The required information on your profile contains the following data:
 
 The non-required information on your profile contains the following data:
 
-![image3](/img/en/client_settings_profile/image3.png)
+![image3](/img/en/client_settings_profile/image3.png "Profile") <center><u>Profile - photo 3</u></center>
 
 |  №  | Data | Description |
 | :-: | ---- | ----------- |
@@ -53,13 +53,13 @@ You can also specify your current address in your profile. To do this, follow th
 | 2 | Specify a **region** |
 | 3 | Choose a **city** |
 
-![image4](/img/en/client_settings_profile/image4.png)
+![image4](/img/en/client_settings_profile/image4.png "Profile") <center><u>Profile - photo 4</u></center>
 
 ## SMS informers
 
 You can use SMS informers about the quote of the day, exchange rate, weather forecast. To do this, expand the block and specify the required SMS-informers.
 
-![image5](/img/en/client_settings_profile/image5.png)
+![image5](/img/en/client_settings_profile/image5.png "Profile") <center><u>Profile - photo 5</u></center>
 
 |  №  | SMS informer |
 | :-: | ------------ |
@@ -76,10 +76,10 @@ To change the password, expand the block and follow the steps below:
 | 1 | Enter a **new password** |
 | 2 | Repeat the **new password** |
 
-![image6](/img/en/client_settings_profile/image6.png)
+![image6](/img/en/client_settings_profile/image6.png "Profile") <center><u>Profile - photo 6</u></center>
 
 ## Saving changes
 
 To save all changes, press the **SAVE** button.
 
-![image7](/img/en/client_settings_profile/image7.png)
+![image7](/img/en/client_settings_profile/image7.png "Profile") <center><u>Profile - photo 7</u></center>

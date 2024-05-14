@@ -9,17 +9,17 @@ In this tab you can clean up your address books leaving only valid numbers. Phon
 
 To open this tab, select **SMS** → **HLR** in the side menu and select **CLEAR BASE** tab.
 
-![image1](/img/en/client_hlr_clear_base/image1.png)
+![image1](/img/en/client_hlr_clear_base/image1.png "Clear Base") <center><u>Clear Base - photo 1</u></center>
 
 ## Base cleaning
 
 To clear your address book of invalid numbers, press **+ ADD**.
 
-![image2](/img/en/client_hlr_clear_base/image2.png)
+![image2](/img/en/client_hlr_clear_base/image2.png "Clear Base") <center><u>Clear Base - photo 2</u></center>
 
 Next, add numbers using one of the available methods:
 
-![image3](/img/en/client_hlr_clear_base/image3.png)
+![image3](/img/en/client_hlr_clear_base/image3.png "Clear Base") <center><u>Clear Base - photo 3</u></center>
 
 |  №  | Method |
 | :-: | ------ |
@@ -29,13 +29,13 @@ Next, add numbers using one of the available methods:
 
 Press the **EXECUTE** button to start base clearing.
 
-![image4](/img/en/client_hlr_clear_base/image4.png)
+![image4](/img/en/client_hlr_clear_base/image4.png "Clear Base") <center><u>Clear Base - photo 4</u></center>
 
 ## Base clearing results
 
 The results of the base cleanup are located in a table with the data in separate columns:
 
-![image5](/img/en/client_hlr_clear_base/image5.png)
+![image5](/img/en/client_hlr_clear_base/image5.png "Clear Base") <center><u>Clear Base - photo 5</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |

@@ -9,7 +9,7 @@ slug: /admin/email-mailing/
 
 Щоб відкрити цю вкладку, виберіть **Клієнти** → **Розсилка** у боковому меню та перейдіть на вкладку **РОЗСИЛАННЯ**.
 
-![image1](/img/uk/admin_mailing_email_mailing/image1.png)
+![image1](/img/uk/admin_mailing_email_mailing/image1.png "Email Розсилка") <center><u>Email Розсилка - фото 1</u></center>
 
 ## Відправлення електронного листа
 
@@ -26,4 +26,4 @@ slug: /admin/email-mailing/
 
 Натисніть **НАДІСЛАТИ** щоб відправити листа.
 
-![image2](/img/uk/admin_mailing_email_mailing/image2.png)
+![image2](/img/uk/admin_mailing_email_mailing/image2.png "Email Розсилка") <center><u>Email Розсилка - фото 2</u></center>

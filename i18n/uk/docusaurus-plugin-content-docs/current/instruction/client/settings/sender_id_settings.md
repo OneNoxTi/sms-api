@@ -9,13 +9,13 @@ slug: /client/sender-id-settings/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Налаштування** у боковому меню та перейдіть на вкладку **ВІДПРАВНИК**.
 
-![image1](/img/uk/client_settings_sender_id/image1.png)
+![image1](/img/uk/client_settings_sender_id/image1.png "Відправник") <center><u>Відправник - фото 1</u></center>
 
 ## Додавання нового відправника
 
 Щоб додати нового відправника, натисніть кнопку **+ ДОДАТИ** у верхньому лівому кутку сторінки.
 
-![image2](/img/uk/client_settings_sender_id/image2.png)
+![image2](/img/uk/client_settings_sender_id/image2.png "Відправник") <center><u>Відправник - фото 2</u></center>
 
 Виконайте наведені нижче дії:
 
@@ -30,13 +30,13 @@ slug: /client/sender-id-settings/
 
 Натисніть **ЗБЕРЕГТИ**, щоб створити ідентифікатор відправника. Новий ідентифікатор відправника буде відображено в [таблиці](#таблиця-відправників).
 
-![image3](/img/uk/client_settings_sender_id/image3.png)
+![image3](/img/uk/client_settings_sender_id/image3.png "Відправник") <center><u>Відправник - фото 3</u></center>
 
 ## Таблиця відправників
 
 Дані розташовані в окремих колонках:
 
-![image4](/img/uk/client_settings_sender_id/image4.png)
+![image4](/img/uk/client_settings_sender_id/image4.png "Відправник") <center><u>Відправник - фото 4</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -47,4 +47,4 @@ slug: /client/sender-id-settings/
 
 Щоб видалити відправника, відзначте чекбокс навпроти потрібного відправника і натисніть іконку кнопки **Видалити** у верхньому правому куті таблиці.
 
-![image5](/img/uk/client_settings_sender_id/image5.png)
+![image5](/img/uk/client_settings_sender_id/image5.png "Відправник") <center><u>Відправник - фото 5</u></center>

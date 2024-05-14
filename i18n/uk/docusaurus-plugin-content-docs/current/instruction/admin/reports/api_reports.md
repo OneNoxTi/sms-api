@@ -9,7 +9,7 @@ slug: /admin/api-reports/
 
 Щоб відкрити дану вкладку, виберіть **Клієнти** → **Звіти** у боковому меню та перейдіть на вкладку **API**.
 
-![image1](/img/uk/admin_reports_api/image1.png)
+![image1](/img/uk/admin_reports_api/image1.png "API") <center><u>API - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,7 +22,7 @@ slug: /admin/api-reports/
 
 Після вибору дати сторінка оновиться, щоб відобразити звіти за вказаний період.
 
-![image2](/img/uk/admin_reports_api/image2.png)
+![image2](/img/uk/admin_reports_api/image2.png "API") <center><u>API - фото 2</u></center>
 
 ## Пошук
 
@@ -35,17 +35,17 @@ slug: /admin/api-reports/
 
 Далі натисніть **ПОШУК**, сторінка оновиться і на ній відобразяться звіти за вказаними параметрами.
 
-![image3](/img/uk/admin_reports_api/image3.png)
+![image3](/img/uk/admin_reports_api/image3.png "API") <center><u>API - фото 3</u></center>
 
 ## Експорт звіту
 
 Перед збереженням звіт необхідно згенерувати, для цього натисніть іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image4](/img/uk/admin_reports_api/image4.png)
+![image4](/img/uk/admin_reports_api/image4.png "API") <center><u>API - фото 4</u></center>
 
 Через деякий час звіт буде сформовано і його можна буде завантажити, натиснувши на іконку кнопки **ЗАВАНТАЖИТИ**.
 
-![image5](/img/uk/admin_reports_api/image5.png)
+![image5](/img/uk/admin_reports_api/image5.png "API") <center><u>API - фото 5</u></center>
 
 Звіт буде збережено на вашому пристрої у форматі **.xlsx**.
 
@@ -53,7 +53,7 @@ slug: /admin/api-reports/
 
 У верхній частині сторінки розташовані фільтри, які дозволяють відображати в таблиці тільки необхідні звіти. Доступні наступні фільтри:
 
-![image6](/img/uk/admin_reports_api/image6.png)
+![image6](/img/uk/admin_reports_api/image6.png "API") <center><u>API - фото 6</u></center>
 
 |  №  | Фільтр |
 | :-: | ------ |
@@ -66,7 +66,7 @@ slug: /admin/api-reports/
 
 Також у верхній частині сторінки є фільтри, які дозволяють відображати в таблиці тільки звіти за певним статусом розсилок. Доступні наступні фільтри:
 
-![image7](/img/uk/admin_reports_api/image7.png)
+![image7](/img/uk/admin_reports_api/image7.png "API") <center><u>API - фото 7</u></center>
 
 |  №  | Фільтр |
 | :-: | ------ |
@@ -82,7 +82,7 @@ slug: /admin/api-reports/
 
 Всі звіти розташовані в таблиці на вкладці **API**.
 
-![image8](/img/uk/admin_reports_api/image8.png)
+![image8](/img/uk/admin_reports_api/image8.png "API") <center><u>API - фото 8</u></center>
 
 |  №  | Дані |
 | :-: | ---- |
@@ -93,4 +93,4 @@ slug: /admin/api-reports/
 
 Натисніть на **Звіт**, щоб переглянути текст повідомлення.
 
-![image9](/img/uk/admin_reports_api/image9.png)
+![image9](/img/uk/admin_reports_api/image9.png "API") <center><u>API - фото 9</u></center>

@@ -9,7 +9,7 @@ In this tab you can view statistics by operators and also check the efficiency o
 
 To open this tab, select **SMS** → **Statistics** in the side menu and select **OPERATORS** tab.
 
-![image1](/img/en/client_statistics_operators/image1.png)
+![image1](/img/en/client_statistics_operators/image1.png "Operators") <center><u>Operators - photo 1</u></center>
 
 ## Period selection
 
@@ -22,17 +22,17 @@ To select the **time period** for which you want to display statistic, follow th
 
 After selecting a date, click the **SEARCH** button. The page will be refreshed and display statistics for the specified period.
 
-![image2](/img/en/client_statistics_operators/image2.png)
+![image2](/img/en/client_statistics_operators/image2.png "Operators") <center><u>Operators - photo 2</u></center>
 
 ## Exporting a report
 
 To export statistical reporting click the **Export** button icon to the right of the **SEARCH** button.
 
-![image3](/img/en/client_statistics_operators/image3.png)
+![image3](/img/en/client_statistics_operators/image3.png "Operators") <center><u>Operators - photo 3</u></center>
 
 A new pop-up window will open where you need to select the data you want to export. After selecting the data, click the **EXPORT** button to export. To cancel, click the **CANCEL** button.
 
-![image4](/img/en/client_statistics_operators/image4.png)
+![image4](/img/en/client_statistics_operators/image4.png "Operators") <center><u>Operators - photo 4</u></center>
 
 After pressing the **EXPORT** button, the report will be saved on your device in an **.xlsx** file.
 
@@ -40,13 +40,13 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 This chart displays the number of sent messages for each operator. Statistics are displayed for the [specified period](#period-selection).
 
-![image5](/img/en/client_statistics_operators/image5.png)
+![image5](/img/en/client_statistics_operators/image5.png "Operators") <center><u>Operators - photo 5</u></center>
 
 ## Statistics table
 
 All statistical data are arranged in the table in separate columns:
 
-![image6](/img/en/client_statistics_operators/image6.png)
+![image6](/img/en/client_statistics_operators/image6.png "Operators") <center><u>Operators - photo 6</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |

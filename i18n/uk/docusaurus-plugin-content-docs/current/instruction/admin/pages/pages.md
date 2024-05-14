@@ -9,13 +9,13 @@ slug: /admin/pages/
 
 Щоб відкрити даний розділ оберіть **Клієнти** → **Сторінки** в боковому меню.
 
-![image1](/img/uk/admin_pages/image1.png)
+![image1](/img/uk/admin_pages/image1.png "Сторінки") <center><u>Сторінки - фото 1</u></center>
 
 ## Додавання сторінки
 
 Щоб додати нову сторінку, натисніть кнопку **+ ДОДАТИ** у верхньому лівому кутку сторінки.
 
-![image2](/img/uk/admin_pages/image2.png)
+![image2](/img/uk/admin_pages/image2.png "Сторінки") <center><u>Сторінки - фото 2</u></center>
 
 Далі виконайте наведені нижче дії:
 
@@ -31,7 +31,7 @@ slug: /admin/pages/
 | 8 | Відзначте чекбокс **Nofollow** якщо необхідно для посилань активувати параметр `nofollow` |
 | 9 | Вкажіть **Пріоритет** сторінки |
 
-![image3](/img/uk/admin_pages/image3.png)
+![image3](/img/uk/admin_pages/image3.png "Сторінки") <center><u>Сторінки - фото 3</u></center>
 
 |  №  | Дія |
 | :-: | --- |
@@ -44,13 +44,13 @@ slug: /admin/pages/
 
 Натисніть **ВИКОНАТИ**, щоб зберегти сторінку.
 
-![image4](/img/uk/admin_pages/image4.png)
+![image4](/img/uk/admin_pages/image4.png "Сторінки") <center><u>Сторінки - фото 4</u></center>
 
 ## Таблиця зі сторінками
 
 Таблиця містить перелік сторінок з детальною інформацією про них. Дані розташовані в окремих колонках:
 
-![image5](/img/uk/admin_pages/image5.png)
+![image5](/img/uk/admin_pages/image5.png "Сторінки") <center><u>Сторінки - фото 5</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -62,14 +62,14 @@ slug: /admin/pages/
 
 Щоб відредагувати сторінку, натисніть на неї в таблиці зі сторінками. Відкриється сторінка **редагування сторінки**, дії аналогічні при [додаванні сторінки](#додавання-сторінки).
 
-![image6](/img/uk/admin_pages/image6.png)
+![image6](/img/uk/admin_pages/image6.png "Сторінки") <center><u>Сторінки - фото 6</u></center>
 
 ## Видалення сторінки
 
 Щоб видалити одну або кілька сторінок, відзначте **Чекбокс** навпроти потрібних сторінок і натисніть іконку кнопки **Видалити** у верхньому правому куті сторінки.
 
-![image7](/img/uk/admin_pages/image7.png)
+![image7](/img/uk/admin_pages/image7.png "Сторінки") <center><u>Сторінки - фото 7</u></center>
 
 Щоб вибрати всі сторінки, відзначте чекбокс у заголовку таблиці.
 
-![image8](/img/uk/admin_pages/image8.png)
+![image8](/img/uk/admin_pages/image8.png "Сторінки") <center><u>Сторінки - фото 8</u></center>

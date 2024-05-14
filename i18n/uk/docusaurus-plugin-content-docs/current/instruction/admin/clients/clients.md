@@ -9,7 +9,7 @@ slug: /admin/clients/
 
 Щоб відкрити даний розділ, виберіть **Клієнти** → **Клієнти** у боковому меню.
 
-![image1](/img/uk/admin_clients_clients/image1.png)
+![image1](/img/uk/admin_clients_clients/image1.png "Клієнти") <center><u>Клієнти - фото 1</u></center>
 
 ## Інтерфейс
 
@@ -19,23 +19,23 @@ slug: /admin/clients/
 
 За замовчуванням на сторінці відображається до 10 рядків.
 
-![image2](/img/uk/admin_clients_clients/image2.png)
+![image2](/img/uk/admin_clients_clients/image2.png "Клієнти") <center><u>Клієнти - фото 2</u></center>
 
 Для перемикання сторінок скористайтеся кнопками навігації **Вліво** і **Вправо**, які розташовані під таблицею. Ви також можете ввести номер потрібної сторінки, щоб перейти на неї.
 
-![image3](/img/uk/admin_clients_clients/image3.png)
+![image3](/img/uk/admin_clients_clients/image3.png "Клієнти") <center><u>Клієнти - фото 3</u></center>
 
 ## Пошук
 
 Для пошуку конкретного клієнта введіть потрібне значення в поле **Пошук за користувачем** і натисніть іконку кнопки **Пошук** або клавішу **[ Enter ]**. Ви можете шукати клієнта за **ID**, **Логіном**, **Компанією** або **Іменем клієнта**.
 
-![image4](/img/uk/admin_clients_clients/image4.png)
+![image4](/img/uk/admin_clients_clients/image4.png "Клієнти") <center><u>Клієнти - фото 4</u></center>
 
 ## Таблиця з клієнтами
 
 Таблиця містить список клієнтів з детальною інформацією про них. Дані розташовані в окремих колонках:
 
-![image5](/img/uk/admin_clients_clients/image5.png)
+![image5](/img/uk/admin_clients_clients/image5.png "Клієнти") <center><u>Клієнти - фото 5</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -52,11 +52,11 @@ slug: /admin/clients/
 
 Щоб переглянути сторінку клієнта, в таблиці натисніть на рядок потрібного клієнта.
 
-![image6](/img/uk/admin_clients_clients/image6.png)
+![image6](/img/uk/admin_clients_clients/image6.png "Клієнти") <center><u>Клієнти - фото 6</u></center>
 
 **Сторінка клієнта** містить наступні вкладки:
 
-![image7](/img/uk/admin_clients_clients/image7.png)
+![image7](/img/uk/admin_clients_clients/image7.png "Клієнти") <center><u>Клієнти - фото 7</u></center>
 
 |  №  | Вкладка | Опис |
 | :-: | ------- | ---- |
@@ -69,7 +69,7 @@ slug: /admin/clients/
 
 Вкладка **ЗАГАЛЬНА ІНФОРМАЦІЯ** містить наступні дані про клієнта:
 
-![image8](/img/uk/admin_clients_clients/image8.png)
+![image8](/img/uk/admin_clients_clients/image8.png "Клієнти") <center><u>Клієнти - фото 8</u></center>
 
 |  №  | Дані | Опис |
 | :-: | ---- | ---- |
@@ -91,13 +91,13 @@ slug: /admin/clients/
 
 Щоб увімкнути/вимкнути підписку клієнта на розсилку, відзначте чекбокс **Підписка до розсилки** (або зніміть відмітку). Потім натисніть **ЗБЕРЕГТИ**.
 
-![image9](/img/uk/admin_clients_clients/image9.png)
+![image9](/img/uk/admin_clients_clients/image9.png "Клієнти") <center><u>Клієнти - фото 9</u></center>
 
 ### ФІНАНСИ
 
 У верхній лівій частині вкладки **ФІНАНСИ** відображається поточний баланс та кредитний залишок на рахунку.
 
-![image10](/img/uk/admin_clients_clients/image10.png)
+![image10](/img/uk/admin_clients_clients/image10.png "Клієнти") <center><u>Клієнти - фото 10</u></center>
 
 #### Встановлення кредитного балансу
 
@@ -110,7 +110,7 @@ slug: /admin/clients/
 
 Натисніть кнопку **ЗБЕРЕГТИ**, щоб зберегти зміни.
 
-![image11](/img/uk/admin_clients_clients/image11.png)
+![image11](/img/uk/admin_clients_clients/image11.png "Клієнти") <center><u>Клієнти - фото 11</u></center>
 
 #### Поповнення акаунта клієнта
 
@@ -123,7 +123,7 @@ slug: /admin/clients/
 
 Натисніть кнопку **ЗБЕРЕГТИ**, щоб поповнити рахунок.
 
-![image12](/img/uk/admin_clients_clients/image12.png)
+![image12](/img/uk/admin_clients_clients/image12.png "Клієнти") <center><u>Клієнти - фото 12</u></center>
 
 #### Вибір періоду
 
@@ -136,13 +136,13 @@ slug: /admin/clients/
 
 Після вибору дати сторінка оновиться, щоб відобразити історію транзакцій за вказаний період.
 
-![image13](/img/uk/admin_clients_clients/image13.png)
+![image13](/img/uk/admin_clients_clients/image13.png "Клієнти") <center><u>Клієнти - фото 13</u></center>
 
 #### Список транзакцій
 
 Вся історія транзакцій по балансу рахунку розташована в таблиці в окремих колонках:
 
-![image14](/img/uk/admin_clients_clients/image14.png)
+![image14](/img/uk/admin_clients_clients/image14.png "Клієнти") <center><u>Клієнти - фото 14</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -156,7 +156,7 @@ slug: /admin/clients/
 
 Щоб експортувати історію транзакцій, натисніть на іконку кнопки **Експорт**.
 
-![image15](/img/uk/admin_clients_clients/image15.png)
+![image15](/img/uk/admin_clients_clients/image15.png "Клієнти") <center><u>Клієнти - фото 15</u></center>
 
 Після натискання іконки кнопки **Експорт** звіт буде збережено на вашому пристрої у файлі **.xlsx**.
 
@@ -170,7 +170,7 @@ slug: /admin/clients/
 
 Щоб відкрити даний звіт, відкрийте вкладку **СТАТИСТИКА** і виберіть звіт **УГРУПУВАННЯ ЩОДНЯ**.
 
-![image16](/img/uk/admin_clients_clients/image16.png)
+![image16](/img/uk/admin_clients_clients/image16.png "Клієнти") <center><u>Клієнти - фото 16</u></center>
 
 ##### Вибір періоду
 
@@ -183,17 +183,17 @@ slug: /admin/clients/
 
 Після вибору дати натисніть кнопку **ПОШУК**. Сторінка оновиться, щоб відобразити статистику за вказаний період.
 
-![image17](/img/uk/admin_clients_clients/image17.png)
+![image17](/img/uk/admin_clients_clients/image17.png "Клієнти") <center><u>Клієнти - фото 17</u></center>
 
 ##### Експорт звіту
 
 Щоб експортувати статистичну звітність, натисніть на іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image18](/img/uk/admin_clients_clients/image18.png)
+![image18](/img/uk/admin_clients_clients/image18.png "Клієнти") <center><u>Клієнти - фото 18</u></center>
 
 Відкриється нове спливаюче вікно, де вам потрібно вибрати дані, які ви хочете експортувати. Після вибору даних натисніть кнопку **ЕКСПОРТ** для експорту. Для скасування - кнопку **СКАСУВАТИ**.
 
-![image19](/img/uk/admin_clients_clients/image19.png)
+![image19](/img/uk/admin_clients_clients/image19.png "Клієнти") <center><u>Клієнти - фото 19</u></center>
 
 Після натискання кнопки **ЕКСПОРТ** звіт буде збережено на вашому пристрої у файлі **.xlsx**.
 
@@ -201,7 +201,7 @@ slug: /admin/clients/
 
 Ця діаграма відображає кількість відправлених і доставлених повідомлень за кожен день зазначеного періоду.
 
-![image20](/img/uk/admin_clients_clients/image20.png)
+![image20](/img/uk/admin_clients_clients/image20.png "Клієнти") <center><u>Клієнти - фото 20</u></center>
 
 **Синій графік** - кількість відправлених повідомлень. **Фіолетовий графік** - кількість доставлених повідомлень.
 
@@ -209,7 +209,7 @@ slug: /admin/clients/
 
 Всі статистичні дані розташовані в таблиці в окремих колонках:
 
-![image21](/img/uk/admin_clients_clients/image21.png)
+![image21](/img/uk/admin_clients_clients/image21.png "Клієнти") <center><u>Клієнти - фото 21</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -225,7 +225,7 @@ slug: /admin/clients/
 
 Щоб відкрити даний звіт, відкрийте вкладку **СТАТИСТИКА** і виберіть звіт **УГРУПУВАННЯ ЗА ОПЕРАТОРАМИ**.
 
-![image22](/img/uk/admin_clients_clients/image22.png)
+![image22](/img/uk/admin_clients_clients/image22.png "Клієнти") <center><u>Клієнти - фото 22</u></center>
 
 ##### Вибір періоду
 
@@ -238,17 +238,17 @@ slug: /admin/clients/
 
 Після вибору дати натисніть кнопку **ПОШУК**. Сторінка оновиться, щоб відобразити статистику за вказаний період.
 
-![image23](/img/uk/admin_clients_clients/image23.png)
+![image23](/img/uk/admin_clients_clients/image23.png "Клієнти") <center><u>Клієнти - фото 23</u></center>
 
 ##### Експорт звіту
 
 Щоб експортувати статистичну звітність, натисніть на іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image24](/img/uk/admin_clients_clients/image24.png)
+![image24](/img/uk/admin_clients_clients/image24.png "Клієнти") <center><u>Клієнти - фото 24</u></center>
 
 Відкриється нове спливаюче вікно, де вам потрібно вибрати дані, які ви хочете експортувати. Після вибору даних натисніть кнопку **ЕКСПОРТ** для експорту. Для скасування - кнопку **СКАСУВАТИ**.
 
-![image25](/img/uk/admin_clients_clients/image25.png)
+![image25](/img/uk/admin_clients_clients/image25.png "Клієнти") <center><u>Клієнти - фото 25</u></center>
 
 Після натискання кнопки **ЕКСПОРТ** звіт буде збережено на вашому пристрої у файлі **.xlsx**.
 
@@ -256,13 +256,13 @@ slug: /admin/clients/
 
 Ця діаграма відображає кількість відправлених повідомлень для кожного оператора. Статистика відображається для вказаного періоду.
 
-![image26](/img/uk/admin_clients_clients/image26.png)
+![image26](/img/uk/admin_clients_clients/image26.png "Клієнти") <center><u>Клієнти - фото 26</u></center>
 
 ##### Таблиця статистики
 
 Всі статистичні дані розташовані в таблиці в окремих колонках:
 
-![image27](/img/uk/admin_clients_clients/image27.png)
+![image27](/img/uk/admin_clients_clients/image27.png "Клієнти") <center><u>Клієнти - фото 27</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -278,7 +278,7 @@ slug: /admin/clients/
 
 Щоб відкрити даний звіт, відкрийте вкладку **СТАТИСТИКА** і виберіть звіт **УГРУПУВАННЯ ЗА АЛЬФАІМЕНАМИ**.
 
-![image28](/img/uk/admin_clients_clients/image28.png)
+![image28](/img/uk/admin_clients_clients/image28.png "Клієнти") <center><u>Клієнти - фото 28</u></center>
 
 ##### Вибір періоду
 
@@ -291,17 +291,17 @@ slug: /admin/clients/
 
 Після вибору дати натисніть кнопку **ПОШУК**. Сторінка оновиться, щоб відобразити статистику за вказаний період.
 
-![image29](/img/uk/admin_clients_clients/image29.png)
+![image29](/img/uk/admin_clients_clients/image29.png "Клієнти") <center><u>Клієнти - фото 29</u></center>
 
 ##### Експорт звіту
 
 Щоб експортувати статистичну звітність, натисніть на іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image30](/img/uk/admin_clients_clients/image30.png)
+![image30](/img/uk/admin_clients_clients/image30.png "Клієнти") <center><u>Клієнти - фото 30</u></center>
 
 Відкриється нове спливаюче вікно, де вам потрібно вибрати дані, які ви хочете експортувати. Після вибору даних натисніть кнопку **ЕКСПОРТ** для експорту. Для скасування - кнопку **СКАСУВАТИ**.
 
-![image31](/img/uk/admin_clients_clients/image31.png)
+![image31](/img/uk/admin_clients_clients/image31.png "Клієнти") <center><u>Клієнти - фото 31</u></center>
 
 Після натискання кнопки **ЕКСПОРТ** звіт буде збережено на вашому пристрої у файлі **.xlsx**.
 
@@ -309,13 +309,13 @@ slug: /admin/clients/
 
 Ця діаграма відображає кількість відправлених повідомлень для кожного альфаімені. Статистика відображається для вказаного періоду.
 
-![image32](/img/uk/admin_clients_clients/image32.png)
+![image32](/img/uk/admin_clients_clients/image32.png "Клієнти") <center><u>Клієнти - фото 32</u></center>
 
 ##### Таблиця статистики
 
 Всі статистичні дані розташовані в таблиці в окремих колонках:
 
-![image33](/img/uk/admin_clients_clients/image33.png)
+![image33](/img/uk/admin_clients_clients/image33.png "Клієнти") <center><u>Клієнти - фото 33</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -331,7 +331,7 @@ slug: /admin/clients/
 
 Щоб відкрити даний звіт, відкрийте вкладку **СТАТИСТИКА** і виберіть звіт **УГРУПУВАННЯ ЗА АЛЬФАІМЕНАМИ VIBER**.
 
-![image34](/img/uk/admin_clients_clients/image34.png)
+![image34](/img/uk/admin_clients_clients/image34.png "Клієнти") <center><u>Клієнти - фото 34</u></center>
 
 ##### Вибір періоду
 
@@ -344,17 +344,17 @@ slug: /admin/clients/
 
 Після вибору дати натисніть кнопку **ПОШУК**. Сторінка оновиться, щоб відобразити статистику за вказаний період.
 
-![image35](/img/uk/admin_clients_clients/image35.png)
+![image35](/img/uk/admin_clients_clients/image35.png "Клієнти") <center><u>Клієнти - фото 35</u></center>
 
 ##### Експорт звіту
 
 Щоб експортувати статистичну звітність, натисніть на іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image36](/img/uk/admin_clients_clients/image36.png)
+![image36](/img/uk/admin_clients_clients/image36.png "Клієнти") <center><u>Клієнти - фото 36</u></center>
 
 Відкриється нове спливаюче вікно, де вам потрібно вибрати дані, які ви хочете експортувати. Після вибору даних натисніть кнопку **ЕКСПОРТ** для експорту. Для скасування - кнопку **СКАСУВАТИ**.
 
-![image37](/img/uk/admin_clients_clients/image37.png)
+![image37](/img/uk/admin_clients_clients/image37.png "Клієнти") <center><u>Клієнти - фото 37</u></center>
 
 Після натискання кнопки **ЕКСПОРТ** звіт буде збережено на вашому пристрої у файлі **.xlsx**.
 
@@ -362,13 +362,13 @@ slug: /admin/clients/
 
 Ця діаграма відображає кількість відправлених повідомлень для кожного альфаімені Viber. Статистика відображається для вказаного періоду.
 
-![image38](/img/uk/admin_clients_clients/image38.png)
+![image38](/img/uk/admin_clients_clients/image38.png "Клієнти") <center><u>Клієнти - фото 38</u></center>
 
 ##### Таблиця статистики
 
 Всі статистичні дані розташовані в таблиці в окремих колонках:
 
-![image39](/img/uk/admin_clients_clients/image39.png)
+![image39](/img/uk/admin_clients_clients/image39.png "Клієнти") <center><u>Клієнти - фото 39</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -384,7 +384,7 @@ slug: /admin/clients/
 
 Щоб відкрити даний звіт, відкрийте вкладку **СТАТИСТИКА** і виберіть звіт **УГРУПУВАННЯ ПО КРАЇНАХ**.
 
-![image40](/img/uk/admin_clients_clients/image40.png)
+![image40](/img/uk/admin_clients_clients/image40.png "Клієнти") <center><u>Клієнти - фото 40</u></center>
 
 ##### Вибір періоду
 
@@ -397,17 +397,17 @@ slug: /admin/clients/
 
 Після вибору дати натисніть кнопку **ПОШУК**. Сторінка оновиться, щоб відобразити статистику за вказаний період.
 
-![image41](/img/uk/admin_clients_clients/image41.png)
+![image41](/img/uk/admin_clients_clients/image41.png "Клієнти") <center><u>Клієнти - фото 41</u></center>
 
 ##### Експорт звіту
 
 Щоб експортувати статистичну звітність, натисніть на іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image42](/img/uk/admin_clients_clients/image42.png)
+![image42](/img/uk/admin_clients_clients/image42.png "Клієнти") <center><u>Клієнти - фото 42</u></center>
 
 Відкриється нове спливаюче вікно, де вам потрібно вибрати дані, які ви хочете експортувати. Після вибору даних натисніть кнопку **ЕКСПОРТ** для експорту. Для скасування - кнопку **СКАСУВАТИ**.
 
-![image43](/img/uk/admin_clients_clients/image43.png)
+![image43](/img/uk/admin_clients_clients/image43.png "Клієнти") <center><u>Клієнти - фото 43</u></center>
 
 After pressing the **EXPORT** button, the report will be saved on your device in an **.xlsx** file.
 
@@ -415,13 +415,13 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 Ця діаграма відображає кількість відправлених повідомлень для кожної країни. Статистика відображається для вказаного періоду.
 
-![image44](/img/uk/admin_clients_clients/image44.png)
+![image44](/img/uk/admin_clients_clients/image44.png "Клієнти") <center><u>Клієнти - фото 44</u></center>
 
 ##### Таблиця статистики
 
 Всі статистичні дані розташовані в таблиці в окремих колонках:
 
-![image45](/img/uk/admin_clients_clients/image45.png)
+![image45](/img/uk/admin_clients_clients/image45.png "Клієнти") <center><u>Клієнти - фото 45</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -437,7 +437,7 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 Всі імена відправника клієнта знаходяться в таблиці в окремих колонках:
 
-![image46](/img/uk/admin_clients_clients/image46.png)
+![image46](/img/uk/admin_clients_clients/image46.png "Клієнти") <center><u>Клієнти - фото 46</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

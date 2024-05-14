@@ -9,13 +9,13 @@ This tab is intended for adding new Viber message templates, as well as for edit
 
 To open this tab, select **SMS** → **Settings** in the side menu and select **TEMPLATES VIBER** tab.
 
-![image1](/img/en/client_settings_templates_viber/image1.png)
+![image1](/img/en/client_settings_templates_viber/image1.png "Templates Viber") <center><u>Templates Viber - photo 1</u></center>
 
 ## Adding a new template
 
 To add a new template, click the **+ ADD** button in the upper left corner of the page.
 
-![image2](/img/en/client_settings_templates_viber/image2.png)
+![image2](/img/en/client_settings_templates_viber/image2.png "Templates Viber") <center><u>Templates Viber - photo 2</u></center>
 
 Then follow the steps below:
 
@@ -26,7 +26,7 @@ Then follow the steps below:
 
 Press **EXECUTE** to create a template.
 
-![image3](/img/en/client_settings_templates_viber/image3.png)
+![image3](/img/en/client_settings_templates_viber/image3.png "Templates Viber") <center><u>Templates Viber - photo 3</u></center>
 
 You can also generate a special message that will contain variables. To do this, follow the steps below:
 
@@ -37,13 +37,13 @@ You can also generate a special message that will contain variables. To do this,
 
 Press the **GENERATE** button icon.
 
-![image4](/img/en/client_settings_templates_viber/image4.png)
+![image4](/img/en/client_settings_templates_viber/image4.png "Templates Viber") <center><u>Templates Viber - photo 4</u></center>
 
 ## Filter
 
 The **Status** filter is located at the top of the page. With this filter you can display in the table templates with required statuses only.
 
-![image5](/img/en/client_settings_templates_viber/image5.png)
+![image5](/img/en/client_settings_templates_viber/image5.png "Templates Viber") <center><u>Templates Viber - photo 5</u></center>
 
 Available template statuses:
 
@@ -60,13 +60,13 @@ In this tab, you can search for a template by **Sender ID** and **Template Name*
 
 To search for a template, enter **Sender ID** [1] or **Template Name** [2] in the appropriate search field and press the **Search** button icon or the **[ ENTER ]** key.
 
-![image6](/img/en/client_settings_templates_viber/image6.png)
+![image6](/img/en/client_settings_templates_viber/image6.png "Templates Viber") <center><u>Templates Viber - photo 6</u></center>
 
 ## Template table
 
 The data is arranged in separate columns:
 
-![image7](/img/en/client_settings_templates_viber/image7.png)
+![image7](/img/en/client_settings_templates_viber/image7.png "Templates Viber") <center><u>Templates Viber - photo 7</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
@@ -79,8 +79,8 @@ The data is arranged in separate columns:
 
 To delete a template, check the checkbox next to the desired template and click the **Delete** button icon at the top right of the table.
 
-![image8](/img/en/client_settings_templates_viber/image8.png)
+![image8](/img/en/client_settings_templates_viber/image8.png "Templates Viber") <center><u>Templates Viber - photo 8</u></center>
 
 To select all template check the checkbox in the table header.
 
-![image9](/img/en/client_settings_templates_viber/image9.png)
+![image9](/img/en/client_settings_templates_viber/image9.png "Templates Viber") <center><u>Templates Viber - photo 9</u></center>

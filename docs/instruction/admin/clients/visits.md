@@ -9,13 +9,13 @@ This tab contains the history of your clients' logins. It allows you to view the
 
 To open this tab, select **Clients** → **Clients** in the side menu and select **VISITS** tab.
 
-![image1](/img/en/admin_clients_visits/image1.png)
+![image1](/img/en/admin_clients_visits/image1.png "Visits") <center><u>Visits - photo 1</u></center>
 
 ## Login history
 
 The table contains the login history of your clients. The data is organized in separate columns:
 
-![image2](/img/en/admin_clients_visits/image2.png)
+![image2](/img/en/admin_clients_visits/image2.png "Visits") <center><u>Visits - photo 2</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |

@@ -9,7 +9,7 @@ slug: /client/payments/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Фінанси** у боковому меню та оберіть вкладку **ПОПОВНЕННЯ**.
 
-![image1](/img/uk/client_finances_payment/image1.png)
+![image1](/img/uk/client_finances_payment/image1.png "Як поповнити баланс") <center><u>Як поповнити баланс - фото 1</u></center>
 
 ## Поповнення онлайн
 
@@ -21,11 +21,11 @@ slug: /client/payments/
 | 2 | Вкажіть **Суму** поповнення <br/> Мінімальна сума: 50EUR <br/> Максимальна сума: 2000EUR <br/> Комісія: 3.6% |
 | 3 | Виберіть потрібну платіжну систему та натисніть **ОПЛАТИТИ** <br/> В даному прикладі доступна платіжна система PayPal |
 
-![image2](/img/uk/client_finances_payment/image2.png)
+![image2](/img/uk/client_finances_payment/image2.png "Як поповнити баланс") <center><u>Як поповнити баланс - фото 2</u></center>
 
 Відкриється нове спливаюче вікно, в якому потрібно авторизуватися в платіжній системі та здійснити платіж.
 
-![image3](/img/uk/client_finances_payment/image3.png)
+![image3](/img/uk/client_finances_payment/image3.png "Як поповнити баланс") <center><u>Як поповнити баланс - фото 3</u></center>
 
 ## Поповнення по рахунку
 
@@ -37,4 +37,4 @@ slug: /client/payments/
 | 2 | Вкажіть **суму** на яку необхідно виставити рахунок |
 | 3 | Натисніть **ЗАВАНТАЖИТИ РАХУНОК** щоб зберегти рахунок для подальшої оплати |
 
-![image4](/img/uk/client_finances_payment/image4.png)
+![image4](/img/uk/client_finances_payment/image4.png "Як поповнити баланс") <center><u>Як поповнити баланс - фото 4</u></center>

@@ -9,48 +9,48 @@ slug: /client/sms-templates/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Налаштування** у боковому меню та перейдіть на вкладку **ШАБЛОНИ СМС**.
 
-![image1](/img/uk/client_settings_templates_sms/image1.png)
+![image1](/img/uk/client_settings_templates_sms/image1.png "Шаблони SMS") <center><u>Шаблони SMS - фото 1</u></center>
 
 ## Додавання нового шаблону
 
 Щоб додати новий шаблон, натисніть кнопку **+ ДОДАТИ** у верхньому лівому кутку сторінки.
 
-![image2](/img/uk/client_settings_templates_sms/image2.png)
+![image2](/img/uk/client_settings_templates_sms/image2.png "Шаблони SMS") <center><u>Шаблони SMS - фото 2</u></center>
 
 Введіть **Текст повідомлення** (обмеження на кількість знаків у повідомленні: **70** для кирилиці та **160** для латиниці) та натисніть **ВИКОНАТИ** для створення шаблона.
 
 Новий шаблон буде відображено в [списку шаблонів](#список-шаблонів).
 
-![image3](/img/uk/client_settings_templates_sms/image3.png)
+![image3](/img/uk/client_settings_templates_sms/image3.png "Шаблони SMS") <center><u>Шаблони SMS - фото 3</u></center>
 
 ### Додаткові параметри
 
 Використовуйте кнопку **ВСТАВИТИ ПЕРЕМІННУ**, щоб додати змінну до тексту повідомлення. Ця функція дозволяє вставити ім'я або будь-які інші дані для кожного одержувача в масовій розсилці.
 
-![image4](/img/uk/client_settings_templates_sms/image4.png)
+![image4](/img/uk/client_settings_templates_sms/image4.png "Шаблони SMS") <center><u>Шаблони SMS - фото 4</u></center>
 
 Праворуч від поля введення тексту повідомлення відображається **Кількість введених знаків** і **Кількість повідомлень**, необхідних для відправлення введеного тексту.
 
-![image5](/img/uk/client_settings_templates_sms/image5.png)
+![image5](/img/uk/client_settings_templates_sms/image5.png "Шаблони SMS") <center><u>Шаблони SMS - фото 5</u></center>
 
 Ви також можете переключити текст повідомлення з кирилиці на латиницю і навпаки за допомогою перемикача **ЛАТИНИЦЯ/КИРИЛИЦЯ**.
 
-![image6](/img/uk/client_settings_templates_sms/image6.png)
+![image6](/img/uk/client_settings_templates_sms/image6.png "Шаблони SMS") <center><u>Шаблони SMS - фото 6</u></center>
 
 ## Пошук шаблонів
 
 Щоб знайти потрібний шаблон, введіть його назву в **Поле пошуку** і натисніть іконку кнопки **Пошук** або клавішу **[ ENTER ]**.
 
-![image7](/img/uk/client_settings_templates_sms/image7.png)
+![image7](/img/uk/client_settings_templates_sms/image7.png "Шаблони SMS") <center><u>Шаблони SMS - фото 7</u></center>
 
 ## Список шаблонів
 
 Усі додані шаблони відображаються у списку **Свої шаблони**.
 
-![image8](/img/uk/client_settings_templates_sms/image8.png)
+![image8](/img/uk/client_settings_templates_sms/image8.png "Шаблони SMS") <center><u>Шаблони SMS - фото 8</u></center>
 
 ## Видалення шаблону
 
 Щоб видалити шаблон, відзначте чекбокс навпроти потрібного шаблону і натисніть іконку кнопки **Видалити** у верхньому правому куті таблиці.
 
-![image9](/img/uk/client_settings_templates_sms/image9.png)
+![image9](/img/uk/client_settings_templates_sms/image9.png "Шаблони SMS") <center><u>Шаблони SMS - фото 9</u></center>

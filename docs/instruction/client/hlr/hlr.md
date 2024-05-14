@@ -9,13 +9,13 @@ In this tab you can check the validity of the number in your address book. You c
 
 To open this tab, select **SMS** → **HLR** in the side menu and select **HLR** tab.
 
-![image1](/img/en/client_hlr_hlr/image1.png)
+![image1](/img/en/client_hlr_hlr/image1.png "HLR") <center><u>HLR - photo 1</u></center>
 
 ## Check numbers
 
 To check numbers on your address book, press **+ ADD**.
 
-![image2](/img/en/client_hlr_hlr/image2.png)
+![image2](/img/en/client_hlr_hlr/image2.png "HLR") <center><u>HLR - photo 2</u></center>
 
 Next, follow the steps below:
 
@@ -27,7 +27,7 @@ Next, follow the steps below:
 
 Press the **EXECUTE** button to start checking numbers.
 
-![image3](/img/en/client_hlr_hlr/image3.png)
+![image3](/img/en/client_hlr_hlr/image3.png "HLR") <center><u>HLR - photo 3</u></center>
 
 ## Period selection
 
@@ -40,13 +40,13 @@ To select the **time period** for which you want to display reports, follow the 
 
 After selecting a date, the page will be refreshed to display reports for the specified period.
 
-![image4](/img/en/client_hlr_hlr/image4.png)
+![image4](/img/en/client_hlr_hlr/image4.png "HLR") <center><u>HLR - photo 4</u></center>
 
 ## Number check reports
 
 The results of the numbers check are located in a table with the data in separate columns:
 
-![image5](/img/en/client_hlr_hlr/image5.png)
+![image5](/img/en/client_hlr_hlr/image5.png "HLR") <center><u>HLR - photo 5</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |

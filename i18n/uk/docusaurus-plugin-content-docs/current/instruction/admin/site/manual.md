@@ -9,7 +9,7 @@ slug: /admin/manual/
 
 Щоб відкрити цю вкладку, виберіть **Клієнти** → **Сайт** у боковому меню та оберіть вкладку **ІНСТРУКЦІЯ**.
 
-![image1](/img/uk/admin_site_manual/image1.png)
+![image1](/img/uk/admin_site_manual/image1.png "Інструкція") <center><u>Інструкція - фото 1</u></center>
 
 ## Додавання інструкції
 
@@ -24,4 +24,4 @@ slug: /admin/manual/
 
 Натисніть **ВИКОНАТИ**, щоб зберегти інструкцію.
 
-![image2](/img/uk/admin_site_manual/image2.png)
+![image2](/img/uk/admin_site_manual/image2.png "Інструкція") <center><u>Інструкція - фото 2</u></center>

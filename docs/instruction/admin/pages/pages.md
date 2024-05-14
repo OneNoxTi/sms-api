@@ -9,13 +9,13 @@ This section is provided for creating new pages of the site, and also allows you
 
 To open this section, select **Clients** → **Pages** in the side menu.
 
-![image1](/img/en/admin_pages/image1.png)
+![image1](/img/en/admin_pages/image1.png "Pages") <center><u>Pages - photo 1</u></center>
 
 ## Adding a page
 
 To add a new page, click the **+ ADD** button in the upper left corner of the page.
 
-![image2](/img/en/admin_pages/image2.png)
+![image2](/img/en/admin_pages/image2.png "Pages") <center><u>Pages - photo 2</u></center>
 
 Next, follow the steps below:
 
@@ -31,7 +31,7 @@ Next, follow the steps below:
 | 8 | Check the **Nofollow** checkbox if it is necessary for links to activate the `nofollow` parameter |
 | 9 | Specify the page **priority** |
 
-![image3](/img/en/admin_pages/image3.png)
+![image3](/img/en/admin_pages/image3.png "Pages") <center><u>Pages - photo 3</u></center>
 
 |  №  | Action |
 | :-: | ------ |
@@ -44,13 +44,13 @@ Next, follow the steps below:
 
 Press **EXECUTE** to save the page.
 
-![image4](/img/en/admin_pages/image4.png)
+![image4](/img/en/admin_pages/image4.png "Pages") <center><u>Pages - photo 4</u></center>
 
 ## Table of pages
 
 The table contains a list of pages with detailed information about them. The data is arranged in separate columns.
 
-![image5](/img/en/admin_pages/image5.png)
+![image5](/img/en/admin_pages/image5.png "Pages") <center><u>Pages - photo 5</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
@@ -62,14 +62,14 @@ The table contains a list of pages with detailed information about them. The dat
 
 To edit a page click on it in the table with pages. The page of **page editing** will open, the actions are similar to [adding a page](#adding-a-page).
 
-![image6](/img/en/admin_pages/image6.png)
+![image6](/img/en/admin_pages/image6.png "Pages") <center><u>Pages - photo 6</u></center>
 
 ## Deleting a page
 
 To delete one or more pages, check the **checkbox** next to the desired pages and click the **Delete** button icon in the upper right corner of the page.
 
-![image7](/img/en/admin_pages/image7.png)
+![image7](/img/en/admin_pages/image7.png "Pages") <center><u>Pages - photo 7</u></center>
 
 To select all pages check the checkbox in the table header.
 
-![image8](/img/en/admin_pages/image8.png)
+![image8](/img/en/admin_pages/image8.png "Pages") <center><u>Pages - photo 8</u></center>

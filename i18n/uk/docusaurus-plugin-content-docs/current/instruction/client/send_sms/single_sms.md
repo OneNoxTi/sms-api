@@ -9,7 +9,7 @@ slug: /client/single-sms/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Розсилка** у боковому меню та перейдіть на вкладку **ОДИНОЧНА SMS**.
 
-![image1](/img/uk/client_send_sms_single_sms/image1.png)
+![image1](/img/uk/client_send_sms_single_sms/image1.png "Одиночна SMS") <center><u>Одиночна SMS - фото 1</u></center>
 
 ## Надсилання одиночних SMS
 
@@ -26,13 +26,13 @@ slug: /client/single-sms/
 
 Натисніть **ВИКОНАТИ**, щоб відправити повідомлення.
 
-![image2](/img/uk/client_send_sms_single_sms/image2.png)
+![image2](/img/uk/client_send_sms_single_sms/image2.png "Одиночна SMS") <center><u>Одиночна SMS - фото 2</u></center>
 
 ## Додаткові параметри
 
 Ви також можете застосувати додаткові параметри при надсиланні SMS. Натисніть **Додаткові параметри**, щоб розгорнути їх.
 
-![image3](/img/uk/client_send_sms_single_sms/image3.png)
+![image3](/img/uk/client_send_sms_single_sms/image3.png "Одиночна SMS") <center><u>Одиночна SMS - фото 3</u></center>
 
 |  №  | Параметр | Опис |
 | :-: | -------- | ---- |
@@ -44,14 +44,14 @@ slug: /client/single-sms/
 
 Щоб перевірити вартість відправки повідомлень, натисніть **СКІЛЬКИ ЦЕ КОШТУЄ?** праворуч від кнопки **ВИКОНАТИ**.
 
-![image4](/img/uk/client_send_sms_single_sms/image4.png)
+![image4](/img/uk/client_send_sms_single_sms/image4.png "Одиночна SMS") <center><u>Одиночна SMS - фото 4</u></center>
 
 Відкриється спливаюче вікно **Відправлення SMS** з детальною інформацією про вартість відправлення повідомлення (повідомлень).
 
-![image5](/img/uk/client_send_sms_single_sms/image5.png)
+![image5](/img/uk/client_send_sms_single_sms/image5.png "Одиночна SMS") <center><u>Одиночна SMS - фото 5</u></center>
 
 ## Попередній перегляд повідомлення
 
 У правій частині сторінки знаходиться вікно у вигляді мобільного телефону. В даному вікні відображається попередній перегляд вашого повідомлення в тому вигляді, в якому воно буде отримано одержувачем.
 
-![image6](/img/uk/client_send_sms_single_sms/image6.png)
+![image6](/img/uk/client_send_sms_single_sms/image6.png "Одиночна SMS") <center><u>Одиночна SMS - фото 6</u></center>

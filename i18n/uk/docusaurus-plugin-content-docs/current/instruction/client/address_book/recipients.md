@@ -9,13 +9,13 @@ slug: /client/recipients/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Адресна книга** у боковому меню та перейдіть на вкладку **ОДЕРЖУВАЧІ**.
 
-![image1](/img/uk/client_address_book_recipients/image1.png)
+![image1](/img/uk/client_address_book_recipients/image1.png "Одержувачі") <center><u>Одержувачі - фото 1</u></center>
 
 ## Додавання адресної книги
 
 Щоб додати нову адресну книгу, натисніть кнопку **+ ДОДАТИ**.
 
-![image2](/img/uk/client_address_book_recipients/image2.png)
+![image2](/img/uk/client_address_book_recipients/image2.png "Одержувачі") <center><u>Одержувачі - фото 2</u></center>
 
 Далі виконайте наведені нижче дії:
 
@@ -24,33 +24,33 @@ slug: /client/recipients/
 | 1 | Введіть **назву** адресної книги |
 | 2 | Виберіть **основну** адресну книгу з наявних. Це допоможе вам згрупувати їх |
 
-![image3](/img/uk/client_address_book_recipients/image3.png)
+![image3](/img/uk/client_address_book_recipients/image3.png "Одержувачі") <center><u>Одержувачі - фото 3</u></center>
 
 Далі додайте **одержувачів** [вручну](#додавання-вручну) або [завантажте](#завантаження-з-файлу) одержувачів з **файлу**.
 
 Після додавання номерів одержувачів натисніть кнопку **ВИКОНАТИ**.
 
-![image4](/img/uk/client_address_book_recipients/image4.png)
+![image4](/img/uk/client_address_book_recipients/image4.png "Одержувачі") <center><u>Одержувачі - фото 4</u></center>
 
 ### Додавання вручну
 
 Щоб додати одержувачів, введіть їх номери телефонів у полі **Одержувачі**.
 
-![image5](/img/uk/client_address_book_recipients/image5.png)
+![image5](/img/uk/client_address_book_recipients/image5.png "Одержувачі") <center><u>Одержувачі - фото 5</u></center>
 
 Номер кожного одержувача вказується з **нового рядка**, наприклад:
 
-![image6](/img/uk/client_address_book_recipients/image6.png)
+![image6](/img/uk/client_address_book_recipients/image6.png "Одержувачі") <center><u>Одержувачі - фото 6</u></center>
 
 Щоб додати додаткову інформацію про одержувача, введіть її через символ крапки з комою [ ; ], наприклад:
 
-![image7](/img/uk/client_address_book_recipients/image7.png)
+![image7](/img/uk/client_address_book_recipients/image7.png "Одержувачі") <center><u>Одержувачі - фото 7</u></center>
 
 ### Завантаження з файлу
 
 Щоб завантажити список одержувачів з файлу, спочатку виберіть тип файлу у випадаючому списку.
 
-![image8](/img/uk/client_address_book_recipients/image8.png)
+![image8](/img/uk/client_address_book_recipients/image8.png "Одержувачі") <center><u>Одержувачі - фото 8</u></center>
 
 |  №  | Тип | Опис |
 | :-: | --- | ---- |
@@ -61,7 +61,7 @@ slug: /client/recipients/
 
 Після вибору типу файлу натисніть **ВИБЕРІТЬ ФАЙЛ** і виберіть файл на вашому пристрої.
 
-![image9](/img/uk/client_address_book_recipients/image9.png)
+![image9](/img/uk/client_address_book_recipients/image9.png "Одержувачі") <center><u>Одержувачі - фото 9</u></center>
 
 ## Пошук
 
@@ -72,37 +72,37 @@ slug: /client/recipients/
 | 1 | Вкажіть параметр пошуку: <li>**За номером телефону**</li> <li>**За назвою**</li> |
 | 2 | Вкажіть **Номер телефону** або **Назву** для пошуку отримувача |
 
-![image10](/img/uk/client_address_book_recipients/image10.png)
+![image10](/img/uk/client_address_book_recipients/image10.png "Одержувачі") <center><u>Одержувачі - фото 10</u></center>
 
 ## Список адресних книг
 
 Всі додані адресні книги перераховані в алфавітному порядку.
 
-![image11](/img/uk/client_address_book_recipients/image11.png)
+![image11](/img/uk/client_address_book_recipients/image11.png "Одержувачі") <center><u>Одержувачі - фото 11</u></center>
 
 Праворуч від назви адресної книги вказується кількість номерів одержувачів, що містяться в ній.
 
-![image12](/img/uk/client_address_book_recipients/image12.png)
+![image12](/img/uk/client_address_book_recipients/image12.png "Одержувачі") <center><u>Одержувачі - фото 12</u></center>
 
 ## Видалення адресної книги
 
 Щоб видалити адресну книгу, натисніть іконку кнопки **Видалити** праворуч від потрібного рядка адресної книги.
 
-![image13](/img/uk/client_address_book_recipients/image13.png)
+![image13](/img/uk/client_address_book_recipients/image13.png "Одержувачі") <center><u>Одержувачі - фото 13</u></center>
 
 Відкриється спливаюче вікно, в якому потрібно підтвердити видалення.
 
-![image14](/img/uk/client_address_book_recipients/image14.png)
+![image14](/img/uk/client_address_book_recipients/image14.png "Одержувачі") <center><u>Одержувачі - фото 14</u></center>
 
 ## Перегляд адресної книги
 
 Щоб переглянути адресну книгу, натисніть на неї у списку адресних книг.
 
-![image15](/img/uk/client_address_book_recipients/image15.png)
+![image15](/img/uk/client_address_book_recipients/image15.png "Одержувачі") <center><u>Одержувачі - фото 15</u></center>
 
 Відкривається сторінка обраної адресної книги, яка візуально розділена на два блоки:
 
-![image16](/img/uk/client_address_book_recipients/image16.png)
+![image16](/img/uk/client_address_book_recipients/image16.png "Одержувачі") <center><u>Одержувачі - фото 16</u></center>
 
 |  №  | Блок | Опис |
 | :-: | ---- | ---- |
@@ -111,7 +111,7 @@ slug: /client/recipients/
 
 ### Інформація про адресну книгу
 
-![image17](/img/uk/client_address_book_recipients/image17.png)
+![image17](/img/uk/client_address_book_recipients/image17.png "Одержувачі") <center><u>Одержувачі - фото 17</u></center>
 
 |  №  | Дані | Опис |
 | :-: | ---- | ---- |
@@ -126,7 +126,7 @@ slug: /client/recipients/
 
 Щоб додати номер до адресної книги, натисніть **+ ДОДАТИ**.
 
-![image18](/img/uk/client_address_book_recipients/image18.png)
+![image18](/img/uk/client_address_book_recipients/image18.png "Одержувачі") <center><u>Одержувачі - фото 18</u></center>
 
 Подальші дії подібні додаванню номерів при [додаванні адресної книги](#додавання-адресної-книги).
 
@@ -134,7 +134,7 @@ slug: /client/recipients/
 
 Щоб експортувати список номерів, натисніть іконку кнопки **Експорт**.
 
-![image19](/img/uk/client_address_book_recipients/image19.png)
+![image19](/img/uk/client_address_book_recipients/image19.png "Одержувачі") <center><u>Одержувачі - фото 19</u></center>
 
 Звіт буде збережено на вашому пристрої у форматі **.xlsx**.
 
@@ -142,10 +142,10 @@ slug: /client/recipients/
 
 Щоб знайти номер, введіть його в поле пошуку і натисніть іконку кнопки **Пошук** або клавішу **[ Enter ]**.
 
-![image20](/img/uk/client_address_book_recipients/image20.png)
+![image20](/img/uk/client_address_book_recipients/image20.png "Одержувачі") <center><u>Одержувачі - фото 20</u></center>
 
 #### Видалення номерів одержувачів
 
 Щоб видалити номер одержувача, відзначте чекбокс біля одного або декількох номерів і натисніть іконку кнопки **Видалити**.
 
-![image21](/img/uk/client_address_book_recipients/image21.png)
+![image21](/img/uk/client_address_book_recipients/image21.png "Одержувачі") <center><u>Одержувачі - фото 21</u></center>

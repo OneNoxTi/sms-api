@@ -9,7 +9,7 @@ slug: /admin/sender-id-statistics/
 
 Щоб відкрити дану вкладку, виберіть **Клієнти** → **Статистика** у боковому меню та перейдіть на вкладку **АЛЬФАІМЕНА**.
 
-![image1](/img/uk/admin_statistics_sender_id/image1.png)
+![image1](/img/uk/admin_statistics_sender_id/image1.png "Альфаімена") <center><u>Альфаімена - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,17 +22,17 @@ slug: /admin/sender-id-statistics/
 
 Після вибору дати натисніть кнопку **ПОШУК**. Сторінка оновиться, щоб відобразити статистику за вказаний період.
 
-![image2](/img/uk/admin_statistics_sender_id/image2.png)
+![image2](/img/uk/admin_statistics_sender_id/image2.png "Альфаімена") <center><u>Альфаімена - фото 2</u></center>
 
 ## Експорт звіту
 
 Щоб експортувати статистичну звітність, натисніть на іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image3](/img/uk/admin_statistics_sender_id/image3.png)
+![image3](/img/uk/admin_statistics_sender_id/image3.png "Альфаімена") <center><u>Альфаімена - фото 3</u></center>
 
 Відкриється нове спливаюче вікно, де вам потрібно вибрати дані, які ви хочете експортувати. Після вибору даних натисніть кнопку **ЕКСПОРТ** для експорту. Для скасування - кнопку **СКАСУВАТИ**.
 
-![image4](/img/uk/admin_statistics_sender_id/image4.png)
+![image4](/img/uk/admin_statistics_sender_id/image4.png "Альфаімена") <center><u>Альфаімена - фото 4</u></center>
 
 Після натискання кнопки **ЕКСПОРТ** звіт буде збережено на вашому пристрої у файлі **.xlsx**.
 
@@ -40,13 +40,13 @@ slug: /admin/sender-id-statistics/
 
 Ця діаграма відображає кількість відправлених повідомлень для кожного альфаімені. Статистика відображається для [вказаного періоду](#вибір-періоду).
 
-![image5](/img/uk/admin_statistics_sender_id/image5.png)
+![image5](/img/uk/admin_statistics_sender_id/image5.png "Альфаімена") <center><u>Альфаімена - фото 5</u></center>
 
 ## Таблиця статистики
 
 Всі статистичні дані розташовані в таблиці в окремих колонках:
 
-![image6](/img/uk/admin_statistics_sender_id/image6.png)
+![image6](/img/uk/admin_statistics_sender_id/image6.png "Альфаімена") <center><u>Альфаімена - фото 6</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

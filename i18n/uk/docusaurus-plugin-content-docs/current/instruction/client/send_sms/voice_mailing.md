@@ -9,7 +9,7 @@ slug: /client/voice-mailing/
 
 Щоб відкрити цю вкладку, виберіть **SMS** → **Розсилка** у боковому меню та виберіть вкладку **ГОЛОСОВА РОЗСИЛКА**.
 
-![image1](/img/uk/client_send_sms_voice_mailing/image1.png)
+![image1](/img/uk/client_send_sms_voice_mailing/image1.png "Як налаштувати голосову розсилку повідомлень") <center><u>Як налаштувати голосову розсилку повідомлень - фото 1</u></center>
 
 ## Створення голосової розсилки
 
@@ -27,13 +27,13 @@ slug: /client/voice-mailing/
 
 Натисніть **ВИКОНАТИ** для створення розсилки.
 
-![image2](/img/uk/client_send_sms_voice_mailing/image2.png)
+![image2](/img/uk/client_send_sms_voice_mailing/image2.png "Як налаштувати голосову розсилку повідомлень") <center><u>Як налаштувати голосову розсилку повідомлень - фото 2</u></center>
 
 ## Додаткові параметри
 
 Ви також можете застосувати додаткові параметри при створенні розсилки. Натисніть **Додаткові параметри**, щоб розгорнути їх.
 
-![image3](/img/uk/client_send_sms_voice_mailing/image3.png)
+![image3](/img/uk/client_send_sms_voice_mailing/image3.png "Як налаштувати голосову розсилку повідомлень") <center><u>Як налаштувати голосову розсилку повідомлень - фото 3</u></center>
 
 |  №  | Параметр | Опис |
 | :-: | -------- | ---- |
@@ -45,8 +45,8 @@ slug: /client/voice-mailing/
 
 Щоб перевірити вартість відправки повідомлень, натисніть **СКІЛЬКИ ЦЕ КОШТУЄ?** праворуч від кнопки **ВИКОНАТИ**.
 
-![image4](/img/uk/client_send_sms_voice_mailing/image4.png)
+![image4](/img/uk/client_send_sms_voice_mailing/image4.png "Як налаштувати голосову розсилку повідомлень") <center><u>Як налаштувати голосову розсилку повідомлень - фото 4</u></center>
 
 Відкриється спливаюче вікно **Відправлення SMS** з детальною інформацією про вартість відправлення повідомлення (повідомлень).
 
-![image5](/img/uk/client_send_sms_voice_mailing/image5.png)
+![image5](/img/uk/client_send_sms_voice_mailing/image5.png "Як налаштувати голосову розсилку повідомлень") <center><u>Як налаштувати голосову розсилку повідомлень - фото 5</u></center>

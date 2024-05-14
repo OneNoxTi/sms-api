@@ -9,13 +9,13 @@ slug: /client/viber-templates/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Налаштування** у боковому меню та перейдіть на вкладку **ШАБЛОНИ VIBER**.
 
-![image1](/img/uk/client_settings_templates_viber/image1.png)
+![image1](/img/uk/client_settings_templates_viber/image1.png "Шаблони Viber") <center><u>Шаблони Viber - фото 1</u></center>
 
 ## Додавання нового шаблона
 
 Щоб додати новий шаблон, натисніть кнопку **+ДОДАТИ** у верхньому лівому кутку сторінки.
 
-![image2](/img/uk/client_settings_templates_viber/image2.png)
+![image2](/img/uk/client_settings_templates_viber/image2.png "Шаблони Viber") <center><u>Шаблони Viber - фото 2</u></center>
 
 Далі виконайте наведені нижче кроки:
 
@@ -26,7 +26,7 @@ slug: /client/viber-templates/
 
 Натисніть кнопку **ВИКОНАТИ** для створення шаблона.
 
-![image3](/img/uk/client_settings_templates_viber/image3.png)
+![image3](/img/uk/client_settings_templates_viber/image3.png "Шаблони Viber") <center><u>Шаблони Viber - фото 3</u></center>
 
 Ви також можете згенерувати спеціальне повідомлення яке містить зміні. Виконайте наведені нижче кроки:
 
@@ -37,13 +37,13 @@ slug: /client/viber-templates/
 
 Натисніть іконку кнопки **ЗГЕНЕРУВАТИ**.
 
-![image4](/img/uk/client_settings_templates_viber/image4.png)
+![image4](/img/uk/client_settings_templates_viber/image4.png "Шаблони Viber") <center><u>Шаблони Viber - фото 4</u></center>
 
 ## Фільтр
 
 Фільтр **Статус** розташований у верхній частині сторінки. За допомогою цього фільтра ви можете відображати в таблиці шаблони тільки з необхідними статусами.
 
-![image5](/img/uk/client_settings_templates_viber/image5.png)
+![image5](/img/uk/client_settings_templates_viber/image5.png "Шаблони Viber") <center><u>Шаблони Viber - фото 5</u></center>
 
 Доступні статуси шаблонів:
 
@@ -60,13 +60,13 @@ slug: /client/viber-templates/
 
 Щоб знайти шаблон, введіть **Альфаім'я** [1] або **Назву шаблона** [2] у відповідне поле пошуку і натисніть іконку кнопки **Пошук** або клавішу **[ ENTER ]**.
 
-![image6](/img/uk/client_settings_templates_viber/image6.png)
+![image6](/img/uk/client_settings_templates_viber/image6.png "Шаблони Viber") <center><u>Шаблони Viber - фото 6</u></center>
 
 ## Таблиця з шаблонами
 
 Дані розташовані в окремих колонках:
 
-![image7](/img/uk/client_settings_templates_viber/image7.png)
+![image7](/img/uk/client_settings_templates_viber/image7.png "Шаблони Viber") <center><u>Шаблони Viber - фото 7</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -79,8 +79,8 @@ slug: /client/viber-templates/
 
 Щоб видалити шаблон, відзначте чекбокс навпроти потрібного шаблону і натисніть іконку кнопки **Видалити** у верхньому правому куті таблиці.
 
-![image8](/img/uk/client_settings_templates_viber/image8.png)
+![image8](/img/uk/client_settings_templates_viber/image8.png "Шаблони Viber") <center><u>Шаблони Viber - фото 8</u></center>
 
 Щоб вибрати всі шаблони, відзначте чекбокс у заголовку таблиці.
 
-![image9](/img/uk/client_settings_templates_viber/image9.png)
+![image9](/img/uk/client_settings_templates_viber/image9.png "Шаблони Viber") <center><u>Шаблони Viber - фото 9</u></center>

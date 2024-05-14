@@ -9,7 +9,7 @@ slug: /client/countries/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Аналітика** у боковому меню та перейдіть на вкладку **КРАЇНИ**.
 
-![image1](/img/uk/client_statistics_countries/image1.png)
+![image1](/img/uk/client_statistics_countries/image1.png "Країни") <center><u>Країни - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,17 +22,17 @@ slug: /client/countries/
 
 Після вибору дати натисніть кнопку **ПОШУК**. Сторінка оновиться, щоб відобразити статистику за вказаний період.
 
-![image2](/img/uk/client_statistics_countries/image2.png)
+![image2](/img/uk/client_statistics_countries/image2.png "Країни") <center><u>Країни - фото 2</u></center>
 
 ## Експорт звіту
 
 Щоб експортувати статистичну звітність, натисніть на іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image3](/img/uk/client_statistics_countries/image3.png)
+![image3](/img/uk/client_statistics_countries/image3.png "Країни") <center><u>Країни - фото 3</u></center>
 
 Відкриється нове спливаюче вікно, де вам потрібно вибрати дані, які ви хочете експортувати. Після вибору даних натисніть кнопку **ЕКСПОРТ** для експорту. Для скасування - кнопку **СКАСУВАТИ**.
 
-![image4](/img/uk/client_statistics_countries/image4.png)
+![image4](/img/uk/client_statistics_countries/image4.png "Країни") <center><u>Країни - фото 4</u></center>
 
 Після натискання кнопки **ЕКСПОРТ** звіт буде збережено на вашому пристрої у файлі **.xlsx**.
 
@@ -40,13 +40,13 @@ slug: /client/countries/
 
 Ця діаграма відображає кількість відправлених повідомлень для кожної країни. Статистика відображається для [вказаного періоду](#вибір-періоду).
 
-![image5](/img/uk/client_statistics_countries/image5.png)
+![image5](/img/uk/client_statistics_countries/image5.png "Країни") <center><u>Країни - фото 5</u></center>
 
 ## Таблиця статистики
 
 Всі статистичні дані розташовані в таблиці в окремих колонках:
 
-![image6](/img/uk/client_statistics_countries/image6.png)
+![image6](/img/uk/client_statistics_countries/image6.png "Країни") <center><u>Країни - фото 6</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

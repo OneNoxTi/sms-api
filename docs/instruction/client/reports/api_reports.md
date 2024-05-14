@@ -9,7 +9,7 @@ On this tab you can view reports about messages sent via API. You can also expor
 
 To open this tab, select **SMS** → **Reports** in the side menu and select **API** tab.
 
-![image1](/img/en/client_reports_api/image1.png)
+![image1](/img/en/client_reports_api/image1.png "API") <center><u>API - photo 1</u></center>
 
 ## Period selection
 
@@ -22,7 +22,7 @@ To select the **time period** for which you want to display reports, follow the 
 
 After selecting a date, the page will be refreshed to display reports for the specified period.
 
-![image2](/img/en/client_reports_api/image2.png)
+![image2](/img/en/client_reports_api/image2.png "API") <center><u>API - photo 2</u></center>
 
 ## Search
 
@@ -35,17 +35,17 @@ You can also find specific reports by **phone number** or **Sender ID**. To sear
 
 Next, click **SEARCH**, the page will be refreshed and reports for the specified parameters will be displayed.
 
-![image3](/img/en/client_reports_api/image3.png)
+![image3](/img/en/client_reports_api/image3.png "API") <center><u>API - photo 3</u></center>
 
 ## Exporting a report
 
 The report must be generated before saving, to do this, click the **Export** button icon to the right of the **SEARCH** button.
 
-![image4](/img/en/client_reports_api/image4.png)
+![image4](/img/en/client_reports_api/image4.png "API") <center><u>API - photo 4</u></center>
 
 After a while the report will be generated and can be downloaded by clicking the **DOWNLOAD** button icon.
 
-![image5](/img/en/client_reports_api/image5.png)
+![image5](/img/en/client_reports_api/image5.png "API") <center><u>API - photo 5</u></center>
 
 The report will be saved on your device in an **.xlsx** file.
 
@@ -53,7 +53,7 @@ The report will be saved on your device in an **.xlsx** file.
 
 At the top of the page are filters that allow you to display only reports for certain types of mailings in the table. The following filters are available:
 
-![image6](/img/en/client_reports_api/image6.png)
+![image6](/img/en/client_reports_api/image6.png "API") <center><u>API - photo 6</u></center>
 
 |  №  | Filter |
 | :-: | ------ |
@@ -68,7 +68,7 @@ At the top of the page are filters that allow you to display only reports for ce
 
 All reports are located in the table on the **API** tab.
 
-![image7](/img/en/client_reports_api/image7.png)
+![image7](/img/en/client_reports_api/image7.png "API") <center><u>API - photo 7</u></center>
 
 |  №  | Description |
 | :-: | ----------- |
@@ -79,4 +79,4 @@ All reports are located in the table on the **API** tab.
 
 Click on the **report** to view the text of the message.
 
-![image8](/img/en/client_reports_api/image8.png)
+![image8](/img/en/client_reports_api/image8.png "API") <center><u>API - photo 8</u></center>

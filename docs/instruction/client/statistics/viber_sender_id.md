@@ -9,7 +9,7 @@ In this tab you can view statistics by sender ID's and also check the efficiency
 
 To open this tab, select **SMS** → **Statistics** in the side menu and select **VIBER SENDER ID** tab.
 
-![image1](/img/en/client_statistics_viber_sender_id/image1.png)
+![image1](/img/en/client_statistics_viber_sender_id/image1.png "Viber Sender ID") <center><u>Viber Sender ID - photo 1</u></center>
 
 ## Period selection
 
@@ -22,17 +22,17 @@ To select the **time period** for which you want to display statistic, follow th
 
 After selecting a date, click the **SEARCH** button. The page will be refreshed and display statistics for the specified period.
 
-![image2](/img/en/client_statistics_viber_sender_id/image2.png)
+![image2](/img/en/client_statistics_viber_sender_id/image2.png "Viber Sender ID") <center><u>Viber Sender ID - photo 2</u></center>
 
 ## Exporting a report
 
 To export statistical reporting click the **Export** button icon to the right of the **SEARCH** button.
 
-![image3](/img/en/client_statistics_viber_sender_id/image3.png)
+![image3](/img/en/client_statistics_viber_sender_id/image3.png "Viber Sender ID") <center><u>Viber Sender ID - photo 3</u></center>
 
 A new pop-up window will open where you need to select the data you want to export. After selecting the data, click the **EXPORT** button to export. To cancel, click the **CANCEL** button.
 
-![image4](/img/en/client_statistics_viber_sender_id/image4.png)
+![image4](/img/en/client_statistics_viber_sender_id/image4.png "Viber Sender ID") <center><u>Viber Sender ID - photo 4</u></center>
 
 After pressing the **EXPORT** button, the report will be saved on your device in an **.xlsx** file.
 
@@ -40,13 +40,13 @@ After pressing the **EXPORT** button, the report will be saved on your device in
 
 This chart displays the number of sent viber messages for each sender ID. Statistics are displayed for the [specified period](#period-selection).
 
-![image5](/img/en/client_statistics_viber_sender_id/image5.png)
+![image5](/img/en/client_statistics_viber_sender_id/image5.png "Viber Sender ID") <center><u>Viber Sender ID - photo 5</u></center>
 
 ## Statistics table
 
 All statistical data are arranged in the table in separate columns:
 
-![image6](/img/en/client_statistics_viber_sender_id/image6.png)
+![image6](/img/en/client_statistics_viber_sender_id/image6.png "Viber Sender ID") <center><u>Viber Sender ID - photo 6</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |

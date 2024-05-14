@@ -9,7 +9,7 @@ slug: /client/transfer/
 
 Щоб відкрити цю вкладку, виберіть **SMS** → **Фінанси** у боковому меню та оберіть вкладку **ПЕРЕКАЗ** tab.
 
-![image1](/img/uk/client_finances_transfer/image1.png)
+![image1](/img/uk/client_finances_transfer/image1.png "Переказ") <center><u>Переказ - фото 1</u></center>
 
 ## Виконання переказу
 
@@ -23,4 +23,4 @@ slug: /client/transfer/
 
 Натисніть **ВИКОНАТИ**, щоб здійснити переказ коштів.
 
-![image2](/img/uk/client_finances_transfer/image2.png)
+![image2](/img/uk/client_finances_transfer/image2.png "Переказ") <center><u>Переказ - фото 2</u></center>

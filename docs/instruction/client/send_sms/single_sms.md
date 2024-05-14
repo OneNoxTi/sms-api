@@ -9,7 +9,7 @@ In this tab you can send SMS to one number or specify several numbers using comm
 
 To open this tab, select **SMS** → **Send SMS** in the side menu and select **SINGLE SMS** tab.
 
-![image1](/img/en/client_send_sms_single_sms/image1.png)
+![image1](/img/en/client_send_sms_single_sms/image1.png "Single SMS") <center><u>Single SMS - photo 1</u></center>
 
 ## Sending single sms
 
@@ -26,13 +26,13 @@ To send a SMS message, follow the steps below:
 
 Press **EXECUTE** to send the message.
 
-![image2](/img/en/client_send_sms_single_sms/image2.png)
+![image2](/img/en/client_send_sms_single_sms/image2.png "Single SMS") <center><u>Single SMS - photo 2</u></center>
 
 ## Advanced options
 
 You can also apply additional options when you send sms. Click **Advanced options** to expand them.
 
-![image3](/img/en/client_send_sms_single_sms/image3.png)
+![image3](/img/en/client_send_sms_single_sms/image3.png "Single SMS") <center><u>Single SMS - photo 3</u></center>
 
 |  №  | Option | Description |
 | :-: | ------ | ----------- |
@@ -44,14 +44,14 @@ You can also apply additional options when you send sms. Click **Advanced option
 
 To check the cost of sending messages, click **HOW MUCH IS IT?** to the right of the **EXECUTE** button.
 
-![image4](/img/en/client_send_sms_single_sms/image4.png)
+![image4](/img/en/client_send_sms_single_sms/image4.png "Single SMS") <center><u>Single SMS - photo 4</u></center>
 
 The **SMS Sending** pop-up window opens with detailed information about the cost of sending the message(s).
 
-![image5](/img/en/client_send_sms_single_sms/image5.png)
+![image5](/img/en/client_send_sms_single_sms/image5.png "Single SMS") <center><u>Single SMS - photo 5</u></center>
 
 ## Message preview
 
 On the right side of the page is a window in the form of a mobile phone. This window shows a preview of your message as it will be received by the recipient.
 
-![image6](/img/en/client_send_sms_single_sms/image6.png)
+![image6](/img/en/client_send_sms_single_sms/image6.png "Single SMS") <center><u>Single SMS - photo 6</u></center>

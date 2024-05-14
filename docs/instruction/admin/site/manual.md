@@ -9,7 +9,7 @@ In this tab, you can add user instruction (manual).
 
 To open this tab, select **Clients** → **Site** in the side menu and select **MANUAL** tab.
 
-![image1](/img/en/admin_site_manual/image1.png)
+![image1](/img/en/admin_site_manual/image1.png "Manual") <center><u>Manual - photo 1</u></center>
 
 ## Adding a manual
 
@@ -24,4 +24,4 @@ To add a manual follow the steps below:
 
 Press **EXECUTE** to save the manual.
 
-![image2](/img/en/admin_site_manual/image2.png)
+![image2](/img/en/admin_site_manual/image2.png "Manual") <center><u>Manual - photo 2</u></center>

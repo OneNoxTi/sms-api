@@ -9,7 +9,7 @@ slug: /admin/customers/
 
 Щоб відкрити дану вкладку, виберіть **Клієнти** → **Статистика** у боковому меню та перейдіть на вкладку **КЛІЄНТИ**.
 
-![image1](/img/uk/admin_statistics_customers/image1.png)
+![image1](/img/uk/admin_statistics_customers/image1.png "Клієнти") <center><u>Клієнти - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,17 +22,17 @@ slug: /admin/customers/
 
 Після вибору дати натисніть кнопку **ПОШУК**. Сторінка оновиться, щоб відобразити статистику за вказаний період.
 
-![image2](/img/uk/admin_statistics_customers/image2.png)
+![image2](/img/uk/admin_statistics_customers/image2.png "Клієнти") <center><u>Клієнти - фото 2</u></center>
 
 ## Експорт звіту
 
 Щоб експортувати статистичну звітність, натисніть на іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image3](/img/uk/admin_statistics_customers/image3.png)
+![image3](/img/uk/admin_statistics_customers/image3.png "Клієнти") <center><u>Клієнти - фото 3</u></center>
 
 Відкриється нове спливаюче вікно, де вам потрібно вибрати дані, які ви хочете експортувати. Після вибору даних натисніть кнопку **ЕКСПОРТ** для експорту. Для скасування - кнопку **СКАСУВАТИ**.
 
-![image4](/img/uk/admin_statistics_customers/image4.png)
+![image4](/img/uk/admin_statistics_customers/image4.png "Клієнти") <center><u>Клієнти - фото 4</u></center>
 
 Після натискання кнопки **ЕКСПОРТ** звіт буде збережено на вашому пристрої у файлі **.xlsx**.
 
@@ -40,13 +40,13 @@ slug: /admin/customers/
 
 Ця діаграма відображає кількість відправлених повідомлень для кожного оператора. Статистика відображається для [вказаного періоду](#вибір-періоду).
 
-![image5](/img/uk/admin_statistics_customers/image5.png)
+![image5](/img/uk/admin_statistics_customers/image5.png "Клієнти") <center><u>Клієнти - фото 5</u></center>
 
 ## Таблиця статистики
 
 Всі статистичні дані розташовані в таблиці в окремих колонках:
 
-![image6](/img/uk/admin_statistics_customers/image6.png)
+![image6](/img/uk/admin_statistics_customers/image6.png "Клієнти") <center><u>Клієнти - фото 6</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

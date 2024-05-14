@@ -9,7 +9,7 @@ slug: /client/autopay/
 
 Щоб відкрити цю вкладку, виберіть **SMS** → **Фінанси** у боковому меню та оберіть вкладку **АВТООПЛАТА**.
 
-![image1](/img/uk/client_finances_autopay/image1.png)
+![image1](/img/uk/client_finances_autopay/image1.png "Автооплата") <center><u>Автооплата - фото 1</u></center>
 
 ## Активація автооплати
 
@@ -23,19 +23,19 @@ slug: /client/autopay/
 
 Натисніть кнопку **АКТИВУВАТИ**.
 
-![image2](/img/uk/client_finances_autopay/image2.png)
+![image2](/img/uk/client_finances_autopay/image2.png "Автооплата") <center><u>Автооплата - фото 2</u></center>
 
 ## Деактивація автооплати
 
 Щоб деактивувати функцію автооплати натисніть кнопку **ДЕАКТИВУВАТИ**.
 
-![image3](/img/uk/client_finances_autopay/image3.png)
+![image3](/img/uk/client_finances_autopay/image3.png "Автооплата") <center><u>Автооплата - фото 3</u></center>
 
 ## Історія автопоповнень
 
 В нижній частині сторінки розташована таблиця з історією автопоповнень. Дані розташовані в окремих колонках:
 
-![image4](/img/uk/client_finances_autopay/image4.png)
+![image4](/img/uk/client_finances_autopay/image4.png "Автооплата") <center><u>Автооплата - фото 4</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

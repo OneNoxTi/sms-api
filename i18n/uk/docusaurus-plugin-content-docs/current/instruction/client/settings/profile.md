@@ -9,13 +9,13 @@ slug: /client/profile/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Налаштування** у боковому меню та перейдіть на вкладку **ПРОФАЙЛ**.
 
-![image1](/img/uk/client_settings_profile/image1.png)
+![image1](/img/uk/client_settings_profile/image1.png "Профіль") <center><u>Профіль - фото 1</u></center>
 
 ## Обов'язкова інформація
 
 Обов'язкова інформація у вашому профілі містить наступні дані:
 
-![image2](/img/uk/client_settings_profile/image2.png)
+![image2](/img/uk/client_settings_profile/image2.png "Профіль") <center><u>Профіль - фото 2</u></center>
 
 |  №  | Дані | Опис |
 | :-: | ---- | ---- |
@@ -32,7 +32,7 @@ slug: /client/profile/
 
 Необов'язкова інформація у вашому профілі містить наступні дані:
 
-![image3](/img/uk/client_settings_profile/image3.png)
+![image3](/img/uk/client_settings_profile/image3.png "Профіль") <center><u>Профіль - фото 3</u></center>
 
 |  №  | Дані | Опис |
 | :-: | ---- | ---- |
@@ -53,13 +53,13 @@ slug: /client/profile/
 | 2 | Вкажіть **Регіон** |
 | 3 | Виберіть **Місто** |
 
-![image4](/img/uk/client_settings_profile/image4.png)
+![image4](/img/uk/client_settings_profile/image4.png "Профіль") <center><u>Профіль - фото 4</u></center>
 
 ## SMS-інформери
 
 Ви можете використовувати SMS-інформери з цитатами дня, курсами валют або прогнозом погоди. Для цього розгорніть блок **SMS-інформери** та оберіть необхідні SMS-інформери.
 
-![image5](/img/uk/client_settings_profile/image5.png)
+![image5](/img/uk/client_settings_profile/image5.png "Профіль") <center><u>Профіль - фото 5</u></center>
 
 |  №  | SMS-інформер |
 | :-: | ------------ |
@@ -76,10 +76,10 @@ slug: /client/profile/
 | 1 | Введіть **Новий пароль** |
 | 2 | Повторіть **Новий пароль** |
 
-![image6](/img/uk/client_settings_profile/image6.png)
+![image6](/img/uk/client_settings_profile/image6.png "Профіль") <center><u>Профіль - фото 6</u></center>
 
 ## Збереження змін
 
 Щоб зберегти всі зміни, натисніть кнопку **ЗБЕРЕГТИ**.
 
-![image7](/img/uk/client_settings_profile/image7.png)
+![image7](/img/uk/client_settings_profile/image7.png "Профіль") <center><u>Профіль - фото 7</u></center>

@@ -9,29 +9,29 @@ slug: /client/api-settings/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Налаштування** у боковому меню та перейдіть на вкладку **API**.
 
-![image1](/img/uk/client_settings_api/image1.png)
+![image1](/img/uk/client_settings_api/image1.png "API") <center><u>API - фото 1</u></center>
 
 ## Як отримати ключ API
 
 У верхній частині сторінки в рядку **Ваш ключ** вказано ваш поточний **API-ключ**.
 
-![image2](/img/uk/client_settings_api/image2.png)
+![image2](/img/uk/client_settings_api/image2.png "API") <center><u>API - фото 2</u></center>
 
 За замовчуванням **API-ключ** частково прихований, повний **API-ключ** відображається лише одразу після генерації. Тому краще зберегти **API-ключ** одразу після генерації.
 
 Щоб згенерувати новий ключ API, натисніть на іконку кнопки **Оновити** праворуч в рядку **Ваш ключ**.
 
-![image3](/img/uk/client_settings_api/image3.png)
+![image3](/img/uk/client_settings_api/image3.png "API") <center><u>API - фото 3</u></center>
 
 Також праворуч від поля **Ваш ключ** знаходиться посилання на документацію з інтеграції.
 
-![image4](/img/uk/client_settings_api/image4.png)
+![image4](/img/uk/client_settings_api/image4.png "API") <center><u>API - фото 4</u></center>
 
 ## Налаштування
 
 У вкладці **API** ви можете ввімкнути або вимкнути необхідні сервіси і протоколи, а також вказати додаткові налаштування.
 
-![image5](/img/uk/client_settings_api/image5.png)
+![image5](/img/uk/client_settings_api/image5.png "API") <center><u>API - фото 5</u></center>
 
 |  №  | Налаштування | Опис |
 | :-: | ------------ | ---- |
@@ -47,8 +47,8 @@ slug: /client/api-settings/
 
 Щоб протестувати XML-запит, введіть його в поле **Текст XML** і натисніть кнопку **ВІДПРАВИТИ**.
 
-![image6](/img/uk/client_settings_api/image6.png)
+![image6](/img/uk/client_settings_api/image6.png "API") <center><u>API - фото 6</u></center>
 
 Після виконання запиту праворуч від поля **Text XML** відображається поле з **Відповіддю** на запит.
 
-![image7](/img/uk/client_settings_api/image7.png)
+![image7](/img/uk/client_settings_api/image7.png "API") <center><u>API - фото 7</u></center>

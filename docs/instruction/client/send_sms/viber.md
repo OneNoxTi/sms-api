@@ -9,7 +9,7 @@ In this tab you can send messages via Viber to one or more numbers. You can also
 
 To open this tab, select **SMS** → **Send SMS** in the side menu and select **VIBER** tab.
 
-![image1](/img/en/client_send_sms_viber/image1.png)
+![image1](/img/en/client_send_sms_viber/image1.png "How to send a bulk mailing in Viber") <center><u>How to send a bulk mailing in Viber - photo 1</u></center>
 
 ## Sending viber message
 
@@ -27,7 +27,7 @@ To send a viber message, follow the steps below:
 | 8 | Select the **Type of mailing**: <li>[Text](#mailing-type---text)</li> <li>[Image](#mailing-type---image)</li> <li>[Text + image + button](#mailing-type---text--image--button)</li> Further actions depend on the selected mailing type and are described in the relevant sections |
 | 9 | To check what the message will be like for the recipients, you can send yourself a test SMS. To do this, **Enter the number** and press **SEND** |
 
-![image2](/img/en/client_send_sms_viber/image2.png)
+![image2](/img/en/client_send_sms_viber/image2.png "How to send a bulk mailing in Viber") <center><u>How to send a bulk mailing in Viber - photo 2</u></center>
 
 ### Mailing type - text
 
@@ -40,7 +40,7 @@ If you want to send only text in a viber message, follow the steps below:
 
 Press **EXECUTE** to send the message.
 
-![image3](/img/en/client_send_sms_viber/image3.png)
+![image3](/img/en/client_send_sms_viber/image3.png "How to send a bulk mailing in Viber") <center><u>How to send a bulk mailing in Viber - photo 3</u></center>
 
 ### Mailing type - image
 
@@ -53,7 +53,7 @@ If you want to send only image in a viber message, follow the steps below:
 
 Press **EXECUTE** to send the message.
 
-![image4](/img/en/client_send_sms_viber/image4.png)
+![image4](/img/en/client_send_sms_viber/image4.png "How to send a bulk mailing in Viber") <center><u>How to send a bulk mailing in Viber - photo 4</u></center>
 
 ### Mailing type - text + image + button
 
@@ -69,7 +69,7 @@ If you want to send a viber message that contains text, an image and a link butt
 
 Press **EXECUTE** to send the message.
 
-![image5](/img/en/client_send_sms_viber/image5.png)
+![image5](/img/en/client_send_sms_viber/image5.png "How to send a bulk mailing in Viber") <center><u>How to send a bulk mailing in Viber - photo 5</u></center>
 
 ## Resending by SMS
 
@@ -83,13 +83,13 @@ You can also send text sms messages in addition to viber messages. To do this, f
 
 Press **EXECUTE** to send the message.
 
-![image6](/img/en/client_send_sms_viber/image6.png)
+![image6](/img/en/client_send_sms_viber/image6.png "How to send a bulk mailing in Viber") <center><u>How to send a bulk mailing in Viber - photo 6</u></center>
 
 ## Advanced options
 
 You can also apply additional options when you send message. Click **Advanced options** to expand them.
 
-![image7](/img/en/client_send_sms_viber/image7.png)
+![image7](/img/en/client_send_sms_viber/image7.png "How to send a bulk mailing in Viber") <center><u>How to send a bulk mailing in Viber - photo 7</u></center>
 
 |  №  | Option | Description |
 | :-: | ------ | ----------- |
@@ -99,14 +99,14 @@ You can also apply additional options when you send message. Click **Advanced op
 
 To check the cost of sending messages, click **HOW MUCH IS IT?** to the right of the **EXECUTE** button.
 
-![image8](/img/en/client_send_sms_viber/image8.png)
+![image8](/img/en/client_send_sms_viber/image8.png "How to send a bulk mailing in Viber") <center><u>How to send a bulk mailing in Viber - photo 8</u></center>
 
 The **SMS Sending** pop-up window opens with detailed information about the cost of sending the message(s).
 
-![image9](/img/en/client_send_sms_viber/image9.png)
+![image9](/img/en/client_send_sms_viber/image9.png "How to send a bulk mailing in Viber") <center><u>How to send a bulk mailing in Viber - photo 9</u></center>
 
 ## Message preview
 
 On the right side of the page is a window in the form of a mobile phone. This window shows a preview of your message as it will be received by the recipient.
 
-![image10](/img/en/client_send_sms_viber/image10.png)
+![image10](/img/en/client_send_sms_viber/image10.png "How to send a bulk mailing in Viber") <center><u>How to send a bulk mailing in Viber - photo 10</u></center>

@@ -9,13 +9,13 @@ In this tab, you can add new menu that are displayed at the bottom of the page.
 
 To open this tab, select **Clients** → **Menu** in the side menu and select **LOWER MENU** tab.
 
-![image1](/img/en/admin_menu_lower_menu/image1.png)
+![image1](/img/en/admin_menu_lower_menu/image1.png "Lower Menu") <center><u>Lower Menu - photo 1</u></center>
 
 ## Adding a menu
 
 To add a new menu, click the **+ ADD** button in the upper left corner of the page.
 
-![image2](/img/en/admin_menu_lower_menu/image2.png)
+![image2](/img/en/admin_menu_lower_menu/image2.png "Lower Menu") <center><u>Lower Menu - photo 2</u></center>
 
 Next, follow the steps below:
 
@@ -30,13 +30,13 @@ Next, follow the steps below:
 
 Press **EXECUTE** to save the menu.
 
-![image3](/img/en/admin_menu_lower_menu/image3.png)
+![image3](/img/en/admin_menu_lower_menu/image3.png "Lower Menu") <center><u>Lower Menu - photo 3</u></center>
 
 ## Menus table
 
 The table contains a list of menus with detailed information about them. The data is arranged in separate columns.
 
-![image4](/img/en/admin_menu_lower_menu/image4.png)
+![image4](/img/en/admin_menu_lower_menu/image4.png "Lower Menu") <center><u>Lower Menu - photo 4</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
@@ -48,14 +48,14 @@ The table contains a list of menus with detailed information about them. The dat
 
 To edit a menu click on it in the table with menus. The page of **menu editing** will open, the actions are similar to [adding a menu](#adding-a-menu).
 
-![image5](/img/en/admin_menu_lower_menu/image5.png)
+![image5](/img/en/admin_menu_lower_menu/image5.png "Lower Menu") <center><u>Lower Menu - photo 5</u></center>
 
 ## Deleting a menu
 
 To delete one or more menus, check the **checkbox** next to the desired menus and click the **Delete** button icon in the upper right corner of the page.
 
-![image6](/img/en/admin_menu_lower_menu/image6.png)
+![image6](/img/en/admin_menu_lower_menu/image6.png "Lower Menu") <center><u>Lower Menu - photo 6</u></center>
 
 To select all menus check the checkbox in the table header.
 
-![image7](/img/en/admin_menu_lower_menu/image7.png)
+![image7](/img/en/admin_menu_lower_menu/image7.png "Lower Menu") <center><u>Lower Menu - photo 7</u></center>

@@ -9,7 +9,7 @@ slug: /client/balance/
 
 Щоб відкрити цю вкладку, виберіть **SMS** → **Фінанси** у боковому меню та оберіть вкладку **БАЛАНС**.
 
-![image1](/img/uk/client_finances_balance/image1.png)
+![image1](/img/uk/client_finances_balance/image1.png "Баланс") <center><u>Баланс - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,13 +22,13 @@ slug: /client/balance/
 
 Після вибору дати сторінка оновиться, щоб відобразити історію транзакцій за вказаний період.
 
-![image2](/img/uk/client_finances_balance/image2.png)
+![image2](/img/uk/client_finances_balance/image2.png "Баланс") <center><u>Баланс - фото 2</u></center>
 
 ## Список транзакцій
 
 Вся історія транзакцій балансу гаманця розташована в таблиці в окремих колонках:
 
-![image3](/img/uk/client_finances_balance/image3.png)
+![image3](/img/uk/client_finances_balance/image3.png "Баланс") <center><u>Баланс - фото 3</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

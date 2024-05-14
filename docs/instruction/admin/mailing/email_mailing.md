@@ -9,7 +9,7 @@ In this tab, you can send emails to the site's clients.
 
 To open this tab, select **Clients** → **Mailing** in the side menu and select **EMAIL MAILING** tab.
 
-![image1](/img/en/admin_mailing_email_mailing/image1.png)
+![image1](/img/en/admin_mailing_email_mailing/image1.png "Email Mailing") <center><u>Email Mailing - photo 1</u></center>
 
 ## Send emails
 
@@ -26,4 +26,4 @@ To send emails to site clients follow the steps below:
 
 Press **SUBMIT** to send the e-mail.
 
-![image2](/img/en/admin_mailing_email_mailing/image2.png)
+![image2](/img/en/admin_mailing_email_mailing/image2.png "Email Mailing") <center><u>Email Mailing - photo 2</u></center>

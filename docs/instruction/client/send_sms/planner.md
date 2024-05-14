@@ -9,13 +9,13 @@ In this tab you can plan mailings on specific dates. You can use the service for
 
 To open this tab, select **SMS** → **Send SMS** in the side menu and select **PLANNER** tab.
 
-![image1](/img/en/client_send_sms_planner/image1.png)
+![image1](/img/en/client_send_sms_planner/image1.png "Planner") <center><u>Planner - photo 1</u></center>
 
 ## Adding a planned mailing
 
 To add a planned mailing, click the **+ ADD** button in the upper left corner of the page.
 
-![image2](/img/en/client_send_sms_planner/image2.png)
+![image2](/img/en/client_send_sms_planner/image2.png "Planner") <center><u>Planner - photo 2</u></center>
 
 Follow the steps below:
 
@@ -33,23 +33,23 @@ Follow the steps below:
 
 Press **SAVE** to create a planned mailing. The new mailing will be displayed in the [table](#planned-mailing-list).
 
-![image3](/img/en/client_send_sms_planner/image3.png)
+![image3](/img/en/client_send_sms_planner/image3.png "Planner") <center><u>Planner - photo 3</u></center>
 
 ## Planned mailing list
 
 All added planned mailings are displayed in the table on the **PLANNER** tab.
 
-![image4](/img/en/client_send_sms_planner/image4.png)
+![image4](/img/en/client_send_sms_planner/image4.png "Planner") <center><u>Planner - photo 4</u></center>
 
 Click on the mailing to view the text of the message.
 
-![image5](/img/en/client_send_sms_planner/image5.png)
+![image5](/img/en/client_send_sms_planner/image5.png "Planner") <center><u>Planner - photo 5</u></center>
 
 ## Additional actions with planned mailing
 
 On the right side of the message text line there is a menu of additional actions:
 
-![image6](/img/en/client_send_sms_planner/image6.png)
+![image6](/img/en/client_send_sms_planner/image6.png "Planner") <center><u>Planner - photo 6</u></center>
 
 |  №  | Action | Description |
 | :-: | ------ | ----------- |

@@ -9,13 +9,13 @@ slug: /admin/visits/
 
 Щоб відкрити дану вкладку, виберіть **Клієнти** → **Клієнти** у боковому меню та перейдіть на вкладку **ВІДВІДУВАННЯ**.
 
-![image1](/img/uk/admin_clients_visits/image1.png)
+![image1](/img/uk/admin_clients_visits/image1.png "Відвідування") <center><u>Відвідування - фото 1</u></center>
 
 ## Історія входу
 
 Таблиця містить історію входу ваших клієнтів в систему. Дані розташовані в окремих колонках:
 
-![image2](/img/uk/admin_clients_visits/image2.png)
+![image2](/img/uk/admin_clients_visits/image2.png "Відвідування") <center><u>Відвідування - фото 2</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

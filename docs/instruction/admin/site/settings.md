@@ -9,13 +9,13 @@ In this tab, you can specify settings for the site.
 
 To open this tab, select **Clients** → **Site** in the side menu and select **SETTINGS** tab.
 
-![image1](/img/en/admin_site_settings/image1.png)
+![image1](/img/en/admin_site_settings/image1.png "Settings") <center><u>Settings - photo 1</u></center>
 
 ## Available settings
 
 The following page settings are available:
 
-![image2](/img/en/admin_site_settings/image2.png)
+![image2](/img/en/admin_site_settings/image2.png "Settings") <center><u>Settings - photo 2</u></center>
 
 |  №  | Setting |
 | :-: | ------- |
@@ -30,4 +30,4 @@ The following page settings are available:
 
 Press **EXECUTE** save the settings.
 
-![image3](/img/en/admin_site_settings/image3.png)
+![image3](/img/en/admin_site_settings/image3.png "Settings") <center><u>Settings - photo 3</u></center>

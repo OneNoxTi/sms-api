@@ -9,7 +9,7 @@ slug: /admin/support/
 
 Щоб відкрити даний розділ оберіть **Клієнти** → **Підтримка** в боковому меню.
 
-![image1](/img/uk/admin_support_support/image1.png)
+![image1](/img/uk/admin_support_support/image1.png "Підтримка") <center><u>Підтримка - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,7 +22,7 @@ slug: /admin/support/
 
 Після вибору дати сторінка оновиться, щоб відобразити тікети за вказаний період.
 
-![image2](/img/uk/admin_support_support/image2.png)
+![image2](/img/uk/admin_support_support/image2.png "Підтримка") <center><u>Підтримка - фото 2</u></center>
 
 ## Пошук
 
@@ -35,13 +35,13 @@ slug: /admin/support/
 
 Далі натисніть **ПОШУК**, сторінка оновиться і на ній відобразяться тікети за вказаними параметрами.
 
-![image3](/img/uk/admin_support_support/image3.png)
+![image3](/img/uk/admin_support_support/image3.png "Підтримка") <center><u>Підтримка - фото 3</u></center>
 
 ## Фільтр
 
 У верхній правій частині сторінки розташований фільтр, який дозволяють відображати в таблиці тільки тікети з необхідним статусом. Фільтр дозволяє обрати наступні статуси:
 
-![image4](/img/uk/admin_support_support/image4.png)
+![image4](/img/uk/admin_support_support/image4.png "Підтримка") <center><u>Підтримка - фото 4</u></center>
 
 |  №  | Статус |
 | :-: | ------ |
@@ -54,7 +54,7 @@ slug: /admin/support/
 
 Всі тікети з питаннями до технічної підтримки від ваших клієнтів розташовані в таблиці.
 
-![image5](/img/uk/admin_support_support/image5.png)
+![image5](/img/uk/admin_support_support/image5.png "Підтримка") <center><u>Підтримка - фото 5</u></center>
 
 |  №  | Дані |
 | :-: | ---- |
@@ -65,28 +65,28 @@ slug: /admin/support/
 
 Натисніть на **Тікет**, щоб переглянути текст звернення.
 
-![image6](/img/uk/admin_support_support/image6.png)
+![image6](/img/uk/admin_support_support/image6.png "Підтримка") <center><u>Підтримка - фото 6</u></center>
 
 ## Перегляд тікету
 
 Щоб відкрити сторінку тікету та відповісти на нього або щоб закрити його, натисніть кнопку **ПЕРЕГЛЯД**.
 
-![image7](/img/uk/admin_support_support/image7.png)
+![image7](/img/uk/admin_support_support/image7.png "Підтримка") <center><u>Підтримка - фото 7</u></center>
 
 Відкриється сторінка тікету, на якій ви маєте можливість відповісти на питання або закрити вирішений тікет.
 
-![image8](/img/uk/admin_support_support/image8.png)
+![image8](/img/uk/admin_support_support/image8.png "Підтримка") <center><u>Підтримка - фото 8</u></center>
 
 Щоб відповісти клієнту введіть текст повідомлення у відповідне поле та натисніть кнопку **ВІДПОВІСТИ**.
 
-![image9](/img/uk/admin_support_support/image9.png)
+![image9](/img/uk/admin_support_support/image9.png "Підтримка") <center><u>Підтримка - фото 9</u></center>
 
 За необхідністю ви можете прикріпити файл до повідомлення, для цього натисніть **ЗАВАНТАЖИТИ ФАЙЛ** та оберіть файл з директорій вашого пристрою.
 
-![image10](/img/uk/admin_support_support/image10.png)
+![image10](/img/uk/admin_support_support/image10.png "Підтримка") <center><u>Підтримка - фото 10</u></center>
 
 ## Закриття тікету
 
 Щоб закрити вже вирішений тікет натисніть кнопку **ЗАКРИТИ ТІКЕТ** в верхнього правому кутку сторінки.
 
-![image11](/img/uk/admin_support_support/image11.png)
+![image11](/img/uk/admin_support_support/image11.png "Підтримка") <center><u>Підтримка - фото 11</u></center>

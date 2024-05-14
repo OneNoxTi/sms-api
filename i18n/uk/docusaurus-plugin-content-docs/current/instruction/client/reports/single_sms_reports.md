@@ -9,7 +9,7 @@ slug: /client/single-sms-reports/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Звіти** у боковому меню та перейдіть на вкладку **ОДИНОЧНІ SMS**.
 
-![image1](/img/uk/client_reports_single_sms/image1.png)
+![image1](/img/uk/client_reports_single_sms/image1.png "Одиночні SMS") <center><u>Одиночні SMS - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,7 +22,7 @@ slug: /client/single-sms-reports/
 
 Після вибору дати сторінка оновиться, щоб відобразити звіти за вказаний період.
 
-![image2](/img/uk/client_reports_single_sms/image2.png)
+![image2](/img/uk/client_reports_single_sms/image2.png "Одиночні SMS") <center><u>Одиночні SMS - фото 2</u></center>
 
 ## Пошук
 
@@ -35,17 +35,17 @@ slug: /client/single-sms-reports/
 
 Далі натисніть **ПОШУК**, сторінка оновиться і на ній відобразяться звіти за вказаними параметрами.
 
-![image3](/img/uk/client_reports_single_sms/image3.png)
+![image3](/img/uk/client_reports_single_sms/image3.png "Одиночні SMS") <center><u>Одиночні SMS - фото 3</u></center>
 
 ## Експорт звіту
 
 Перед збереженням звіт необхідно згенерувати, для цього натисніть іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image4](/img/uk/client_reports_single_sms/image4.png)
+![image4](/img/uk/client_reports_single_sms/image4.png "Одиночні SMS") <center><u>Одиночні SMS - фото 4</u></center>
 
 Через деякий час звіт буде сформовано і його можна буде завантажити, натиснувши на іконку кнопки **ЗАВАНТАЖИТИ**.
 
-![image5](/img/uk/client_reports_single_sms/image5.png)
+![image5](/img/uk/client_reports_single_sms/image5.png "Одиночні SMS") <center><u>Одиночні SMS - фото 5</u></center>
 
 Звіт буде збережено на вашому пристрої у форматі **.xlsx**.
 
@@ -53,7 +53,7 @@ slug: /client/single-sms-reports/
 
 Всі звіти за одиночними SMS розташовані в таблиці на вкладці **ОДИНОЧНІ SMS**.
 
-![image6](/img/uk/client_reports_single_sms/image6.png)
+![image6](/img/uk/client_reports_single_sms/image6.png "Одиночні SMS") <center><u>Одиночні SMS - фото 6</u></center>
 
 |  №  | Опис |
 | :-: | ---- |
@@ -64,8 +64,8 @@ slug: /client/single-sms-reports/
 
 Натисніть на **Звіт**, щоб переглянути текст повідомлення.
 
-![image7](/img/uk/client_reports_single_sms/image7.png)
+![image7](/img/uk/client_reports_single_sms/image7.png "Одиночні SMS") <center><u>Одиночні SMS - фото 7</u></center>
 
 Також під текстом повідомлення зазначено **Кількість символів у повідомленні**, **Кількість частин повідомлення** та **Ідентифікатор повідомлення (MSGID)**.
 
-![image8](/img/uk/client_reports_single_sms/image8.png)
+![image8](/img/uk/client_reports_single_sms/image8.png "Одиночні SMS") <center><u>Одиночні SMS - фото 8</u></center>

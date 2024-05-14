@@ -9,7 +9,7 @@ slug: /admin/operators/
 
 Щоб відкрити дану вкладку, виберіть **Клієнти** → **Статистика** у боковому меню та перейдіть на вкладку **ОПЕРАТОРИ**.
 
-![image1](/img/uk/admin_statistics_operators/image1.png)
+![image1](/img/uk/admin_statistics_operators/image1.png "Оператори") <center><u>Оператори - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,17 +22,17 @@ slug: /admin/operators/
 
 Після вибору дати натисніть кнопку **ПОШУК**. Сторінка оновиться, щоб відобразити статистику за вказаний період.
 
-![image2](/img/uk/admin_statistics_operators/image2.png)
+![image2](/img/uk/admin_statistics_operators/image2.png "Оператори") <center><u>Оператори - фото 2</u></center>
 
 ## Експорт звіту
 
 Щоб експортувати статистичну звітність, натисніть на іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image3](/img/uk/admin_statistics_operators/image3.png)
+![image3](/img/uk/admin_statistics_operators/image3.png "Оператори") <center><u>Оператори - фото 3</u></center>
 
 Відкриється нове спливаюче вікно, де вам потрібно вибрати дані, які ви хочете експортувати. Після вибору даних натисніть кнопку **ЕКСПОРТ** для експорту. Для скасування - кнопку **СКАСУВАТИ**.
 
-![image4](/img/uk/admin_statistics_operators/image4.png)
+![image4](/img/uk/admin_statistics_operators/image4.png "Оператори") <center><u>Оператори - фото 4</u></center>
 
 Після натискання кнопки **ЕКСПОРТ** звіт буде збережено на вашому пристрої у файлі **.xlsx**.
 
@@ -40,13 +40,13 @@ slug: /admin/operators/
 
 Ця діаграма відображає кількість відправлених повідомлень для кожного оператора. Статистика відображається для [вказаного періоду](#вибір-періоду).
 
-![image5](/img/uk/admin_statistics_operators/image5.png)
+![image5](/img/uk/admin_statistics_operators/image5.png "Оператори") <center><u>Оператори - фото 5</u></center>
 
 ## Таблиця статистики
 
 Всі статистичні дані розташовані в таблиці в окремих колонках:
 
-![image6](/img/uk/admin_statistics_operators/image6.png)
+![image6](/img/uk/admin_statistics_operators/image6.png "Оператори") <center><u>Оператори - фото 6</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

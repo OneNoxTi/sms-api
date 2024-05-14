@@ -9,7 +9,7 @@ In this tab you can transfer funds from your balance to another user's balance.
 
 To open this tab, select **SMS** → **Finance** in the side menu and select **TRANSFER** tab.
 
-![image1](/img/en/client_finances_transfer/image1.png)
+![image1](/img/en/client_finances_transfer/image1.png "Transfer") <center><u>Transfer - photo 1</u></center>
 
 ## Transfer execution
 
@@ -23,4 +23,4 @@ To perform a fund transfer, follow the steps below:
 
 Press **EXECUTE** to perform a fund transfer.
 
-![image2](/img/en/client_finances_transfer/image2.png)
+![image2](/img/en/client_finances_transfer/image2.png "Transfer") <center><u>Transfer - photo 2</u></center>

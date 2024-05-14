@@ -9,13 +9,13 @@ slug: /client/hlr/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Чистка баз (HLR)** у боковому меню та перейдіть на вкладку **HLR**.
 
-![image1](/img/uk/client_hlr_hlr/image1.png)
+![image1](/img/uk/client_hlr_hlr/image1.png "HLR") <center><u>HLR - фото 1</u></center>
 
 ## Перевірка номерів
 
 Щоб перевірити номери в адресній книзі, натисніть **+ ДОДАТИ**.
 
-![image2](/img/uk/client_hlr_hlr/image2.png)
+![image2](/img/uk/client_hlr_hlr/image2.png "HLR") <center><u>HLR - фото 2</u></center>
 
 Далі виконайте наведені нижче дії:
 
@@ -27,7 +27,7 @@ slug: /client/hlr/
 
 Натисніть кнопку **ВИКОНАТИ**, щоб почати перевірку номерів.
 
-![image3](/img/uk/client_hlr_hlr/image3.png)
+![image3](/img/uk/client_hlr_hlr/image3.png "HLR") <center><u>HLR - фото 3</u></center>
 
 ## Вибір періоду
 
@@ -40,13 +40,13 @@ slug: /client/hlr/
 
 Після вибору дати сторінка оновиться, щоб відобразити звіти за вказаний період.
 
-![image4](/img/uk/client_hlr_hlr/image4.png)
+![image4](/img/uk/client_hlr_hlr/image4.png "HLR") <center><u>HLR - фото 4</u></center>
 
 ## Звіти про перевірку номерів
 
 Результати перевірки номерів розташовуються в таблиці, де дані наведені в окремих колонках:
 
-![image5](/img/uk/client_hlr_hlr/image5.png)
+![image5](/img/uk/client_hlr_hlr/image5.png "HLR") <center><u>HLR - фото 5</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

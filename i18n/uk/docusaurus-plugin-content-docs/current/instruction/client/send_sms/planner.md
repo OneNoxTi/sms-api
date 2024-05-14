@@ -9,13 +9,13 @@ slug: /client/planner/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Розсилка** у боковому меню та перейдіть на вкладку **ПЛАНУВАЛЬНИК**.
 
-![image1](/img/uk/client_send_sms_planner/image1.png)
+![image1](/img/uk/client_send_sms_planner/image1.png "Планувальник") <center><u>Планувальник - фото 1</u></center>
 
 ## Додавання запланованої розсилки
 
 Щоб додати заплановану розсилку, натисніть кнопку **+ ДОДАТИ** у верхньому лівому кутку сторінки.
 
-![image2](/img/uk/client_send_sms_planner/image2.png)
+![image2](/img/uk/client_send_sms_planner/image2.png "Планувальник") <center><u>Планувальник - фото 2</u></center>
 
 Виконайте наведені нижче дії:
 
@@ -33,23 +33,23 @@ slug: /client/planner/
 
 Натисніть **ЗБЕРЕГТИ**, щоб створити заплановану розсилку. Нова розсилка буде відображена в [таблиці](#список-запланованих-розсилок).
 
-![image3](/img/uk/client_send_sms_planner/image3.png)
+![image3](/img/uk/client_send_sms_planner/image3.png "Планувальник") <center><u>Планувальник - фото 3</u></center>
 
 ## Список запланованих розсилок
 
 Усі додані заплановані розсилки відображаються в таблиці на вкладці **ПЛАНУВАЛЬНИК**.
 
-![image4](/img/uk/client_send_sms_planner/image4.png)
+![image4](/img/uk/client_send_sms_planner/image4.png "Планувальник") <center><u>Планувальник - фото 4</u></center>
 
 Натисніть на розсилку, щоб переглянути текст повідомлення.
 
-![image5](/img/uk/client_send_sms_planner/image5.png)
+![image5](/img/uk/client_send_sms_planner/image5.png "Планувальник") <center><u>Планувальник - фото 5</u></center>
 
 ## Додаткові дії із запланованими розсилками
 
 Праворуч від рядка з текстом повідомлення знаходиться меню додаткових дій:
 
-![image6](/img/uk/client_send_sms_planner/image6.png)
+![image6](/img/uk/client_send_sms_planner/image6.png "Планувальник") <center><u>Планувальник - фото 6</u></center>
 
 |  №  | Дія | Опис |
 | :-: | --- | ---- |

@@ -9,7 +9,7 @@ In this tab, you can set up an automatic sending of invoices for payment to clie
 
 To open this tab, select **SMS** → **Finance** in the side menu and select **AUTOPAY** tab.
 
-![image1](/img/en/client_finances_autopay/image1.png)
+![image1](/img/en/client_finances_autopay/image1.png "Autopay") <center><u>Autopay - photo 1</u></center>
 
 ## Activating auto-pay
 
@@ -23,19 +23,19 @@ To activate auto-pay, follow these actions:
 
 Click the **ACTIVATE** button.
 
-![image2](/img/en/client_finances_autopay/image2.png)
+![image2](/img/en/client_finances_autopay/image2.png "Autopay") <center><u>Autopay - photo 2</u></center>
 
 ## Deactivate auto-pay
 
 To deactivate the auto-pay function, click the **DEACTIVATE** button.
 
-![image3](/img/en/client_finances_autopay/image3.png)
+![image3](/img/en/client_finances_autopay/image3.png "Autopay") <center><u>Autopay - photo 3</u></center>
 
 ## History of auto-pays
 
 At the bottom of the page, you can find a table with the history of auto-pays. The data is presented in separate columns:
 
-![image4](/img/en/client_finances_autopay/image4.png)
+![image4](/img/en/client_finances_autopay/image4.png "Autopay") <center><u>Autopay - photo 4</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |

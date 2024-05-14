@@ -9,13 +9,13 @@ slug: /admin/settings/
 
 Щоб відкрити цю вкладку, виберіть **Клієнти** → **Сайт** у боковому меню та оберіть вкладку **НАЛАШТУВАННЯ**.
 
-![image1](/img/uk/admin_site_settings/image1.png)
+![image1](/img/uk/admin_site_settings/image1.png "Налаштування") <center><u>Налаштування - фото 1</u></center>
 
 ## Доступні налаштування
 
 Доступні наступні налаштування сторінки:
 
-![image2](/img/uk/admin_site_settings/image2.png)
+![image2](/img/uk/admin_site_settings/image2.png "Налаштування") <center><u>Налаштування - фото 2</u></center>
 
 |  №  | Налаштування |
 | :-: | ------------ |
@@ -29,4 +29,4 @@ slug: /admin/settings/
 
 Натисніть **ВИКОНАТИ**, щоб зберегти налаштування.
 
-![image3](/img/uk/admin_site_settings/image3.png)
+![image3](/img/uk/admin_site_settings/image3.png "Налаштування") <center><u>Налаштування - фото 3</u></center>

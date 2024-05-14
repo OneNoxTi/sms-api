@@ -9,7 +9,7 @@ In this tab, you can view a report of bulk sms sent by your clients. You can als
 
 To open this tab, select **Clients** → **Reports** in the side menu and select **BULK SMS** tab.
 
-![image1](/img/en/admin_reports_bulk_sms/image1.png)
+![image1](/img/en/admin_reports_bulk_sms/image1.png "Bulk SMS") <center><u>Bulk SMS - photo 1</u></center>
 
 ## Period selection
 
@@ -22,7 +22,7 @@ To select the **time period** for which you want to display reports, follow the 
 
 After selecting a date, the page will be refreshed to display reports for the specified period.
 
-![image2](/img/en/admin_reports_bulk_sms/image2.png)
+![image2](/img/en/admin_reports_bulk_sms/image2.png "Bulk SMS") <center><u>Bulk SMS - photo 2</u></center>
 
 ## Search
 
@@ -35,13 +35,13 @@ You can also find specific reports by **name**, **content**, **Sender ID** or **
 
 Next, click **SEARCH**, the page will be refreshed and reports for the specified parameters will be displayed.
 
-![image3](/img/en/admin_reports_bulk_sms/image3.png)
+![image3](/img/en/admin_reports_bulk_sms/image3.png "Bulk SMS") <center><u>Bulk SMS - photo 3</u></center>
 
 ## Filter
 
 At the top of the page are filters that allow you to display only the required reports in the table. The following filters are available:
 
-![image4](/img/en/admin_reports_bulk_sms/image4.png)
+![image4](/img/en/admin_reports_bulk_sms/image4.png "Bulk SMS") <center><u>Bulk SMS - photo 4</u></center>
 
 |  №  | Filter |
 | :-: | ------ |
@@ -59,7 +59,7 @@ At the top of the page are filters that allow you to display only the required r
 
 All bulk sms reports are located in the table on the **BULK SMS** tab.
 
-![image5](/img/en/admin_reports_bulk_sms/image5.png)
+![image5](/img/en/admin_reports_bulk_sms/image5.png "Bulk SMS") <center><u>Bulk SMS - photo 5</u></center>
 
 |  №  | Data |
 | :-: | ---- |
@@ -70,17 +70,17 @@ All bulk sms reports are located in the table on the **BULK SMS** tab.
 
 A special icon with the viber logo marks viber mailings.
 
-![image6](/img/en/admin_reports_bulk_sms/image6.png)
+![image6](/img/en/admin_reports_bulk_sms/image6.png "Bulk SMS") <center><u>Bulk SMS - photo 6</u></center>
 
 Click on the **report** to view the text of the message.
 
-![image7](/img/en/admin_reports_bulk_sms/image7.png)
+![image7](/img/en/admin_reports_bulk_sms/image7.png "Bulk SMS") <center><u>Bulk SMS - photo 7</u></center>
 
 ## Additional actions with mailing
 
 On the right side of the message text field there is a menu of additional actions:
 
-![image8](/img/en/admin_reports_bulk_sms/image8.png)
+![image8](/img/en/admin_reports_bulk_sms/image8.png "Bulk SMS") <center><u>Bulk SMS - photo 8</u></center>
 
 |  №  | Action | Description |
 | :-: | ------ | ----------- |
@@ -92,7 +92,7 @@ On the right side of the message text field there is a menu of additional action
 
 The page with the mailing report is visually divided into three blocks:
 
-![image9](/img/en/admin_reports_bulk_sms/image9.png)
+![image9](/img/en/admin_reports_bulk_sms/image9.png "Bulk SMS") <center><u>Bulk SMS - photo 9</u></center>
 
 |  №  | Description |
 | :-: | ----------- |
@@ -104,7 +104,7 @@ The page with the mailing report is visually divided into three blocks:
 
 Detailed information about sms mailing contains the following information:
 
-![image10](/img/en/admin_reports_bulk_sms/image10.png)
+![image10](/img/en/admin_reports_bulk_sms/image10.png "Bulk SMS") <center><u>Bulk SMS - photo 10</u></center>
 
 |  №  | Data | Description |
 | :-: | ---- | ----------- |
@@ -131,17 +131,17 @@ At the bottom of the mailing report page is a table that contains statistics for
 
 To find a report by a specific number, enter the number in the **search field**. Then press **[ Enter ]** on the device keyboard or the **Search button icon** on the right side of the field.
 
-![image11](/img/en/admin_reports_bulk_sms/image11.png)
+![image11](/img/en/admin_reports_bulk_sms/image11.png "Bulk SMS") <center><u>Bulk SMS - photo 11</u></center>
 
 You can also display only delivered messages in the table. To do this, select the **Delivered** status from the **Select status** drop-down list.
 
-![image12](/img/en/admin_reports_bulk_sms/image12.png)
+![image12](/img/en/admin_reports_bulk_sms/image12.png "Bulk SMS") <center><u>Bulk SMS - photo 12</u></center>
 
 #### Report table
 
 The information in the report is presented in separate columns:
 
-![image13](/img/en/admin_reports_bulk_sms/image13.png)
+![image13](/img/en/admin_reports_bulk_sms/image13.png "Bulk SMS") <center><u>Bulk SMS - photo 13</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |
@@ -157,6 +157,6 @@ The report must be generated before saving, to do this, click the **Export** or 
 
 After a while the report will be generated and can be downloaded by clicking the **DOWNLOAD** button.
 
-![image14](/img/en/admin_reports_bulk_sms/image14.png)
+![image14](/img/en/admin_reports_bulk_sms/image14.png "Bulk SMS") <center><u>Bulk SMS - photo 14</u></center>
 
 The report will be saved on your device in an **.xlsx** file.

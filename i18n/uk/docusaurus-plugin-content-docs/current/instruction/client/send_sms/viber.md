@@ -9,7 +9,7 @@ slug: /client/viber/
 
 Щоб відкрити цю вкладку, виберіть **SMS** → **Розсилка** у боковому меню та оберіть вкладку **VIBER**.
 
-![image1](/img/uk/client_send_sms_viber/image1.png)
+![image1](/img/uk/client_send_sms_viber/image1.png "Як зробити масову розсилку в Viber") <center><u>Як зробити масову розсилку в Viber - фото 1</u></center>
 
 ## Надсилання Viber повідомлення
 
@@ -27,7 +27,7 @@ slug: /client/viber/
 | 8 | Вкажіть **Тип розсилки**: <li>[Текст](#тип-розсилки---текст)</li> <li>[Зображення](#тип-розсилки---зображення)</li> <li>[Текст + зображення + кнопка](#тип-розсилки---текст--зображення--кнопка)</li> Подальші дії залежать від обраного типу розсилки та описані у відповідних розділах |
 | 9 | Щоб перевірити, яким буде повідомлення для одержувачів, ви можете відправити собі тестове SMS. Для цього введіть свій **Номер телефону** і натисніть **ВІДПРАВИТИ** |
 
-![image2](/img/uk/client_send_sms_viber/image2.png)
+![image2](/img/uk/client_send_sms_viber/image2.png "Як зробити масову розсилку в Viber") <center><u>Як зробити масову розсилку в Viber - фото 2</u></center>
 
 ### Тип розсилки - Текст
 
@@ -40,7 +40,7 @@ slug: /client/viber/
 
 Натисніть **ВИКОНАТИ**, щоб відправити повідомлення.
 
-![image3](/img/uk/client_send_sms_viber/image3.png)
+![image3](/img/uk/client_send_sms_viber/image3.png "Як зробити масову розсилку в Viber") <center><u>Як зробити масову розсилку в Viber - фото 3</u></center>
 
 ### Тип розсилки - Зображення
 
@@ -53,7 +53,7 @@ slug: /client/viber/
 
 Натисніть **ВИКОНАТИ**, щоб відправити повідомлення.
 
-![image4](/img/uk/client_send_sms_viber/image4.png)
+![image4](/img/uk/client_send_sms_viber/image4.png "Як зробити масову розсилку в Viber") <center><u>Як зробити масову розсилку в Viber - фото 4</u></center>
 
 ### Тип розсилки - Текст + зображення + кнопка
 
@@ -69,7 +69,7 @@ slug: /client/viber/
 
 Натисніть **ВИКОНАТИ**, щоб відправити повідомлення.
 
-![image5](/img/uk/client_send_sms_viber/image5.png)
+![image5](/img/uk/client_send_sms_viber/image5.png "Як зробити масову розсилку в Viber") <center><u>Як зробити масову розсилку в Viber - фото 5</u></center>
 
 ## Перенаправлення по SMS
 
@@ -83,13 +83,13 @@ slug: /client/viber/
 
 Натисніть **ВИКОНАТИ**, щоб відправити повідомлення.
 
-![image6](/img/uk/client_send_sms_viber/image6.png)
+![image6](/img/uk/client_send_sms_viber/image6.png "Як зробити масову розсилку в Viber") <center><u>Як зробити масову розсилку в Viber - фото 6</u></center>
 
 ## Додаткові параметри
 
 Ви також можете застосувати додаткові параметри при надсиланні SMS. Натисніть **Додаткові параметри**, щоб розгорнути їх.
 
-![image7](/img/uk/client_send_sms_viber/image7.png)
+![image7](/img/uk/client_send_sms_viber/image7.png "Як зробити масову розсилку в Viber") <center><u>Як зробити масову розсилку в Viber - фото 7</u></center>
 
 |  №  | Параметр | Опис |
 | :-: | -------- | ---- |
@@ -99,14 +99,14 @@ slug: /client/viber/
 
 Щоб перевірити вартість відправки повідомлень, натисніть **СКІЛЬКИ ЦЕ КОШТУЄ?** праворуч від кнопки **ВИКОНАТИ**.
 
-![image8](/img/uk/client_send_sms_viber/image8.png)
+![image8](/img/uk/client_send_sms_viber/image8.png "Як зробити масову розсилку в Viber") <center><u>Як зробити масову розсилку в Viber - фото 8</u></center>
 
 Відкриється спливаюче вікно **Відправлення SMS** з детальною інформацією про вартість відправлення повідомлення (повідомлень).
 
-![image9](/img/uk/client_send_sms_viber/image9.png)
+![image9](/img/uk/client_send_sms_viber/image9.png "Як зробити масову розсилку в Viber") <center><u>Як зробити масову розсилку в Viber - фото 9</u></center>
 
 ## Попередній перегляд повідомлення
 
 У правій частині сторінки знаходиться вікно у вигляді мобільного телефону. В даному вікні відображається попередній перегляд вашого повідомлення в тому вигляді, в якому воно буде отримано одержувачем.
 
-![image10](/img/uk/client_send_sms_viber/image10.png)
+![image10](/img/uk/client_send_sms_viber/image10.png "Як зробити масову розсилку в Viber") <center><u>Як зробити масову розсилку в Viber - фото 10</u></center>

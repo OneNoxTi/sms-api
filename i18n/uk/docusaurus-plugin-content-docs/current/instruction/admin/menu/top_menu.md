@@ -9,13 +9,13 @@ slug: /admin/top-menu/
 
 Щоб відкрити дану вкладку, виберіть **Клієнти** → **Меню** у боковому меню та перейдіть на вкладку **ВЕРХНЄ МЕНЮ**.
 
-![image1](/img/uk/admin_menu_top_menu/image1.png)
+![image1](/img/uk/admin_menu_top_menu/image1.png "Верхнє меню") <center><u>Верхнє меню - фото 1</u></center>
 
 ## Додавання меню
 
 Щоб додати нове меню, натисніть кнопку **+ ДОДАТИ** у верхньому лівому кутку сторінки.
 
-![image2](/img/uk/admin_menu_top_menu/image2.png)
+![image2](/img/uk/admin_menu_top_menu/image2.png "Верхнє меню") <center><u>Верхнє меню - фото 2</u></center>
 
 Далі виконайте наведені нижче дії:
 
@@ -29,13 +29,13 @@ slug: /admin/top-menu/
 
 Натисніть **ВИКОНАТИ**, щоб зберегти меню.
 
-![image3](/img/uk/admin_menu_top_menu/image3.png)
+![image3](/img/uk/admin_menu_top_menu/image3.png "Верхнє меню") <center><u>Верхнє меню - фото 3</u></center>
 
 ## Таблиця меню
 
 Таблиця містить перелік меню з детальною інформацією про них. Дані розташовані в окремих колонках:
 
-![image4](/img/uk/admin_menu_top_menu/image4.png)
+![image4](/img/uk/admin_menu_top_menu/image4.png "Верхнє меню") <center><u>Верхнє меню - фото 4</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -47,14 +47,14 @@ slug: /admin/top-menu/
 
 Щоб відредагувати меню, натисніть на нього в таблиці з меню. Відкриється сторінка **Редагування меню**, подальші дії аналогічні [додаванню меню](#додавання-меню).
 
-![image5](/img/uk/admin_menu_top_menu/image5.png)
+![image5](/img/uk/admin_menu_top_menu/image5.png "Верхнє меню") <center><u>Верхнє меню - фото 5</u></center>
 
 ## Видалення меню
 
 Щоб видалити одне або кілька меню, відзначте **Чекбокс** поруч з потрібними меню і натисніть іконку кнопки **Видалити** у верхньому правому куті сторінки.
 
-![image6](/img/uk/admin_menu_top_menu/image6.png)
+![image6](/img/uk/admin_menu_top_menu/image6.png "Верхнє меню") <center><u>Верхнє меню - фото 6</u></center>
 
 Щоб вибрати всі меню, відзначте чекбокс у заголовку таблиці.
 
-![image7](/img/uk/admin_menu_top_menu/image7.png)
+![image7](/img/uk/admin_menu_top_menu/image7.png "Верхнє меню") <center><u>Верхнє меню - фото 7</u></center>

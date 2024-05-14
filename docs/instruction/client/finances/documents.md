@@ -9,13 +9,13 @@ This tab stores all the invoices generated on the [**Finance - Deposit**](paymen
 
 To open this tab, select **SMS** → **Finance** in the side menu and select **DOCUMENTS** tab.
 
-![image1](/img/en/client_finances_documents/image1.png)
+![image1](/img/en/client_finances_documents/image1.png "Where to get documents") <center><u>Where to get documents - photo 1</u></center>
 
 ## Invoice list
 
 All generated invoices are arranged in a table with detailed information about them. The data is arranged in separate columns:
 
-![image2](/img/en/client_finances_documents/image2.png)
+![image2](/img/en/client_finances_documents/image2.png "Where to get documents") <center><u>Where to get documents - photo 2</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |

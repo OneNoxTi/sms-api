@@ -9,11 +9,11 @@ slug: /client/tariffs/
 
 Щоб відкрити дану вкладку, виберіть **Клієнти** → **Вхідні SMS** у боковому меню та перейдіть на вкладку **ТАРИФИ**.
 
-![image1](/img/uk/client_incoming_sms_tariffs/image1.png)
+![image1](/img/uk/client_incoming_sms_tariffs/image1.png "Тарифи") <center><u>Тарифи - фото 1</u></center>
 
 Всі тарифи розташовані в таблиці на вкладці **ТАРИФИ**.
 
-![image2](/img/uk/client_incoming_sms_tariffs/image2.png)
+![image2](/img/uk/client_incoming_sms_tariffs/image2.png "Тарифи") <center><u>Тарифи - фото 2</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

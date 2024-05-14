@@ -9,7 +9,7 @@ slug: /admin/bulk-sms-reports/
 
 Щоб відкрити дану вкладку, виберіть **Клієнти** → **Звіти** у боковому меню та перейдіть на вкладку **МАСОВІ РОЗСИЛКИ**.
 
-![image1](/img/uk/admin_reports_bulk_sms/image1.png)
+![image1](/img/uk/admin_reports_bulk_sms/image1.png "Масові розсилки") <center><u>Масові розсилки - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,7 +22,7 @@ slug: /admin/bulk-sms-reports/
 
 Після вибору дати сторінка оновиться, щоб відобразити звіти за вказаний період.
 
-![image2](/img/uk/admin_reports_bulk_sms/image2.png)
+![image2](/img/uk/admin_reports_bulk_sms/image2.png "Масові розсилки") <center><u>Масові розсилки - фото 2</u></center>
 
 ## Пошук
 
@@ -35,13 +35,13 @@ slug: /admin/bulk-sms-reports/
 
 Далі натисніть **ПОШУК**, сторінка оновиться і на ній відобразяться звіти за вказаними параметрами.
 
-![image3](/img/uk/admin_reports_bulk_sms/image3.png)
+![image3](/img/uk/admin_reports_bulk_sms/image3.png "Масові розсилки") <center><u>Масові розсилки - фото 3</u></center>
 
 ## Фільтр
 
 У верхній частині сторінки розташовані фільтри, які дозволяють відображати в таблиці тільки необхідні звіти. Доступні наступні фільтри:
 
-![image4](/img/uk/admin_reports_bulk_sms/image4.png)
+![image4](/img/uk/admin_reports_bulk_sms/image4.png "Масові розсилки") <center><u>Масові розсилки - фото 4</u></center>
 
 |  №  | Фільтр |
 | :-: | ------ |
@@ -59,7 +59,7 @@ slug: /admin/bulk-sms-reports/
 
 Всі звіти за масовими розсилками розташовані в таблиці на вкладці **МАСОВІ РОЗСИЛКИ**.
 
-![image5](/img/uk/admin_reports_bulk_sms/image5.png)
+![image5](/img/uk/admin_reports_bulk_sms/image5.png "Масові розсилки") <center><u>Масові розсилки - фото 5</u></center>
 
 |  №  | Дані |
 | :-: | ---- |
@@ -70,17 +70,17 @@ slug: /admin/bulk-sms-reports/
 
 Спеціальна іконка з логотипом Viber позначає розсилки Viber.
 
-![image6](/img/uk/admin_reports_bulk_sms/image6.png)
+![image6](/img/uk/admin_reports_bulk_sms/image6.png "Масові розсилки") <center><u>Масові розсилки - фото 6</u></center>
 
 Натисніть на **Звіт**, щоб переглянути текст повідомлення.
 
-![image7](/img/uk/admin_reports_bulk_sms/image7.png)
+![image7](/img/uk/admin_reports_bulk_sms/image7.png "Масові розсилки") <center><u>Масові розсилки - фото 7</u></center>
 
 ## Додаткові дії з розсилками
 
 Праворуч від поля з текстом повідомлення знаходиться меню додаткових дій:
 
-![image8](/img/uk/admin_reports_bulk_sms/image8.png)
+![image8](/img/uk/admin_reports_bulk_sms/image8.png "Масові розсилки") <center><u>Масові розсилки - фото 8</u></center>
 
 |  №  | Дія | Опис |
 | :-: | --- | ---- |
@@ -92,7 +92,7 @@ slug: /admin/bulk-sms-reports/
 
 Сторінка зі звітом про розсилку візуально розділена на три блоки:
 
-![image9](/img/uk/admin_reports_bulk_sms/image9.png)
+![image9](/img/uk/admin_reports_bulk_sms/image9.png "Масові розсилки") <center><u>Масові розсилки - фото 9</u></center>
 
 |  №  | Опис |
 | :-: | ---- |
@@ -104,7 +104,7 @@ slug: /admin/bulk-sms-reports/
 
 Детальна інформація про розсилку містить наступні дані:
 
-![image10](/img/uk/admin_reports_bulk_sms/image10.png)
+![image10](/img/uk/admin_reports_bulk_sms/image10.png "Масові розсилки") <center><u>Масові розсилки - фото 10</u></center>
 
 |  №  | Дані | Опис |
 | :-: | ---- | ---- |
@@ -131,17 +131,17 @@ slug: /admin/bulk-sms-reports/
 
 Щоб знайти звіт за певним номером, введіть його в **Поле пошуку**. Потім натисніть **[ Enter ]** на клавіатурі пристрою або іконку кнопки **Пошук** у правій частині поля.
 
-![image11](/img/uk/admin_reports_bulk_sms/image11.png)
+![image11](/img/uk/admin_reports_bulk_sms/image11.png "Масові розсилки") <center><u>Масові розсилки - фото 11</u></center>
 
 Ви також можете відображати в таблиці лише доставлені повідомлення. Для цього виберіть статус **Доставлено** у випадаючому списку **Оберіть статус**.
 
-![image12](/img/uk/admin_reports_bulk_sms/image12.png)
+![image12](/img/uk/admin_reports_bulk_sms/image12.png "Масові розсилки") <center><u>Масові розсилки - фото 12</u></center>
 
 #### Таблиця зі звітами
 
 Інформація у звіті представлена в окремих колонках:
 
-![image13](/img/uk/admin_reports_bulk_sms/image13.png)
+![image13](/img/uk/admin_reports_bulk_sms/image13.png "Масові розсилки") <center><u>Масові розсилки - фото 13</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |
@@ -157,6 +157,6 @@ slug: /admin/bulk-sms-reports/
 
 Через деякий час звіт буде сформовано і його можна буде завантажити, натиснувши іконку кнопки **ЗАВАНТАЖИТИ**.
 
-![image14](/img/uk/admin_reports_bulk_sms/image14.png)
+![image14](/img/uk/admin_reports_bulk_sms/image14.png "Масові розсилки") <center><u>Масові розсилки - фото 14</u></center>
 
 Звіт буде збережено на вашому пристрої у форматі **.xlsx**.

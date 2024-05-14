@@ -9,7 +9,7 @@ slug: /admin/account/
 
 Щоб відкрити дану вкладку, виберіть **Клієнти** → **Фінанси** у боковому меню та оберіть вкладку **РАХУНОК**.
 
-![image1](/img/uk/admin_finances_account/image1.png)
+![image1](/img/uk/admin_finances_account/image1.png "Рахунок") <center><u>Рахунок - фото 1</u></center>
 
 ## Завантаження рахунку
 
@@ -22,7 +22,7 @@ slug: /admin/account/
 
 Натисніть кнопку **ЗАВАНТАЖИТИ РАХУНОК**.
 
-![image2](/img/uk/admin_finances_account/image2.png)
+![image2](/img/uk/admin_finances_account/image2.png "Рахунок") <center><u>Рахунок - фото 2</u></center>
 
 ## Вибір періоду
 
@@ -35,7 +35,7 @@ slug: /admin/account/
 
 Після вибору дати сторінка оновиться, щоб відобразити рахунки за вказаний період.
 
-![image3](/img/uk/admin_finances_account/image3.png)
+![image3](/img/uk/admin_finances_account/image3.png "Рахунок") <center><u>Рахунок - фото 3</u></center>
 
 ## Пошук
 
@@ -48,13 +48,13 @@ slug: /admin/account/
 
 Далі натисніть **ПОШУК**, сторінка оновиться і на ній відобразяться рахунки за вказаними параметрами.
 
-![image4](/img/uk/admin_finances_account/image4.png)
+![image4](/img/uk/admin_finances_account/image4.png "Рахунок") <center><u>Рахунок - фото 4</u></center>
 
 ## Список рахунків
 
 Всі рахунки ваших клієнтів розташовані в таблиці на вкладці **РАХУНОК**. Дані розташовані в окремих колонках:
 
-![image5](/img/uk/admin_finances_account/image5.png)
+![image5](/img/uk/admin_finances_account/image5.png "Рахунок") <center><u>Рахунок - фото 5</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

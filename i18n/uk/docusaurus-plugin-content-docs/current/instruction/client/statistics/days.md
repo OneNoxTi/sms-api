@@ -9,7 +9,7 @@ slug: /client/days/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Аналітика** у боковому меню та перейдіть на вкладку **ДНІ**.
 
-![image1](/img/uk/client_statistics_days/image1.png)
+![image1](/img/uk/client_statistics_days/image1.png "Дні") <center><u>Дні - фото 1</u></center>
 
 ## Вибір періоду
 
@@ -22,17 +22,17 @@ slug: /client/days/
 
 Після вибору дати натисніть кнопку **ПОШУК**. Сторінка оновиться, щоб відобразити статистику за вказаний період.
 
-![image2](/img/uk/client_statistics_days/image2.png)
+![image2](/img/uk/client_statistics_days/image2.png "Дні") <center><u>Дні - фото 2</u></center>
 
 ## Експорт звіту
 
 Щоб експортувати статистичну звітність, натисніть на іконку кнопки **Експорт** праворуч від кнопки **ПОШУК**.
 
-![image3](/img/uk/client_statistics_days/image3.png)
+![image3](/img/uk/client_statistics_days/image3.png "Дні") <center><u>Дні - фото 3</u></center>
 
 Відкриється нове спливаюче вікно, де вам потрібно вибрати дані, які ви хочете експортувати. Після вибору даних натисніть кнопку **ЕКСПОРТ** для експорту. Для скасування - кнопку **СКАСУВАТИ**.
 
-![image4](/img/uk/client_statistics_days/image4.png)
+![image4](/img/uk/client_statistics_days/image4.png "Дні") <center><u>Дні - фото 4</u></center>
 
 Після натискання кнопки **ЕКСПОРТ** звіт буде збережено на вашому пристрої у файлі **.xlsx**.
 
@@ -40,7 +40,7 @@ slug: /client/days/
 
 Ця діаграма відображає кількість відправлених і доставлених повідомлень за кожен день [вказаного періоду](#вибір-періоду).
 
-![image5](/img/uk/client_statistics_days/image5.png)
+![image5](/img/uk/client_statistics_days/image5.png "Дні") <center><u>Дні - фото 5</u></center>
 
 **Синій графік** - кількість відправлених повідомлень. **Фіолетовий графік** - кількість доставлених повідомлень.
 
@@ -48,7 +48,7 @@ slug: /client/days/
 
 Всі статистичні дані розташовані в таблиці в окремих колонках:
 
-![image6](/img/uk/client_statistics_days/image6.png)
+![image6](/img/uk/client_statistics_days/image6.png "Дні") <center><u>Дні - фото 6</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

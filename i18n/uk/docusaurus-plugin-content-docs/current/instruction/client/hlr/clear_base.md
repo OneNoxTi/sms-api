@@ -9,17 +9,17 @@ slug: /client/clear-base/
 
 Щоб відкрити дану вкладку, виберіть **SMS** → **Чистка баз (HLR)** у боковому меню та перейдіть на вкладку **ЧИСТКА БАЗИ**.
 
-![image1](/img/uk/client_hlr_clear_base/image1.png)
+![image1](/img/uk/client_hlr_clear_base/image1.png "Чистка бази") <center><u>Чистка бази - фото 1</u></center>
 
 ## Чистка бази
 
 Щоб очистити адресну книгу від недійсних номерів, натисніть **+ ДОДАТИ**.
 
-![image2](/img/uk/client_hlr_clear_base/image2.png)
+![image2](/img/uk/client_hlr_clear_base/image2.png "Чистка бази") <center><u>Чистка бази - фото 2</u></center>
 
 Далі додайте номери одним з доступних способів:
 
-![image3](/img/uk/client_hlr_clear_base/image3.png)
+![image3](/img/uk/client_hlr_clear_base/image3.png "Чистка бази") <center><u>Чистка бази - фото 3</u></center>
 
 |  №  | Метод |
 | :-: | ----- |
@@ -29,13 +29,13 @@ slug: /client/clear-base/
 
 Натисніть кнопку **ВИКОНАТИ**, щоб почати чистку бази.
 
-![image4](/img/uk/client_hlr_clear_base/image4.png)
+![image4](/img/uk/client_hlr_clear_base/image4.png "Чистка бази") <center><u>Чистка бази - фото 4</u></center>
 
 ## Результати чистки бази
 
 Результати чистки бази розташовані в таблиці з даними в окремих колонках:
 
-![image5](/img/uk/client_hlr_clear_base/image5.png)
+![image5](/img/uk/client_hlr_clear_base/image5.png "Чистка бази") <center><u>Чистка бази - фото 5</u></center>
 
 |  №  | Колонка | Опис |
 | :-: | ------- | ---- |

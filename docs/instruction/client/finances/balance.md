@@ -9,7 +9,7 @@ In this tab you can view the transaction history of the wallet balance for a cer
 
 To open this tab, select **SMS** → **Finance** in the side menu and select **BALANCE** tab.
 
-![image1](/img/en/client_finances_balance/image1.png)
+![image1](/img/en/client_finances_balance/image1.png "Balance") <center><u>Balance - photo 1</u></center>
 
 ## Period selection
 
@@ -22,13 +22,13 @@ To select the **time period** for which you want to display the transaction hist
 
 After selecting a date, the page will be refresh and display the transaction history for the specified period.
 
-![image2](/img/en/client_finances_balance/image2.png)
+![image2](/img/en/client_finances_balance/image2.png "Balance") <center><u>Balance - photo 2</u></center>
 
 ## Transactions list
 
 All transaction history of the wallet balance are located in the table in separate columns:
 
-![image3](/img/en/client_finances_balance/image3.png)
+![image3](/img/en/client_finances_balance/image3.png "Balance") <center><u>Balance - photo 3</u></center>
 
 |  №  | Column | Description |
 | :-: | ------ | ----------- |

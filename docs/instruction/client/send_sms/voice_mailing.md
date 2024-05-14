@@ -9,7 +9,7 @@ In this tab you can create a mailing of voice messages. The recipient will recei
 
 To open this tab, select **SMS** → **Send SMS** in the side menu and select **VOICE MAILING** tab.
 
-![image1](/img/en/client_send_sms_voice_mailing/image1.png)
+![image1](/img/en/client_send_sms_voice_mailing/image1.png "How to configure voice messaging") <center><u>How to configure voice messaging - photo 1</u></center>
 
 ## Creating a voice mailing
 
@@ -27,13 +27,13 @@ To create a voice mailing, follow the steps below:
 
 Press **EXECUTE** to create a mailing.
 
-![image2](/img/en/client_send_sms_voice_mailing/image2.png)
+![image2](/img/en/client_send_sms_voice_mailing/image2.png "How to configure voice messaging") <center><u>How to configure voice messaging - photo 2</u></center>
 
 ## Advanced options
 
 You can also apply additional options when you create a mailing. Click **Advanced options** to expand them.
 
-![image3](/img/en/client_send_sms_voice_mailing/image3.png)
+![image3](/img/en/client_send_sms_voice_mailing/image3.png "How to configure voice messaging") <center><u>How to configure voice messaging - photo 3</u></center>
 
 |  №  | Option | Description |
 | :-: | ------ | ----------- |
@@ -45,8 +45,8 @@ You can also apply additional options when you create a mailing. Click **Advance
 
 To check the cost of sending messages, click **HOW MUCH IS IT?** to the right of the **EXECUTE** button.
 
-![image4](/img/en/client_send_sms_voice_mailing/image4.png)
+![image4](/img/en/client_send_sms_voice_mailing/image4.png "How to configure voice messaging") <center><u>How to configure voice messaging - photo 4</u></center>
 
 The **SMS Sending** pop-up window opens with detailed information about the cost of sending the message(s).
 
-![image5](/img/en/client_send_sms_voice_mailing/image5.png)
+![image5](/img/en/client_send_sms_voice_mailing/image5.png "How to configure voice messaging") <center><u>How to configure voice messaging - photo 5</u></center>
