@@ -2,6 +2,7 @@
 id: days
 title: Days
 sidebar_label: Days
+slug: /client/days/
 ---
 
 In this tab you can view statistics by day and also check the efficiency of the mailing.

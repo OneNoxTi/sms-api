@@ -3,7 +3,7 @@ id: login
 title: Login
 sidebar_label: Login
 hide_title: true
-slug: /sign-in/
+slug: /login/
 ---
 
 import PspName from '@site/src/components/pspName.js';

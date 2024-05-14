@@ -2,6 +2,7 @@
 id: visits
 title: Visits
 sidebar_label: Visits
+slug: /admin/visits/
 ---
 
 This tab contains the history of your clients' logins. It allows you to view the date of login, the IP address of the device from which the login was performed, as well as detailed information about the client's browser.

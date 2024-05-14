@@ -2,6 +2,7 @@
 id: viber_sender_id
 title: Альфаімена Viber
 sidebar_label: Альфаімена Viber
+slug: /client/viber-sender-id/
 ---
 
 У цій вкладці ви можете переглянути статистику по іменам відправника Viber (альфаіменам Viber), а також перевірити ефективність розсилки.

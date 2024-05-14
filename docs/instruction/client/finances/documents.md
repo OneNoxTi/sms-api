@@ -2,6 +2,7 @@
 id: documents
 title: Where to get documents
 sidebar_label: Documents
+slug: /client/documents/
 ---
 
 This tab stores all the invoices generated on the [**Finance - Deposit**](payment.md#top-up-by-invoice) tab. You can pay these invoices in any bank.

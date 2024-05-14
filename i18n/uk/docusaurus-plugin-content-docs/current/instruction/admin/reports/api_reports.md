@@ -2,6 +2,7 @@
 id: api_reports
 title: API
 sidebar_label: API
+slug: /admin/api-reports/
 ---
 
 На даній вкладці ви можете переглянути звіт по розсилкам SMS, надісланими вашими клієнтами через API. Ви також можете експортувати звіт у файл xlsx.

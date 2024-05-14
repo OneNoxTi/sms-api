@@ -2,6 +2,7 @@
 id: support
 title: Support
 sidebar_label: Support
+slug: /admin/support/
 ---
 
 This section is used to view tickets with technical support questions from your clients.

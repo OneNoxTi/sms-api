@@ -2,6 +2,7 @@
 id: rcs_android
 title: How to enable RCS Android mailing
 sidebar_label: RCS Android
+slug: /client/rcs/
 ---
 
 On this tab, you can create mass mailings of messages that will be sent using the RCS (Rich Communication Services) protocol.

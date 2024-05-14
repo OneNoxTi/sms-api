@@ -2,6 +2,7 @@
 id: single_sms
 title: Одиночна SMS
 sidebar_label: Одиночна SMS
+slug: /client/single-sms/
 ---
 
 У цій вкладці ви можете відправити SMS на один номер або декілька, вказавши їх через кому.

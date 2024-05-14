@@ -2,6 +2,7 @@
 id: voice_mailing
 title: How to configure voice messaging
 sidebar_label: Voice Mailing
+slug: /client/voice-mailing/
 ---
 
 In this tab you can create a mailing of voice messages. The recipient will receive a phone call in which they will hear your recorded voice message.

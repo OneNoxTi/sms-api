@@ -2,6 +2,7 @@
 id: clear_base
 title: Clear Base
 sidebar_label: Clear Base
+slug: /client/clear-base/
 ---
 
 In this tab you can clean up your address books leaving only valid numbers. Phones will be cleared using operator logs of bulk messaging. You pay only for numbers that were found. Price 0₴ per number.

@@ -2,6 +2,7 @@
 id: viber_sender_id
 title: Viber Sender ID
 sidebar_label: Viber Sender ID
+slug: /client/viber-sender-id/
 ---
 
 In this tab you can view statistics by sender ID's and also check the efficiency of the viber mailing.

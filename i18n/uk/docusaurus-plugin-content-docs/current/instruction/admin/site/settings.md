@@ -2,6 +2,7 @@
 id: settings
 title: Налаштування
 sidebar_label: Налаштування
+slug: /admin/settings/
 ---
 
 На цій вкладці ви можете вказати налаштування для сайту.

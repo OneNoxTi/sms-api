@@ -2,6 +2,7 @@
 id: api_reports
 title: API
 sidebar_label: API
+slug: /client/api-reports/
 ---
 
 На цій вкладці ви можете переглянути звіти про повідомлення, надіслані через API. Ви також можете експортувати звіт у xlsx-файл.

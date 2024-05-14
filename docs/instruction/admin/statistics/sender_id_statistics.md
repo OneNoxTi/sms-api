@@ -2,6 +2,7 @@
 id: sender_id_statistics
 title: Sender ID
 sidebar_label: Sender ID
+slug: /admin/sender-id-statistics/
 ---
 
 In this tab, you can view statistics on your clients' Sender IDs and check the effectiveness of their mailing.

@@ -2,6 +2,7 @@
 id: manual
 title: Manual
 sidebar_label: Manual
+slug: /admin/manual/
 ---
 
 In this tab, you can add user instruction (manual).

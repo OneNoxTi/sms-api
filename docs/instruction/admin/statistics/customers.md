@@ -2,6 +2,7 @@
 id: customers
 title: Customers
 sidebar_label: Customers
+slug: /admin/customers/
 ---
 
 On this tab you can view statistics on your clients' mailings and check the effectiveness of their mailings.

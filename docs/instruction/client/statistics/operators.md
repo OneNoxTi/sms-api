@@ -2,6 +2,7 @@
 id: operators
 title: Operators
 sidebar_label: Operators
+slug: /client/operators/
 ---
 
 In this tab you can view statistics by operators and also check the efficiency of the mailing.

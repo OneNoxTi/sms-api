@@ -2,6 +2,7 @@
 id: templates_sms
 title: Шаблони SMS
 sidebar_label: Шаблони SMS
+slug: /client/sms-templates/
 ---
 
 Ця вкладка призначена для додавання нових шаблонів SMS, а також для редагування і видалення існуючих шаблонів.

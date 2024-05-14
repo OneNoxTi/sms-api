@@ -2,6 +2,7 @@
 id: pages
 title: Pages
 sidebar_label: Pages
+slug: /admin/pages/
 ---
 
 This section is provided for creating new pages of the site, and also allows you to edit and delete existing pages.

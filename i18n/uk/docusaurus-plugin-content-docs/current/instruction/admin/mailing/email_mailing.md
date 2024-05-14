@@ -2,6 +2,7 @@
 id: email_mailing
 title: Email Розсилка
 sidebar_label: Email Розсилка
+slug: /admin/email-mailing/
 ---
 
 На цій вкладці ви можете надсилати електронні листи клієнтам сайту.

@@ -2,6 +2,7 @@
 id: rcs_android
 title: Як включити RCS Android розсилку
 sidebar_label: RCS Android
+slug: /client/rcs/
 ---
 
 На цій вкладці ви можете створити масові розсилки повідомлень, які будуть надсилатися за допомогою протоколу RCS (Rich Communication Services).

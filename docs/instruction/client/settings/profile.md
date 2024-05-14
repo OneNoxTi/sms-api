@@ -2,6 +2,7 @@
 id: profile
 title: Profile
 sidebar_label: Profile
+slug: /client/profile/
 ---
 
 This tab contains basic information about your profile. You can correct or update it at any time, and you can also change your password. You can use SMS-informers about the quote of the day, currency exchange rate, weather forecast.

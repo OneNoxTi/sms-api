@@ -2,6 +2,7 @@
 id: api_reports
 title: API
 sidebar_label: API
+slug: /admin/api-reports/
 ---
 
 In this tab, you can view reports on messages sent by your customers through the API. You can also export the report to an xlsx file.

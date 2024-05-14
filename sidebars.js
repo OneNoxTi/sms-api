@@ -43,7 +43,7 @@ function client_uk(){
       type: 'category',
       label: 'Finances',
       items: [
-        'instruction/client/finances/payment',
+        'instruction/client/finances/payments',
         'instruction/client/finances/balance',
         'instruction/client/finances/documents',
         'instruction/client/finances/transfer',
@@ -129,7 +129,7 @@ function client_en(){
       type: 'category',
       label: 'Finances',
       items: [
-        'instruction/client/finances/payment',
+        'instruction/client/finances/payments',
         'instruction/client/finances/balance',
         'instruction/client/finances/documents',
         'instruction/client/finances/transfer',
@@ -288,7 +288,7 @@ function client_admin(){
           type: 'category',
           label: 'Finances',
           items: [
-            'instruction/client/finances/payment',
+            'instruction/client/finances/payments',
             'instruction/client/finances/balance',
             'instruction/client/finances/documents',
             'instruction/client/finances/transfer',

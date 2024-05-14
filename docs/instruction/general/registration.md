@@ -2,7 +2,7 @@
 id: registration
 title: How to register an account
 sidebar_label: Registration
-slug: /sign-up/
+slug: /registration/
 ---
 
 To register a new personal account, go to the website and click the **Registration** button in the upper right corner of the page.

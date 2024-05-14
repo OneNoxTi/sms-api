@@ -2,6 +2,7 @@
 id: top_menu
 title: Top Menu
 sidebar_label: Top Menu
+slug: /admin/top-menu/
 ---
 
 In this tab, you can add new menu that are displayed at the top of the page.

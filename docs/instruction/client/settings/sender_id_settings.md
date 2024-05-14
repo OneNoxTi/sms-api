@@ -2,6 +2,7 @@
 id: sender_id_settings
 title: Sender ID
 sidebar_label: Sender ID
+slug: /client/sender-id-settings/
 ---
 
 This tab is intended for adding new sender names, as well as for editing and deleting existing sender names. These names are used for sending messages.

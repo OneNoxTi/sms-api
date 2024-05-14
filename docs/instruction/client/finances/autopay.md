@@ -2,6 +2,7 @@
 id: autopay
 title: Autopay
 sidebar_label: Autopay
+slug: /client/autopay/
 ---
 
 In this tab, you can set up an automatic sending of invoices for payment to clients when a specific balance level is reached. You can also view the history of automatic payments.

@@ -2,6 +2,7 @@
 id: received_sms
 title: Прийняті SMS
 sidebar_label: Прийняті SMS
+slug: /client/received-sms/
 ---
 
 На цій вкладці ви можете переглянути прийняті SMS за певний період, а також експортувати їх у xlsx-файл.

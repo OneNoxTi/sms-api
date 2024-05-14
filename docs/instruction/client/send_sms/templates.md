@@ -2,6 +2,7 @@
 id: templates
 title: How to create email templates for mailing
 sidebar_label: Templates
+slug: /client/templates/
 ---
 
 This tab is intended for creating message templates, as well as for editing and deleting already existing templates.

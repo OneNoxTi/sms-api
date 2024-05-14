@@ -2,6 +2,7 @@
 id: single_sms_reports
 title: Одиночні SMS
 sidebar_label: Одиночні SMS
+slug: /client/single-sms-reports/
 ---
 
 На цій вкладці ви можете переглянути звіти по одиночним SMS за певний період, а також експортувати звіт у xlsx-файл.

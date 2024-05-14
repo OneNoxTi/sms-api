@@ -2,6 +2,7 @@
 id: api_settings
 title: API
 sidebar_label: API
+slug: /client/api-settings/
 ---
 
 На цій вкладці ви можете налаштувати інтеграцію API і згенерувати новий ключ API. Ви також можете надіслати тестовий XML-запит на вказану адресу.

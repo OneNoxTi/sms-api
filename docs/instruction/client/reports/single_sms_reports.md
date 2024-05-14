@@ -2,6 +2,7 @@
 id: single_sms_reports
 title: Single SMS
 sidebar_label: Single SMS
+slug: /client/single-sms-reports/
 ---
 
 In this tab you can view single sms reports for a specific period, as well as export the report to an xlsx file.

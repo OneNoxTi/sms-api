@@ -1,7 +1,8 @@
 ---
-id: payment
+id: payments
 title: How to top up your balance
 sidebar_label: Payments
+slug: /client/payments/
 ---
 
 In this tab you can top up your account balance online or by invoice.

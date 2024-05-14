@@ -2,6 +2,7 @@
 id: viber
 title: How to send a bulk mailing in Viber
 sidebar_label: Viber
+slug: /client/viber/
 ---
 
 In this tab you can send messages via Viber to one or more numbers. You can also create bulk Viber messages. Messages can contain text and image, or a combination of text, image and button.

@@ -2,6 +2,7 @@
 id: planner
 title: Planner
 sidebar_label: Planner
+slug: /client/planner/
 ---
 
 In this tab you can plan mailings on specific dates. You can use the service for birthday greetings, congratulations on all kinds of holidays, various promotions, quizzes, bonus programs. To do this, you only need to correct the data in your address book.

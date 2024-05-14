@@ -2,6 +2,7 @@
 id: templates_viber
 title: Шаблони Viber
 sidebar_label: Шаблони Viber
+slug: /client/viber-templates/
 ---
 
 Дана вкладка призначена для додавання нових шаблонів повідомлень Viber, а також для редагування та видалення існуючих шаблонів.

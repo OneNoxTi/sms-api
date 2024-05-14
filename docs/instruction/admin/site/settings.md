@@ -2,6 +2,7 @@
 id: settings
 title: Settings
 sidebar_label: Settings
+slug: /admin/settings/
 ---
 
 In this tab, you can specify settings for the site.

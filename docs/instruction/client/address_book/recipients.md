@@ -2,6 +2,7 @@
 id: recipients
 title: Recipients
 sidebar_label: Recipients
+slug: /client/recipients/
 ---
 
 In this tab, you can create and delete address books that contain recipients' phone numbers. You can also add additional information to your address book, such as a name or birthday.

@@ -2,6 +2,7 @@
 id: email_mailing
 title: Email Mailing
 sidebar_label: Email Mailing
+slug: /admin/email-mailing/
 ---
 
 In this tab, you can send emails to the site's clients.

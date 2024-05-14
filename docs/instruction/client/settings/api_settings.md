@@ -2,6 +2,7 @@
 id: api_settings
 title: API
 sidebar_label: API
+slug: /client/api-settings/
 ---
 
 In this tab you can customize the API integration and generate a new API key. You can also send a test XML request to the specified address.

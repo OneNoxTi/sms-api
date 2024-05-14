@@ -2,6 +2,7 @@
 id: transfer
 title: Transfer
 sidebar_label: Transfer
+slug: /client/transfer/
 ---
 
 In this tab you can transfer funds from your balance to another user's balance.
