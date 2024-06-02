@@ -8,7 +8,8 @@ let instruction_list = [
       'instruction/general/getting_started',
       'instruction/general/registration',
       'instruction/general/login',
-      'instruction/general/interface'
+      'instruction/general/interface',
+      'instruction/general/create_sender_id'
     ]
   }
 ]

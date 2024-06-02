@@ -21,7 +21,7 @@ Follow the steps below:
 
 |  №  | Action |
 | :-: | ------ |
-| 1 | Specify **senderID** which you want to use. You can use latin letters or a combination of latin letters with arabic numbers. It is forbidden to use the symbols `{ \| , ; % ' # % ! ^ = [ ] ( ) / ~ < > } "`. The name must be from 3 to 11 characters long. You can view detailed instructions on how to generate names [here](../../../external/create_sender_id.md) |
+| 1 | Specify **senderID** which you want to use. You can use latin letters or a combination of latin letters with arabic numbers. It is forbidden to use the symbols `{ \| , ; % ' # % ! ^ = [ ] ( ) / ~ < > } "`. The name must be from 3 to 11 characters long. You can view detailed instructions on how to generate names [here](../../general/create_sender_id.md) |
 | 2 | Specify the **initiator** (name of the legal entity) |
 | 3 | Specify **Registration ID** |
 | 4 | Specify **Contacts** (physical address) |
