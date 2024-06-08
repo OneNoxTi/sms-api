@@ -1,0 +1,53 @@
+{
+  "sidebar.instruction_list.category.General info": {
+    "message": "Общая информация"
+  },
+  "sidebar.instruction_list.category.Send SMS": {
+    "message": "Рассылка"
+  },
+  "sidebar.instruction_list.category.Reports": {
+    "message": "Отчеты"
+  },
+  "sidebar.instruction_list.category.Finances": {
+    "message": "Финансы"
+  },
+  "sidebar.instruction_list.category.Statistics": {
+    "message": "Аналитика"
+  },
+  "sidebar.instruction_list.category.Incoming SMS": {
+    "message": "Входящие СМС"
+  },
+  "sidebar.instruction_list.category.Address Book": {
+    "message": "Адресная книга"
+  },
+  "sidebar.instruction_list.category.HLR": {
+    "message": "Чистка баз (HLR)"
+  },
+  "sidebar.instruction_list.category.Settings": {
+    "message": "Настройки"
+  },
+  "sidebar.instruction_list.category.Clients": {
+    "message": "Клиенты"
+  },
+  "sidebar.instruction_list.category.Pages": {
+    "message": "Страницы"
+  },
+  "sidebar.instruction_list.category.Menu": {
+    "message": "Меню"
+  },
+  "sidebar.instruction_list.category.Site": {
+    "message": "Сайт"
+  },
+  "sidebar.instruction_list.category.Mailing": {
+    "message": "Рассылка"
+  },
+  "sidebar.instruction_list.category.Support": {
+    "message": "Поддержка"
+  },
+  "sidebar.instruction_list.category.For clients": {
+    "message": "Для клиентов"
+  },
+  "sidebar.instruction_list.category.Admin module": {
+    "message": "Админ часть"
+  }
+}

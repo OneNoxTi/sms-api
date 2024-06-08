@@ -1,41 +1,35 @@
 ---
 id: create_sender_id
-title: Формування Альфанумеричних/Динамічних Альфанумеричних імен
-sidebar_label: Формування імен
+title: How to create a sender's name
+sidebar_label: How to create a sender's name
 ---
 
-1. Альфанумеричне /Динамічне Альфанумеричне ім'я використовується для  ідентифікації Замовника, як особи, яка відправляє повідомлення.
-2. У якості Альфанумеричного /Динамічного Альфанумеричного імені можна використовувати комбінацію латинських літер або комбінацію латинських літер з арабськими числами (від 3 до 11 символів).
-3. У якості Альфанумеричного імені/Динамічного Альфанумеричного імені заборонено використати комбінації літер та/або чисел (слова), які:
-    1. пропагують війну, національну і релігійну ворожнечу, зміну конституційного ладу або територіальної цілісності України або іншої країни;
-    2. пропагують фашизм або неофашизм;
-    3. містять елементи політичної агітації;
-    4. принижують або ображають націю/расу або особу за національною/расовою ознакою;
-    5. пропагують неповагу до національних та/або релігійних святинь;
-    6. принижують особу,  є проявом знущання з приводу фізичних недоліків (каліцтва), психічнохворих, літніх людей;
-    7. пропагують неуцтво, неповагу до батьків;
-    8. пропагують наркоманію, токсикоманію, алкоголізм, тютюнопаління і інші шкідливі звички;
-    9. мають сексуальний, або еротичний, або порнографічний характер;
-    10. містять лайку;
-    11. містять знаки для товарів і послуг, або телефонні номери, на які Замовник не може підтвердити права на їх використання тощо.
-4. У якості Альфанумеричного імені/Динамічного Альфанумеричного імені заборонено використовувати:
-    1. Символы `\{ \| , ; % ' # % ! ^ = [ ] ( ) / ~ < > } "`.
-    2. Назви та/або торгові марки операторів телекомунікацій та їх похідні;
-    3. Короткі номери;
-    4. Телефонні номери (див. умови пункту 5 цієї Інструкції);
-    5. Власні назви, прізвища (наприклад,  Маша,  Ваня, Іванов тощо);
-    6. Слова, що не мають смислового навантаження - випадковий набір символів (наприклад, ght, asdf  тощо), комбінація яких є недостатньою для ідентифікації клієнта, як відправника повідомлення;
-    7. Загальні назви (наприклад,  SMS, лист, послання т.д., винятки: якщо це є торговою маркою клієнта - див. умови пункту 6.1.1 цієї Інструкції).
-5. У випадку реєстрації Альфанумеричного /Динамічного Альфанумеричного імені, необхідно надати відповідне підтвердження права розпорядження такого телефонного номеру – копія договору з оператором телекомунікацій або копії дозволу на виділення номерного ресурсу.
-6. Для використання Замовником у Альфанумеричних  іменах (або Динамічних Альфанумеричних  іменах) торговельних марок (їх окремих частин) та/або фірмових найменувань (у т.ч. торговельних марок та/або фірмових найменувань третіх осіб) та/або імен торгових марок та/чи фірмових найменувань, та/чи імен власних.
-    1. Підтвердженням права на використання торгових марок та/або фірмових найменувань є:
-        1. Свідоцтво про реєстрацію торгової марки/торгового знаку на товари та послуги;
-        2. Договір на право використання торгової марки, торгового знаку, фірмового найменування;
-        3. Розділ договору про надання послуг, де окремо обумовлене право на використання торгової марки, торгового знаку, фірмового найменування (де Замовникові надається право від власника торгової марки, торгового знаку, фірмового найменування використати торгову марку, торговий знак тощо для масових розсилок);
-        4. Офіційний лист-підтвердження від власника торгової марки, торгового знаку, фірмового найменування на право використання таких атрибутів для здійснення масових розсилок;
-        5. У випадку якщо Замовник укладає договір не з власником торгової марки/знаку/найменування, лист-підтвердження від власника торгової марки/знаку/найменування є необхідним у будь-якому разі.
-    2. Копії документів, вказаних в пунктах 6.1.1 - 6.1.5 цієї Інструкції необхідно надавати разом із заявкою на реєстрацію Альфанумеричного /Динамічного Альфанумеричного імені.
-7. При використанні/бажанні використовувати Замовником Альфанумеричного  Імені (або Динамічного Альфанумеричного Імені), останній повинен подати його на погодження Виконавцеві, у строки встановлені операторами мобільного зв’язку. За результатами перевірки даного Альфанумеричного Імені (або Динамічного Альфанумеричного Імені) Виконавець приймає одне з рішень:
-    1. погоджує та здійснює відправку SMS-повідомлень з даним іменем (у разі подальшого замовлення даної послуги);
-    2. відмовляє у погодженні. У такому випадку відправка SMS-повідомлень з даним іменем не здійснюється.
-8. У випадку, якщо заявлені до реєстрації Альфанумеричні/Динамічні Альфанумеричні імена не відповідатимуть умовам цієї Інструкції, такі Альфанумеричні/Динамічні Альфанумеричні імена погоджуватися до використання не будуть.
+Sender's name (alphanumeric name, alpha name, signature) is a unique combination of latin letters or latin letters with arabic numbers that is shown in SMS as the sender's signature instead of the phone number.
+
+## Price
+
+* Free of charge - for default signatures and for all sender's signatures entered by operators in the register of national signatures;
+* For signatures that are not classified as national after verification by mobile operators. Each SMS sent with such a signature is charged according to the current tariff.
+
+## Requirements for the sender's name
+
+1. The sender's name can contain a combination of latin letters or latin letters with arabic numbers (from 3 to 11 characters);
+2. It is forbidden to use as a sender's name:
+    1. Symbols `{ | , ; % ' # % ! ^ = [ ] ( ) / ~ < > } "`;
+    2. Names and/or trademarks of telecommunications operators and their derivatives;
+    3. Short numbers;
+    4. Telephone numbers;
+    5. Proper names, surnames (for example, John, Sam, Doe, etc.);
+    6. Words that have no meaning - a random set of characters (e.g., ght, asdf, etc.), the combination of which is not sufficient to identify the client as the sender of the message;
+    7. Common names (for example, SMS, letter, message, etc.).
+3. In order to use trademarks (or parts thereof), trade names (including trademarks and/or trade names of third parties), and/or personal names in the sender's name, the following documents must be submitted:
+    1. Certificate of trademark registration;
+    2. License agreement / franchise agreement;
+    3. Scan of an extract from the National State Registry of Ukrainian Enterprises and Organizations / certificate of registration of a legal entity / certificate of registration of a TIN to confirm that the legal entity matches the selected name;
+    4. A document confirming that the site domain matches the chosen name (subject to confirmation of the rights to this site from the domain registrar);
+    5. A written permission to use the domain from the rights holder / a contract for the transfer of rights if the domain owner is an individual, even if he is a director or founder of a company;
+    6. A letter of guarantee if the MTS operator is used (only for individual entrepreneurs, letters are not required from legal entities).
+4. If the client uses/wants to use the sender's name, the latter must submit it to the contractor for approval within the time limits set by mobile operators. Based on the results of verification of the sender's name, the contractor shall make one of the following decisions:
+    1. Approves and sends SMS messages with this name (in case of further ordering this service);
+    2. Refuses to approve. In this case, no SMS messages will be sent with this name;
+5. If the sender names submitted for registration do not comply with the terms of this instruction, such sender names will not be approved for use.

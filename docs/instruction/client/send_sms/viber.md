@@ -78,7 +78,7 @@ You can also send text sms messages in addition to viber messages. To do this, f
 |  №  | Action |
 | :-: | ------ |
 | 1 | Select the **Resend by SMS** checkbox |
-| 2 | Enter the **Sender ID** or select from a list of previously added Sender IDs. Click the **Sender ID** field to open that list. <br/> You can also register a new **Sender ID** by clicking the **REGISTER NEW SENDER ID** button to the right of the **Sender ID** field. You will be redirected to the [**SENDER ID**](../send_sms/sender_id.md) tab |
+| 2 | Select the **Sender ID** from a list of previously added Sender IDs. Click the **Sender ID** field to open that list. <br/> You can also register a new **Sender ID** on the [**SENDER ID**](../send_sms/sender_id.md) tab |
 | 3 | Enter the **Message text** (sign limits per message: **70** for cyrillic and **160** for latin). <br/> Use the **VARIABLE VALUE** button to add a variable to the message text. <br/> The right side of the message text input field shows the **Number of entered signs** and **The number of messages** required to send the entered text. <br/> You can also switch the message text from cyrillic to latin and vice versa using the **LATIN/CYRILLIC** selector |
 
 Press **EXECUTE** to send the message.
