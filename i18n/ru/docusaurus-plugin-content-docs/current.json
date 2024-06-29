@@ -1,53 +1,53 @@
 {
-  "sidebar.instruction_list.category.General info": {
+  "sidebar.docs.category.General info": {
     "message": "Общая информация"
   },
-  "sidebar.instruction_list.category.Send SMS": {
+  "sidebar.docs.category.Send SMS": {
     "message": "Рассылка"
   },
-  "sidebar.instruction_list.category.Reports": {
+  "sidebar.docs.category.Reports": {
     "message": "Отчеты"
   },
-  "sidebar.instruction_list.category.Finances": {
+  "sidebar.docs.category.Finances": {
     "message": "Финансы"
   },
-  "sidebar.instruction_list.category.Statistics": {
+  "sidebar.docs.category.Statistics": {
     "message": "Аналитика"
   },
-  "sidebar.instruction_list.category.Incoming SMS": {
+  "sidebar.docs.category.Incoming SMS": {
     "message": "Входящие СМС"
   },
-  "sidebar.instruction_list.category.Address Book": {
+  "sidebar.docs.category.Address Book": {
     "message": "Адресная книга"
   },
-  "sidebar.instruction_list.category.HLR": {
+  "sidebar.docs.category.HLR": {
     "message": "Чистка баз (HLR)"
   },
-  "sidebar.instruction_list.category.Settings": {
+  "sidebar.docs.category.Settings": {
     "message": "Настройки"
   },
-  "sidebar.instruction_list.category.Clients": {
+  "sidebar.docs.category.Clients": {
     "message": "Клиенты"
   },
-  "sidebar.instruction_list.category.Pages": {
+  "sidebar.docs.category.Pages": {
     "message": "Страницы"
   },
-  "sidebar.instruction_list.category.Menu": {
+  "sidebar.docs.category.Menu": {
     "message": "Меню"
   },
-  "sidebar.instruction_list.category.Site": {
+  "sidebar.docs.category.Site": {
     "message": "Сайт"
   },
-  "sidebar.instruction_list.category.Mailing": {
+  "sidebar.docs.category.Mailing": {
     "message": "Рассылка"
   },
-  "sidebar.instruction_list.category.Support": {
+  "sidebar.docs.category.Support": {
     "message": "Поддержка"
   },
-  "sidebar.instruction_list.category.For clients": {
+  "sidebar.docs.category.For clients": {
     "message": "Для клиентов"
   },
-  "sidebar.instruction_list.category.Admin module": {
+  "sidebar.docs.category.Admin module": {
     "message": "Админ часть"
   }
 }
