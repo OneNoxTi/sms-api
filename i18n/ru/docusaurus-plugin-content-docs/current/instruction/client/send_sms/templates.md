@@ -1,7 +1,7 @@
 ---
 id: templates
 title: Как создать шаблоны сообщений для рассылок
-sidebar_label: Шаблони
+sidebar_label: Шаблоны
 slug: /client/templates/
 ---
 
