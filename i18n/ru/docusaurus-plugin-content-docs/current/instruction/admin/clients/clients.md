@@ -99,7 +99,7 @@ slug: /admin/clients/
 
 ![image10](/img/ru/admin_clients_clients/image10.png "Клиенты") <center><u>Клиенты - фото 10</u></center>
 
-#### Установка кредитного баланса
+<!-- #### Установка кредитного баланса
 
 Чтобы установить кредитный баланс, выполните следующие действия:
 
@@ -123,7 +123,7 @@ slug: /admin/clients/
 
 Нажмите кнопку **СОХРАНИТЬ**, чтобы пополнить счет.
 
-![image12](/img/ru/admin_clients_clients/image12.png "Клиенты") <center><u>Клиенты - фото 12</u></center>
+![image12](/img/ru/admin_clients_clients/image12.png "Клиенты") <center><u>Клиенты - фото 12</u></center> -->
 
 #### Выбор периода
 
@@ -136,13 +136,13 @@ slug: /admin/clients/
 
 После выбора даты страница обновится, чтобы отразить историю транзакций за указанный период.
 
-![image13](/img/ru/admin_clients_clients/image13.png "Клиенты") <center><u>Клиенты - фото 13</u></center>
+![image13](/img/ru/admin_clients_clients/image13.png "Клиенты") <center><u>Клиенты - фото 11</u></center>
 
 #### Список транзакций
 
 Вся история транзакций по балансу счёта расположена в таблице в обособленных колонках:
 
-![image14](/img/ru/admin_clients_clients/image14.png "Клиенты") <center><u>Клиенты - фото 14</u></center>
+![image14](/img/ru/admin_clients_clients/image14.png "Клиенты") <center><u>Клиенты - фото 12</u></center>
 
 |  №  | Колонка | Описание |
 | :-: | ------- | -------- |
@@ -156,7 +156,7 @@ slug: /admin/clients/
 
 Чтобы экспортировать историю транзакций, нажмите на иконку кнопки **Экспорт**.
 
-![image15](/img/ru/admin_clients_clients/image15.png "Клиенты") <center><u>Клиенты - фото 15</u></center>
+![image15](/img/ru/admin_clients_clients/image15.png "Клиенты") <center><u>Клиенты - фото 13</u></center>
 
 После нажатия иконки кнопки **Экспорт** отчет будет сохранен на вашем устройстве в файле **.xlsx**.
 
@@ -170,7 +170,7 @@ slug: /admin/clients/
 
 Чтобы открыть данный отчет, откройте вкладку **СТАТИСТИКА** и выберите отчет **ГРУППИРОВКА ПО ДНЯМ**.
 
-![image16](/img/ru/admin_clients_clients/image16.png "Клиенты") <center><u>Клиенты - фото 16</u></center>
+![image16](/img/ru/admin_clients_clients/image16.png "Клиенты") <center><u>Клиенты - фото 14</u></center>
 
 ##### Выбор периода
 
@@ -183,17 +183,17 @@ slug: /admin/clients/
 
 После выбора даты нажмите кнопку **ПОИСК**. Страница обновится, чтобы отобразить статистику за указанный период.
 
-![image17](/img/ru/admin_clients_clients/image17.png "Клиенты") <center><u>Клиенты - фото 17</u></center>
+![image17](/img/ru/admin_clients_clients/image17.png "Клиенты") <center><u>Клиенты - фото 15</u></center>
 
 ##### Экспорт отчета
 
 Чтобы экспортировать статистическую отчетность, нажмите на иконку кнопки **Экспорт** справа от кнопки **ПОИСК**.
 
-![image18](/img/ru/admin_clients_clients/image18.png "Клиенты") <center><u>Клиенты - фото 18</u></center>
+![image18](/img/ru/admin_clients_clients/image18.png "Клиенты") <center><u>Клиенты - фото 16</u></center>
 
 Откроется новое всплывающее окно, где вам нужно выбрать данные, которые вы хотите экспортировать. После выбора данных нажмите кнопку **ЭКСПОРТ** для экспорта. Для отмены – кнопку **ОТМЕНИТЬ**.
 
-![image19](/img/ru/admin_clients_clients/image19.png "Клиенты") <center><u>Клиенты - фото 19</u></center>
+![image19](/img/ru/admin_clients_clients/image19.png "Клиенты") <center><u>Клиенты - фото 17</u></center>
 
 После нажатия кнопки **ЭКСПОРТ** отчет будет сохранен на вашем устройстве в файле **.xlsx**.
 
@@ -201,7 +201,7 @@ slug: /admin/clients/
 
 Эта диаграмма отображает количество отправленных и доставленных сообщений за каждый день указанного периода.
 
-![image20](/img/ru/admin_clients_clients/image20.png "Клиенты") <center><u>Клиенты - фото 20</u></center>
+![image20](/img/ru/admin_clients_clients/image20.png "Клиенты") <center><u>Клиенты - фото 18</u></center>
 
 **Синий график** - количество отправленных сообщений. **Фиолетовый график** - количество доставленных сообщений.
 
@@ -209,7 +209,7 @@ slug: /admin/clients/
 
 Все статистические данные расположены в таблице в обособленных колонках:
 
-![image21](/img/ru/admin_clients_clients/image21.png "Клиенты") <center><u>Клиенты - фото 21</u></center>
+![image21](/img/ru/admin_clients_clients/image21.png "Клиенты") <center><u>Клиенты - фото 19</u></center>
 
 |  №  | Колонка | Описание |
 | :-: | ------- | -------- |
@@ -225,7 +225,7 @@ slug: /admin/clients/
 
 Чтобы открыть данный отчет, откройте вкладку **СТАТИСТИКА** и выберите отчет **ГРУППИРОВКА ПО ОПЕРАТОРАМ**.
 
-![image22](/img/ru/admin_clients_clients/image22.png "Клиенты") <center><u>Клиенты - фото 22</u></center>
+![image22](/img/ru/admin_clients_clients/image22.png "Клиенты") <center><u>Клиенты - фото 20</u></center>
 
 ##### Выбор периода
 
@@ -238,17 +238,17 @@ slug: /admin/clients/
 
 После выбора даты нажмите кнопку **ПОИСК**. Страница обновится, чтобы отобразить статистику за указанный период.
 
-![image23](/img/ru/admin_clients_clients/image23.png "Клиенты") <center><u>Клиенты - фото 23</u></center>
+![image23](/img/ru/admin_clients_clients/image23.png "Клиенты") <center><u>Клиенты - фото 21</u></center>
 
 ##### Экспорт отчета
 
 Чтобы экспортировать статистическую отчетность, нажмите на иконку кнопки **Экспорт** справа от кнопки **ПОИСК**.
 
-![image24](/img/ru/admin_clients_clients/image24.png "Клиенты") <center><u>Клиенты - фото 24</u></center>
+![image24](/img/ru/admin_clients_clients/image24.png "Клиенты") <center><u>Клиенты - фото 22</u></center>
 
 Откроется новое всплывающее окно, где вам нужно выбрать данные, которые вы хотите экспортировать. После выбора данных нажмите кнопку **ЭКСПОРТ** для экспорта. Для отмены – кнопку **ОТМЕНИТЬ**.
 
-![image25](/img/ru/admin_clients_clients/image25.png "Клиенты") <center><u>Клиенты - фото 25</u></center>
+![image25](/img/ru/admin_clients_clients/image25.png "Клиенты") <center><u>Клиенты - фото 23</u></center>
 
 После нажатия кнопки **ЭКСПОРТ** отчет будет сохранен на вашем устройстве в файле **.xlsx**.
 
@@ -256,13 +256,13 @@ slug: /admin/clients/
 
 Эта диаграмма отображает количество отправленных сообщений для каждого оператора. Статистика отображается для указанного периода.
 
-![image26](/img/ru/admin_clients_clients/image26.png "Клиенты") <center><u>Клиенты - фото 26</u></center>
+![image26](/img/ru/admin_clients_clients/image26.png "Клиенты") <center><u>Клиенты - фото 24</u></center>
 
 ##### Таблица статистики
 
 Все статистические данные расположены в таблице в обособленных колонках:
 
-![image27](/img/ru/admin_clients_clients/image27.png "Клиенты") <center><u>Клиенты - фото 27</u></center>
+![image27](/img/ru/admin_clients_clients/image27.png "Клиенты") <center><u>Клиенты - фото 25</u></center>
 
 |  №  | Колонка | Описание |
 | :-: | ------- | -------- |
@@ -278,7 +278,7 @@ slug: /admin/clients/
 
 Чтобы открыть данный отчет, откройте вкладку **СТАТИСТИКА** и выберите отчет **ГРУППИРОВКА ПО АЛЬФАИМЕНАМ**.
 
-![image28](/img/ru/admin_clients_clients/image28.png "Клиенты") <center><u>Клиенты - фото 28</u></center>
+![image28](/img/ru/admin_clients_clients/image28.png "Клиенты") <center><u>Клиенты - фото 26</u></center>
 
 ##### Выбор периода
 
@@ -291,17 +291,17 @@ slug: /admin/clients/
 
 После выбора даты нажмите кнопку **ПОИСК**. Страница обновится, чтобы отобразить статистику за указанный период.
 
-![image29](/img/ru/admin_clients_clients/image29.png "Клиенты") <center><u>Клиенты - фото 29</u></center>
+![image29](/img/ru/admin_clients_clients/image29.png "Клиенты") <center><u>Клиенты - фото 27</u></center>
 
 ##### Экспорт отчета
 
 Чтобы экспортировать статистическую отчетность, нажмите на иконку кнопки **Экспорт** справа от кнопки **ПОИСК**.
 
-![image30](/img/ru/admin_clients_clients/image30.png "Клиенты") <center><u>Клиенты - фото 30</u></center>
+![image30](/img/ru/admin_clients_clients/image30.png "Клиенты") <center><u>Клиенты - фото 28</u></center>
 
 Откроется новое всплывающее окно, где вам нужно выбрать данные, которые вы хотите экспортировать. После выбора данных нажмите кнопку **ЭКСПОРТ** для экспорта. Для отмены – кнопку **ОТМЕНИТЬ**.
 
-![image31](/img/ru/admin_clients_clients/image31.png "Клиенты") <center><u>Клиенты - фото 31</u></center>
+![image31](/img/ru/admin_clients_clients/image31.png "Клиенты") <center><u>Клиенты - фото 29</u></center>
 
 После нажатия кнопки **ЭКСПОРТ** отчет будет сохранен на вашем устройстве в файле **.xlsx**.
 
@@ -309,13 +309,13 @@ slug: /admin/clients/
 
 Эта диаграмма отображает количество отправленных сообщений для каждого альфаимени. Статистика отображается для указанного периода.
 
-![image32](/img/ru/admin_clients_clients/image32.png "Клиенты") <center><u>Клиенты - фото 32</u></center>
+![image32](/img/ru/admin_clients_clients/image32.png "Клиенты") <center><u>Клиенты - фото 30</u></center>
 
 ##### Таблица статистики
 
 Все статистические данные расположены в таблице в обособленных колонках:
 
-![image33](/img/ru/admin_clients_clients/image33.png "Клиенты") <center><u>Клиенты - фото 33</u></center>
+![image33](/img/ru/admin_clients_clients/image33.png "Клиенты") <center><u>Клиенты - фото 31</u></center>
 
 |  №  | Колонка | Описание |
 | :-: | ------- | -------- |
@@ -331,7 +331,7 @@ slug: /admin/clients/
 
 Чтобы открыть данный отчет, откройте вкладку **СТАТИСТИКА** и выберите отчет **ГРУППИРОВКА ПО АЛЬФАИМЕНАМ VIBER**.
 
-![image34](/img/ru/admin_clients_clients/image34.png "Клиенты") <center><u>Клиенты - фото 34</u></center>
+![image34](/img/ru/admin_clients_clients/image34.png "Клиенты") <center><u>Клиенты - фото 32</u></center>
 
 ##### Выбор периода
 
@@ -344,17 +344,17 @@ slug: /admin/clients/
 
 После выбора даты нажмите кнопку **ПОИСК**. Страница обновится, чтобы отобразить статистику за указанный период.
 
-![image35](/img/ru/admin_clients_clients/image35.png "Клиенты") <center><u>Клиенты - фото 35</u></center>
+![image35](/img/ru/admin_clients_clients/image35.png "Клиенты") <center><u>Клиенты - фото 33</u></center>
 
 ##### Экспорт отчета
 
 Чтобы экспортировать статистическую отчетность, нажмите на иконку кнопки **Экспорт** справа от кнопки **ПОИСК**.
 
-![image36](/img/ru/admin_clients_clients/image36.png "Клиенты") <center><u>Клиенты - фото 36</u></center>
+![image36](/img/ru/admin_clients_clients/image36.png "Клиенты") <center><u>Клиенты - фото 34</u></center>
 
 Откроется новое всплывающее окно, где вам нужно выбрать данные, которые вы хотите экспортировать. После выбора данных нажмите кнопку **ЭКСПОРТ** для экспорта. Для отмены – кнопку **ОТМЕНИТЬ**.
 
-![image37](/img/ru/admin_clients_clients/image37.png "Клиенты") <center><u>Клиенты - фото 37</u></center>
+![image37](/img/ru/admin_clients_clients/image37.png "Клиенты") <center><u>Клиенты - фото 35</u></center>
 
 После нажатия кнопки **ЭКСПОРТ** отчет будет сохранен на вашем устройстве в файле **.xlsx**.
 
@@ -362,13 +362,13 @@ slug: /admin/clients/
 
 Эта диаграмма отображает количество отправленных сообщений для каждого альфаимени Viber. Статистика отображается для указанного периода.
 
-![image38](/img/ru/admin_clients_clients/image38.png "Клиенты") <center><u>Клиенты - фото 38</u></center>
+![image38](/img/ru/admin_clients_clients/image38.png "Клиенты") <center><u>Клиенты - фото 36</u></center>
 
 ##### Таблица статистики
 
 Все статистические данные расположены в таблице в обособленных колонках:
 
-![image39](/img/ru/admin_clients_clients/image39.png "Клиенты") <center><u>Клиенты - фото 39</u></center>
+![image39](/img/ru/admin_clients_clients/image39.png "Клиенты") <center><u>Клиенты - фото 37</u></center>
 
 |  №  | Колонка | Описание |
 | :-: | ------- | -------- |
@@ -384,7 +384,7 @@ slug: /admin/clients/
 
 Чтобы открыть данный отчет, откройте вкладку **СТАТИСТИКА** и выберите отчет **ГРУППИРОВАНИЕ ПО СТРАНАМ**.
 
-![image40](/img/ru/admin_clients_clients/image40.png "Клиенты") <center><u>Клиенты - фото 40</u></center>
+![image40](/img/ru/admin_clients_clients/image40.png "Клиенты") <center><u>Клиенты - фото 38</u></center>
 
 ##### Выбор периода
 
@@ -397,17 +397,17 @@ slug: /admin/clients/
 
 После выбора даты нажмите кнопку **ПОИСК**. Страница обновится, чтобы отобразить статистику за указанный период.
 
-![image41](/img/ru/admin_clients_clients/image41.png "Клиенты") <center><u>Клиенты - фото 41</u></center>
+![image41](/img/ru/admin_clients_clients/image41.png "Клиенты") <center><u>Клиенты - фото 39</u></center>
 
 ##### Экспорт отчета
 
 Чтобы экспортировать статистическую отчетность, нажмите на иконку кнопки **Экспорт** справа от кнопки **ПОИСК**.
 
-![image42](/img/ru/admin_clients_clients/image42.png "Клиенты") <center><u>Клиенты - фото 42</u></center>
+![image42](/img/ru/admin_clients_clients/image42.png "Клиенты") <center><u>Клиенты - фото 40</u></center>
 
 Откроется новое всплывающее окно, где вам нужно выбрать данные, которые вы хотите экспортировать. После выбора данных нажмите кнопку **ЭКСПОРТ** для экспорта. Для отмены – кнопку **ОТМЕНИТЬ**.
 
-![image43](/img/ru/admin_clients_clients/image43.png "Клиенты") <center><u>Клиенты - фото 43</u></center>
+![image43](/img/ru/admin_clients_clients/image43.png "Клиенты") <center><u>Клиенты - фото 41</u></center>
 
 После нажатия кнопки **ЭКСПОРТ** отчет будет сохранен на вашем устройстве в файле **.xlsx**.
 
@@ -415,13 +415,13 @@ slug: /admin/clients/
 
 Эта диаграмма отображает количество отправленных сообщений для каждой страны. Статистика отображается для указанного периода.
 
-![image44](/img/ru/admin_clients_clients/image44.png "Клиенты") <center><u>Клиенты - фото 44</u></center>
+![image44](/img/ru/admin_clients_clients/image44.png "Клиенты") <center><u>Клиенты - фото 42</u></center>
 
 ##### Таблица статистики
 
 Все статистические данные расположены в таблице в обособленных колонках:
 
-![image45](/img/ru/admin_clients_clients/image45.png "Клиенты") <center><u>Клиенты - фото 45</u></center>
+![image45](/img/ru/admin_clients_clients/image45.png "Клиенты") <center><u>Клиенты - фото 43</u></center>
 
 |  №  | Колонка | Описание |
 | :-: | ------- | -------- |
@@ -437,7 +437,7 @@ slug: /admin/clients/
 
 Все имена отправителя клиента находятся в таблице в обособленных колонках:
 
-![image46](/img/ru/admin_clients_clients/image46.png "Клиенты") <center><u>Клиенты - фото 46</u></center>
+![image46](/img/ru/admin_clients_clients/image46.png "Клиенты") <center><u>Клиенты - фото 44</u></center>
 
 |  №  | Колонка | Описание |
 | :-: | ------- | -------- |
