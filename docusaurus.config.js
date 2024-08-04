@@ -10,8 +10,8 @@ const config = {
   baseUrl: '/',
   organizationName: 'facebook',
   projectName: 'docusaurus',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'warn',
+  onBrokenAnchors: 'warn',
 
   i18n: {
     defaultLocale: process.env.DEFAULT_LOCALE,

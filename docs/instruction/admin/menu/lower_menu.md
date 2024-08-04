@@ -22,40 +22,39 @@ Next, follow the steps below:
 |  №  | Action |
 | :-: | ------ |
 | 1 | Select from the list the **section** of the site where the menu will be located: <li>**Cabinet**</li><li>**Main site**</li> |
-| 2 | **Column** |
-| 3 | Specify the **URL** to which the menu will be directed |
-| 4 | Specify the menu **priority** |
-| 5 | Select the **language** of the menu title: <li>**GEO** - Georgian language</li><li>**SLV** - Slovene language</li><li>**SPA** - Spanish language</li><li>**IND** - Indonesian language</li><li>**POR** - Portuguese language</li><li>**RUS** - Russian language</li><li>**UKR** - Ukrainian language</li><li>**ENG** - English language</li> <br/> You can set the following parameters for multiple languages |
-| 6 | Specify the menu **title** |
+| 2 | Specify the **URL** to which the menu will be directed |
+| 3 | Specify the menu **priority** |
+| 4 | Select the **language** of the menu title: <li>**GEO** - Georgian language</li><li>**SLV** - Slovene language</li><li>**SPA** - Spanish language</li><li>**IND** - Indonesian language</li><li>**POR** - Portuguese language</li><li>**RUS** - Russian language</li><li>**UKR** - Ukrainian language</li><li>**ENG** - English language</li> <br/> You can set the following parameters for multiple languages |
+| 5 | Specify the menu **title** |
 
 Press **EXECUTE** to save the menu.
 
 ![image3](/img/en/admin_menu_lower_menu/image3.png "Lower Menu") <center><u>Lower Menu - photo 3</u></center>
 
-## Menus table
+### Change menu structure
 
-The table contains a list of menus with detailed information about them. The data is arranged in separate columns.
+To change the order of the pages in the menu, follow the action below:
 
-![image4](/img/en/admin_menu_lower_menu/image4.png "Lower Menu") <center><u>Lower Menu - photo 4</u></center>
+![image4](/img/en/admin_menu_lower_menu/image4.gif "Lower Menu") <center><u>Lower Menu - photo 4</u></center>
 
-|  №  | Column | Description |
-| :-: | ------ | ----------- |
-| 1 | **Name** | Menu name |
-| 3 | **Section** | Section of the site where the menu will be located: <li>**Cabinet**</li><li>**Main site**</li> |
-| 2 | **URL** | URL to which the menu will be directed |
+Press **EXECUTE** to save the page.
 
-## Editing a menu
+### Add child items
 
-To edit a menu click on it in the table with menus. The page of **menu editing** will open, the actions are similar to [adding a menu](#adding-a-menu).
+The menu structure editor allows you to modify **child menu items**:
 
-![image5](/img/en/admin_menu_lower_menu/image5.png "Lower Menu") <center><u>Lower Menu - photo 5</u></center>
+![image5](/img/en/admin_menu_lower_menu/image5.gif "Lower Menu") <center><u>Lower Menu - photo 5</u></center>
 
-## Deleting a menu
+Press **EXECUTE** to save the page.
 
-To delete one or more menus, check the **checkbox** next to the desired menus and click the **Delete** button icon in the upper right corner of the page.
+### Edit menu
+
+To edit a menu item, in the structure editor, on the block of the desired menu item, click on the **Edit** button icon. The **Edit Menu** page will open, the actions are similar to [add menu](#add-menu).
 
 ![image6](/img/en/admin_menu_lower_menu/image6.png "Lower Menu") <center><u>Lower Menu - photo 6</u></center>
 
-To select all menus check the checkbox in the table header.
+### Delete menu
+
+To delete one or more menu items, in the structure editor, on the block of desired menu items, mark the **Checkbox** and click the **Delete** icon button in the upper right corner of the page.
 
 ![image7](/img/en/admin_menu_lower_menu/image7.png "Lower Menu") <center><u>Lower Menu - photo 7</u></center>
