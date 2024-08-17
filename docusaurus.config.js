@@ -32,6 +32,12 @@ module.exports = {
   ],
 
   themeConfig: {
+    metadata: [
+      {
+        name: 'robots', 
+        content: 'noindex, nofollow'
+      }
+    ],
     navbar: {
       title: process.env.PSP_NAME,
       items : [
@@ -61,7 +67,8 @@ module.exports = {
           highlightSearchTermsOnTargetPage: true,
           removeDefaultStemmer: true,
           removeDefaultStopWordFilter: true,
-          explicitSearchResultPath: true
+          explicitSearchResultPath: true,
+          forceIgnoreNoIndex: true
       }
     ]
   ],
