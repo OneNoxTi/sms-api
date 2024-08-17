@@ -31,58 +31,42 @@ const config = {
     ]
   ],
 
-  themeConfig:
-    {
-      metadata: [
-        {
-          name: 'robots', 
-          content: 'noindex, nofollow'
-        }
-      ],
-      navbar: {
-        title: process.env.PSP_NAME,
-        items : [
-          {
-            type: 'localeDropdown',
-            position: 'right',
-          }
-        ]
-      },
-      zoom: {
-        selector: '.markdown :not(em) > img',
-        background: {
-          light: 'rgb(255, 255, 255)',
-          dark: 'rgb(50, 50, 50)'
-        }
+  themeConfig: {
+    metadata: [
+      {
+        name: 'robots', 
+        content: 'noindex, nofollow'
       }
-    },
-
-    plugins: [
-      require.resolve('docusaurus-plugin-image-zoom'),
-      [
-        "docusaurus2-dotenv",
-        {
-          systemvars: false,
-          defaults: true
-        }
-      ]
     ],
-
-    themes: [
-      [
-        require.resolve("@easyops-cn/docusaurus-search-local"),
+    navbar: {
+      title: process.env.PSP_NAME,
+      items : [
         {
-            indexDocs: true,
-            indexPages: true,
-            language: ["en", "ru"],
-            hashed: true,
-            highlightSearchTermsOnTargetPage: true,
-            removeDefaultStemmer: true,
-            removeDefaultStopWordFilter: true,
-            explicitSearchResultPath: true
+          type: 'localeDropdown',
+          position: 'right',
         }
       ]
+    },
+    zoom: {
+      selector: '.markdown :not(em) > img',
+      background: {
+        light: 'rgb(255, 255, 255)',
+        dark: 'rgb(50, 50, 50)'
+      }
+    }
+  },
+
+  plugins: [
+    require.resolve('docusaurus-plugin-image-zoom'),
+    [
+      "docusaurus2-dotenv",
+      {
+        systemvars: false,
+        defaults: true
+      }
     ]
+  ],
+
 };
 
 export default config;

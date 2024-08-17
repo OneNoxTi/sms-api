@@ -1,5 +1,5 @@
 {
-  "name": "main",
+  "name": "sms",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,14 +16,13 @@
   "dependencies": {
     "@docusaurus/core": "^3.5.2",
     "@docusaurus/preset-classic": "^3.5.2",
-    "@easyops-cn/docusaurus-search-local": "^0.44.5",
-    "@mdx-js/react": "^3.0.1",
-    "clsx": "^2.1.1",
+    "@mdx-js/react": "^3.0.0",
+    "clsx": "^2.0.0",
     "docusaurus-plugin-image-zoom": "^2.0.0",
     "docusaurus2-dotenv": "^1.4.0",
-    "prism-react-renderer": "^2.3.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "prism-react-renderer": "^2.3.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.5.2",
