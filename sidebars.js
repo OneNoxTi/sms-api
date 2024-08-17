@@ -3,11 +3,11 @@ let docs = [
     type: 'category',
     label: 'General info',
     items: [
-      'instruction/general/getting_started',
-      'instruction/general/registration',
-      'instruction/general/login',
-      'instruction/general/interface',
-      'instruction/general/create_sender_id'
+      'general/getting_started',
+      'general/registration',
+      'general/login',
+      'general/interface',
+      'general/create_sender_id'
     ]
   }
 ]
@@ -37,14 +37,14 @@ function ClientSendSMS(section){
     type: 'category',
       label: 'Send SMS',
       items: [
-        'instruction/client/send_sms/single_sms',
-        'instruction/client/send_sms/bulk_sms',
-        'instruction/client/send_sms/voice_mailing',
-        'instruction/client/send_sms/viber',
-        'instruction/client/send_sms/rcs_android',
-        'instruction/client/send_sms/sender_id',
-        'instruction/client/send_sms/templates',
-        'instruction/client/send_sms/planner'
+        'client/send_sms/single_sms',
+        'client/send_sms/bulk_sms',
+        'client/send_sms/voice_mailing',
+        'client/send_sms/viber',
+        'client/send_sms/rcs_android',
+        'client/send_sms/sender_id',
+        'client/send_sms/templates',
+        'client/send_sms/planner'
       ]
   })
 }
@@ -55,9 +55,9 @@ function ClientReports(section){
     type: 'category',
     label: 'Reports',
     items: [
-      'instruction/client/reports/single_sms_reports',
-      'instruction/client/reports/bulk_sms_reports',
-      'instruction/client/reports/api_reports'
+      'client/reports/single_sms_reports',
+      'client/reports/bulk_sms_reports',
+      'client/reports/api_reports'
     ]
   })
 }
@@ -68,11 +68,11 @@ function ClientFinances(section){
     type: 'category',
     label: 'Finances',
     items: [
-      'instruction/client/finances/payments',
-      'instruction/client/finances/balance',
-      'instruction/client/finances/documents',
-      'instruction/client/finances/transfer',
-      'instruction/client/finances/autopay'
+      'client/finances/payments',
+      'client/finances/balance',
+      'client/finances/documents',
+      'client/finances/transfer',
+      'client/finances/autopay'
     ]
   })
 }
@@ -83,11 +83,11 @@ function ClientStatistics(section){
     type: 'category',
     label: 'Statistics',
     items: [
-      'instruction/client/statistics/days',
-      'instruction/client/statistics/operators',
-      'instruction/client/statistics/sender_id_statistics',
-      'instruction/client/statistics/viber_sender_id',
-      'instruction/client/statistics/countries'
+      'client/statistics/days',
+      'client/statistics/operators',
+      'client/statistics/sender_id_statistics',
+      'client/statistics/viber_sender_id',
+      'client/statistics/countries'
     ]
   })
 }
@@ -98,8 +98,8 @@ function ClientIncomingSMS(section){
     type: 'category',
     label: 'Incoming SMS',
     items: [
-      'instruction/client/incoming_sms/received_sms',
-      'instruction/client/incoming_sms/tariffs'
+      'client/incoming_sms/received_sms',
+      'client/incoming_sms/tariffs'
     ]
   })
 }
@@ -110,8 +110,8 @@ function ClientAddressBook(section){
     type: 'category',
     label: 'Address Book',
     items: [
-      'instruction/client/address_book/recipients',
-      'instruction/client/address_book/black_list'
+      'client/address_book/recipients',
+      'client/address_book/black_list'
     ]
   })
 }
@@ -122,8 +122,8 @@ function ClientHLR(section){
     type: 'category',
     label: 'HLR',
     items: [
-      'instruction/client/hlr/clear_base',
-      'instruction/client/hlr/hlr'
+      'client/hlr/clear_base',
+      'client/hlr/hlr'
     ]
   })
 }
@@ -134,11 +134,11 @@ function ClientSettings(section){
     type: 'category',
     label: 'Settings',
     items: [
-      'instruction/client/settings/profile',
-      'instruction/client/settings/api_settings',
-      'instruction/client/settings/sender_id_settings',
-      'instruction/client/settings/templates_sms',
-      'instruction/client/settings/templates_viber'
+      'client/settings/profile',
+      'client/settings/api_settings',
+      'client/settings/sender_id_settings',
+      'client/settings/templates_sms',
+      'client/settings/templates_viber'
     ]
   })
 }
@@ -149,8 +149,8 @@ function AdminClients(section){
     type: 'category',
     label: 'Clients',
     items: [
-      'instruction/admin/clients/clients',
-      'instruction/admin/clients/visits'
+      'admin/clients/clients',
+      'admin/clients/visits'
     ]
   })
 }
@@ -161,9 +161,9 @@ function AdminReports(section){
     type: 'category',
     label: 'Reports',
     items: [
-      'instruction/admin/reports/single_sms_reports',
-      'instruction/admin/reports/bulk_sms_reports',
-      'instruction/admin/reports/api_reports'
+      'admin/reports/single_sms_reports',
+      'admin/reports/bulk_sms_reports',
+      'admin/reports/api_reports'
     ]
   })
 }
@@ -174,7 +174,7 @@ function AdminPages(section){
     type: 'category',
     label: 'Pages',
     items: [
-      'instruction/admin/pages/pages'
+      'admin/pages/pages'
     ]
   })
 }
@@ -185,8 +185,8 @@ function AdminMenu(section){
     type: 'category',
     label: 'Menu',
     items: [
-      'instruction/admin/menu/top_menu',
-      'instruction/admin/menu/lower_menu'
+      'admin/menu/top_menu',
+      'admin/menu/lower_menu'
     ]
   })
 }
@@ -197,7 +197,7 @@ function AdminFinances(section){
     type: 'category',
     label: 'Finances',
     items: [
-      'instruction/admin/finances/account',
+      'admin/finances/account',
     ]
   })
 }
@@ -208,9 +208,9 @@ function AdminStatistics(section){
     type: 'category',
     label: 'Statistics',
     items: [
-      'instruction/admin/statistics/sender_id_statistics',
-      'instruction/admin/statistics/operators',
-      'instruction/admin/statistics/customers'
+      'admin/statistics/sender_id_statistics',
+      'admin/statistics/operators',
+      'admin/statistics/customers'
     ]
   })
 }
@@ -221,9 +221,9 @@ function AdminSite(section){
     type: 'category',
     label: 'Site',
     items: [
-      'instruction/admin/site/pages',
-      'instruction/admin/site/manual',
-      'instruction/admin/site/settings'
+      'admin/site/pages',
+      'admin/site/manual',
+      'admin/site/settings'
     ]
   })
 }
@@ -234,7 +234,7 @@ function AdminMailing(section){
     type: 'category',
     label: 'Mailing',
     items: [
-      'instruction/admin/mailing/email_mailing'
+      'admin/mailing/email_mailing'
     ]
   })
 }
@@ -245,7 +245,7 @@ function AdminSupport(section){
     type: 'category',
     label: 'Support',
     items: [
-      'instruction/admin/support/support'
+      'admin/support/support'
     ]
   })
 }
