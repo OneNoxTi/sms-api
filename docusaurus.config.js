@@ -1,15 +1,13 @@
 require('dotenv-defaults').config()
 
-import {themes as prismThemes} from 'prism-react-renderer';
-
 const config = {
   title: process.env.PSP_NAME,
-  tagline: 'Dinosaurs are cool',
+  tagline: 'SMS',
   favicon: 'img/' + process.env.FAVICON,
   url: 'https://' + process.env.PSP_DOCS_DOMAIN,
   baseUrl: '/',
-  organizationName: 'facebook',
-  projectName: 'docusaurus',
+  organizationName: 'sms',
+  projectName: 'sms',
   onBrokenLinks: 'warn',
   onBrokenAnchors: 'warn',
 
@@ -28,9 +26,9 @@ const config = {
         },
         theme: {
           customCss: process.env.THEME,
-        },
-      },
-    ],
+        }
+      }
+    ]
   ],
 
   themeConfig:
@@ -44,11 +42,11 @@ const config = {
       navbar: {
         title: process.env.PSP_NAME,
         items : [
-            {
-              type: 'localeDropdown',
-              position: 'right',
-            }
-        ],
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          }
+        ]
       },
       zoom: {
         selector: '.markdown :not(em) > img',
@@ -56,14 +54,9 @@ const config = {
           light: 'rgb(255, 255, 255)',
           dark: 'rgb(50, 50, 50)'
         }
-      },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
-
-
+      }
     },
+
     plugins: [
       require.resolve('docusaurus-plugin-image-zoom'),
       [
@@ -71,8 +64,24 @@ const config = {
         {
           systemvars: false,
           defaults: true
-        },
-      ],
+        }
+      ]
+    ],
+
+    themes: [
+      [
+        require.resolve("@easyops-cn/docusaurus-search-local"),
+        {
+            indexDocs: true,
+            indexPages: true,
+            language: ["en", "ru"],
+            hashed: true,
+            highlightSearchTermsOnTargetPage: true,
+            removeDefaultStemmer: true,
+            removeDefaultStopWordFilter: true,
+            explicitSearchResultPath: true
+        }
+      ]
     ]
 };
 

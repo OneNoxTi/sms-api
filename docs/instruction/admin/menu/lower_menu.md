@@ -11,7 +11,7 @@ To open this tab, select **Clients** → **Menu** in the side menu and select **
 
 ![image1](/img/en/admin_menu_lower_menu/image1.png "Lower Menu") <center><u>Lower Menu - photo 1</u></center>
 
-## Adding a menu
+## Add menu
 
 To add a new menu, click the **+ ADD** button in the upper left corner of the page.
 

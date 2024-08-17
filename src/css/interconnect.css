@@ -25,3 +25,7 @@
 html[data-theme="light"] .navbar {
   background-color: #ff2562;
 }
+
+.menu__link:hover {
+  color: #ff2562;
+}
