@@ -1,6 +1,6 @@
 require('dotenv-defaults').config()
 
-const config = {
+module.exports = {
   title: process.env.PSP_NAME,
   tagline: 'SMS',
   favicon: 'img/' + process.env.FAVICON,
@@ -32,12 +32,6 @@ const config = {
   ],
 
   themeConfig: {
-    metadata: [
-      {
-        name: 'robots', 
-        content: 'noindex, nofollow'
-      }
-    ],
     navbar: {
       title: process.env.PSP_NAME,
       items : [
@@ -56,6 +50,22 @@ const config = {
     }
   },
 
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+          indexDocs: true,
+          indexPages: true,
+          language: ["en", "ru"],
+          hashed: true,
+          highlightSearchTermsOnTargetPage: true,
+          removeDefaultStemmer: true,
+          removeDefaultStopWordFilter: true,
+          explicitSearchResultPath: true
+      }
+    ]
+  ],
+
   plugins: [
     require.resolve('docusaurus-plugin-image-zoom'),
     [
@@ -65,8 +75,5 @@ const config = {
         defaults: true
       }
     ]
-  ],
-
-};
-
-export default config;
+  ]
+}
