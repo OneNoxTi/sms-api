@@ -8,3 +8,4 @@ THEME=./src/css/alphasms.css
 LOCALES=uk,ru
 DEFAULT_LOCALE=uk
 FAVICON=alpha.svg
+GOOGLE_TAG=GTM-0000
