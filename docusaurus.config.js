@@ -26,7 +26,10 @@ module.exports = {
         },
         theme: {
           customCss: process.env.THEME,
-        }
+        },
+        googleTagManager: {
+          containerId: process.env.GOOGLE_TAG,
+        },
       }
     ]
   ],
