@@ -39,7 +39,7 @@ module.exports = {
     metadata: [
       {
         name: 'robots', 
-        content: 'noindex, nofollow'
+        content: 'all'
       }
     ],
     navbar: {
