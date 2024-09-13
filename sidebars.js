@@ -275,7 +275,7 @@ if (process.env.PSP_DOCS_DOMAIN == 'sms-doc.pages.dev' || process.env.PSP_DOCS_D
   Admin_Docs();
 }
 
-if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.net' || process.env.PSP_DOCS_DOMAIN == 'docs.interconnect.solutions')
+if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.net' || process.env.PSP_DOCS_DOMAIN == 'docs.interconnect.solutions' || process.env.PSP_DOCS_DOMAIN == 'docs.blackbox.business')
 {
   ClientSendSMS(client);
   ClientReports(client);
