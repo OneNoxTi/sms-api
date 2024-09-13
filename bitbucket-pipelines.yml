@@ -38,3 +38,9 @@ pipelines:
             - cp .env.partner.interconnect.solutions .env
             - npm install && npm install -g wrangler && npm run build 
             - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=partner-interconnect-solutions --branch=main
+      - step:
+          name: deploy-blackbox-business
+          script:
+            - cp .env.blackbox.business .env
+            - npm install && npm install -g wrangler && npm run build 
+            - CLOUDFLARE_ACCOUNT_ID=$CF_ID CLOUDFLARE_API_TOKEN=$CF_TOKEN wrangler pages publish build --project-name=blackbox-business --branch=main
