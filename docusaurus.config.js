@@ -1,5 +1,12 @@
 require('dotenv-defaults').config()
 
+const { themes } = require('prism-react-renderer');
+
+const code_themes = {
+  light: themes.nightOwlLight,
+  dark: themes.nightOwl,
+};
+
 module.exports = {
   title: process.env.PSP_NAME,
   tagline: 'SMS',
@@ -25,7 +32,10 @@ module.exports = {
           sidebarPath: './sidebars.js',
         },
         theme: {
-          customCss: process.env.THEME,
+          customCss: [
+            process.env.THEME,
+            './src/css/api.css'
+          ]          
         },        
         googleTagManager: {
           containerId: process.env.GOOGLE_TAG,
@@ -46,6 +56,11 @@ module.exports = {
       title: process.env.PSP_NAME,
       items : [
         {
+          to: '/about_api',
+          label: 'API',
+          position: 'left',
+        },
+        {
           type: 'localeDropdown',
           position: 'right',
         }
@@ -57,6 +72,21 @@ module.exports = {
         light: 'rgb(255, 255, 255)',
         dark: 'rgb(50, 50, 50)'
       }
+    },
+    prism: {
+      theme: code_themes.light,
+      darkTheme: code_themes.dark,
+      additionalLanguages: [
+        'dart',
+        'ruby',
+        'groovy',
+        'kotlin',
+        'java',
+        'swift',
+        'objectivec',
+        'json',
+        'bash'
+      ]
     }
   },
 

@@ -1,0 +1,73 @@
+#api .header {
+  padding-top: 15px;
+  border-top: 1px lightgray dotted;
+}
+
+#api .request, .response {
+  width: 100%;
+  display: inline-flex;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-top: 1px lightgray dotted;
+}
+
+#api .request-parameters, .response-parameters {
+  width: 55%;
+}
+
+#api .request-example, .response-example {
+  width: 45%;
+}
+
+
+/* Светлая тема */
+html[data-theme="light"] #api .name {
+  font-size: large;
+}
+
+html[data-theme="light"] #api .type {
+  color: #1c1e21;
+  padding-left: 10px;
+}
+
+html[data-theme="light"] #api .description {
+  color: #1c1e21;
+}
+
+
+/* Тёмная тема */
+html[data-theme="dark"] #api .name {
+  font-size: large;
+}
+
+html[data-theme="dark"] #api .type {
+  color: inherit;
+  padding-left: 10px;
+}
+
+html[data-theme="dark"] #api .description {
+  color: inherit;
+}
+
+
+
+#api .mandatory {
+  color: darkorange;
+  padding-left: 10px;
+}
+
+.f1, .f2, .f3 {
+  margin-bottom: 5px;
+}
+
+#api .f2 {
+  padding-left: 20px;
+}
+
+#api .f3 {
+  padding-left: 40px;
+}
+
+#api .f4 {
+  padding-left: 60px;
+}

@@ -26,6 +26,26 @@ html[data-theme="light"] .navbar {
   background-color: #ff2562;
 }
 
+html[data-theme="light"] .navbar__title:hover {
+  color: #ffffff;
+}
+
+html[data-theme="light"] .navbar__item:hover {
+  color: #ffffff;
+}
+
+html[data-theme="light"] .navbar__link {
+  color: #000000;
+}
+
+html[data-theme="light"] .navbar__link:hover {
+  color: #ffffff;
+}
+
+html[data-theme="dark"] .clean-btn:hover {
+  color: #ff2562;
+}
+
 .menu__link:hover {
   color: #ff2562;
 }

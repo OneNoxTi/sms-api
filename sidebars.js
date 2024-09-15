@@ -12,6 +12,18 @@ let docs = [
   }
 ]
 
+let api = [
+  'api/about_api',
+  {
+    type: 'category',
+    label: 'JSON API',
+    items: [
+      'api/json/balance',
+      'api/json/send_sms'
+    ]
+  }
+]
+
 let admin = []
 let client = []
 
@@ -304,4 +316,5 @@ if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.ua')
 
 module.exports = {
   docs,
+  api
 }
