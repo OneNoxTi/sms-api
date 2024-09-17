@@ -25,10 +25,9 @@ Sender's name (alphanumeric name, alpha name, signature) is a unique combination
 3. In order to use trademarks (or parts thereof), trade names (including trademarks and/or trade names of third parties), and/or personal names in the sender's name, the following documents must be submitted:
     1. Certificate of trademark registration;
     2. License agreement / franchise agreement;
-    3. Scan of an extract from the National State Registry of Ukrainian Enterprises and Organizations / certificate of registration of a legal entity / certificate of registration of a TIN to confirm that the legal entity matches the selected name;
+    3. Documents of incorporation;
     4. A document confirming that the site domain matches the chosen name (subject to confirmation of the rights to this site from the domain registrar);
-    5. A written permission to use the domain from the rights holder / a contract for the transfer of rights if the domain owner is an individual, even if he is a director or founder of a company;
-    6. A letter of guarantee if the MTS operator is used (only for individual entrepreneurs, letters are not required from legal entities).
+    5. A written permission to use the domain from the rights holder / a contract for the transfer of rights if the domain owner is an individual, even if he is a director or founder of a company.
 4. If the client uses/wants to use the sender's name, the latter must submit it to the contractor for approval within the time limits set by mobile operators. Based on the results of verification of the sender's name, the contractor shall make one of the following decisions:
     1. Approves and sends SMS messages with this name (in case of further ordering this service);
     2. Refuses to approve. In this case, no SMS messages will be sent with this name;

@@ -315,6 +315,5 @@ if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.ua')
 }
 
 module.exports = {
-  docs,
-  api
+  docs
 }
