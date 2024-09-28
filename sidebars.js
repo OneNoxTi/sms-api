@@ -13,7 +13,7 @@ let docs = [
 ]
 
 let api = [
-  'api/about_api',
+  'api/api_methods',
   {
     type: 'category',
     label: 'JSON API',
@@ -315,5 +315,6 @@ if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.ua')
 }
 
 module.exports = {
-  docs
+  docs,
+  api
 }

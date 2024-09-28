@@ -55,11 +55,11 @@ module.exports = {
     navbar: {
       title: process.env.PSP_NAME,
       items : [
-        // {
-        //   to: '/about_api',
-        //   label: 'API',
-        //   position: 'left',
-        // },
+        {
+          to: '/api_methods',
+          label: 'API',
+          position: 'left',
+        },
         {
           type: 'localeDropdown',
           position: 'right',

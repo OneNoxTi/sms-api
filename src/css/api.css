@@ -1,73 +1,93 @@
-#api .header {
+.header {
+  border-top: 1px dotted lightblue;
   padding-top: 15px;
-  border-top: 1px lightgray dotted;
 }
 
-#api .request, .response {
+.post-wrap {
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+}
+
+.item-content {
   width: 100%;
-  display: inline-flex;
+  border-top: 1px dotted lightblue;
   padding-top: 15px;
-  padding-bottom: 15px;
-  border-top: 1px lightgray dotted;
 }
 
-#api .request-parameters, .response-parameters {
-  width: 55%;
+@media (min-width: 0px) {
+  .post-item {
+     flex-basis: 100%;
+     flex-shrink: 0;
+  }
 }
 
-#api .request-example, .response-example {
-  width: 45%;
+@media (min-width: 1366px) {
+  .post-item {
+     flex-basis: 50%;
+  }
 }
 
-
-/* Светлая тема */
-html[data-theme="light"] #api .name {
+.name {
+  color: #3199e8;
   font-size: large;
 }
 
-html[data-theme="light"] #api .type {
-  color: #1c1e21;
-  padding-left: 10px;
-}
-
-html[data-theme="light"] #api .description {
-  color: #1c1e21;
-}
-
-
-/* Тёмная тема */
-html[data-theme="dark"] #api .name {
-  font-size: large;
-}
-
-html[data-theme="dark"] #api .type {
+.item-content .type {
+  font-size: small;
   color: inherit;
   padding-left: 10px;
 }
 
-html[data-theme="dark"] #api .description {
-  color: inherit;
-}
-
-
-
-#api .mandatory {
-  color: darkorange;
+.item-content .required {
+  color: red;
+  font-size: small ;
   padding-left: 10px;
 }
 
-.f1, .f2, .f3 {
-  margin-bottom: 5px;
+.item-content .description {
+  color: inherit;
 }
 
-#api .f2 {
-  padding-left: 20px;
+.t1 td {
+  border-left-width: 0px;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;  
 }
 
-#api .f3 {
-  padding-left: 40px;
+.t1 tr {
+  border: 0px;
 }
 
-#api .f4 {
-  padding-left: 60px;
+.t1 td {
+  padding: 0px;
+  padding-bottom: 5px;
+}
+
+.t2 {
+  margin-bottom: 0px;
+}
+
+.t2 td {
+  border-left-width: 2px;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+
+.t2 tr {
+  border: 0px;
+}
+
+.t2 td {
+  padding-left: 15px;
+}
+
+.t1 tbody tr {
+  background-color: inherit;
+}
+
+.green-text {
+  color: green;
 }
