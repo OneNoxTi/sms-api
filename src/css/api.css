@@ -28,7 +28,7 @@
   }
 }
 
-.name {
+.item-content .name {
   color: #3199e8;
   font-size: large;
 }
@@ -47,6 +47,7 @@
 
 .item-content .description {
   color: inherit;
+  font-size: 15px;
 }
 
 .t1 td {
@@ -62,7 +63,6 @@
 
 .t1 td {
   padding: 0px;
-  padding-bottom: 5px;
 }
 
 .t2 {

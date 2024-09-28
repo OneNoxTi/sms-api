@@ -1,14 +1,14 @@
 ---
-id: balance
-title: Balance check
-sidebar_label: Balance check
+id: viber_image
+title: Send Viber message with image
+sidebar_label: Send Viber (Image)
 hide_table_of_contents: true
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Example of request to get the current balance status of the user's account in the [personal cabinet](../../general/getting_started.md).
+Example of request to send Viber message with image to the specified number.
 
 `URI: /api/json.php`
 
@@ -18,7 +18,6 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
     ## Header parameters
     Requests must contain header **Content-Type**: application/json, otherwise, the request will be considered invalid even if it has valid JSON.
 </div>
-
 <div class="post-wrap">
     <div class="post-item">
         <div class="item-content">
@@ -50,6 +49,46 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                         <a class="description">Request type</a>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**id**</a>
+                                        <a class="type">number</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Description</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**phone**</a>
+                                        <a class="type">number</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Phone number of the recipient of the message</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**viber_type**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Viber message type</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**viber_signature**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Signature in the message</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**viber_image**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Link to the image to be sent in the message</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>
@@ -68,7 +107,12 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                     "auth": "bb56a4369eb19***cfec6d1776bd25",
                     "data": [
                         {
-                            "type": "balance"
+                            "type": "viber",
+                            "id": 100500,
+                            "phone": 380971234567,
+                            "viber_type": "image",
+                            "viber_signature": "ViberTest",
+                            "viber_image": "https://url.com/storage/images/image.png"
                         }
                     ]
                 }
@@ -112,6 +156,13 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                     </tr>
                                     <tr>
                                         <td>
+                                            <a class="name">**error**</a>
+                                            <a class="type">string</a> <br/>
+                                            <a class="description">Error text, returned if `data.success=false`</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
                                             <a class="name">**data**</a>
                                             <a class="type">object</a><br/>
                                             <a class="description">Request execution result</a> <br/>
@@ -119,18 +170,32 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                                 <tbody>
                                                     <tr>
                                                         <td>
-                                                            <a class="name">**amount**</a>
+                                                            <a class="name">**id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Current balance status</a>
+                                                            <a class="description">Description</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td>                                              
-                                                            <a class="name">**currency**</a>
-                                                            <a class="type">string</a> <br/>
-                                                            <a class="description">Wallet currency</a>
+                                                        <td>
+                                                            <a class="name">**msg_id**</a>
+                                                            <a class="type">number</a> <br/>
+                                                            <a class="description">Message identifier</a>
                                                         </td>
                                                     </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <a class="name">**data**</a>
+                                                            <a class="type">number</a> <br/>
+                                                            <a class="description">Description</a>
+                                                        </td>
+                                                    </tr> 
+                                                    <tr>
+                                                        <td>
+                                                            <a class="name">**parts**</a>
+                                                            <a class="type">number</a> <br/>
+                                                            <a class="description">Number of messages used to send the specified text</a>
+                                                        </td>
+                                                    </tr>                                                                                                       
                                                 </tbody>
                                             </table>
                                         </td>
@@ -153,7 +218,8 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                 defaultValue="successful"
                 values={[
                     { label: 'Successful', value: 'successful', },
-                    { label: 'Access denied', value: 'accessdenied' }
+                    { label: 'Access denied', value: 'accessdenied', },
+                    { label: 'Error in Alpha-name', value: 'alphaname' }
                 ]}
                 >
                 <TabItem value="successful">
@@ -165,8 +231,10 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                         {
                             "success": true,
                             "data": {
-                                "amount": 31.1683,
-                                "currency": "UAH"
+                                "id": 100500,
+                                "msg_id": 123456789,
+                                "data": 1,
+                                "parts": 1
                             }
                         }
                     ]
@@ -179,6 +247,23 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                 {
                     "success": false,
                     "error": "Access denied"
+                }
+                ```
+                </TabItem>
+                <TabItem value="alphaname">
+                **HTTP Status Code**: <font color="green">**200**</font> <br/> **Content Type**: JSON application/json
+                ```json
+                {
+                    "success": true,
+                    "data": [
+                        {
+                            "success": false,
+                            "error": "Error in Alpha-name",
+                            "data": {
+                                "id": 100500
+                            }
+                        }
+                    ]
                 }
                 ```
                 </TabItem>

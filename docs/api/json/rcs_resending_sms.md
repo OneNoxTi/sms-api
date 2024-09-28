@@ -1,14 +1,14 @@
 ---
-id: send_sms
-title: Send SMS
-sidebar_label: Send SMS
+id: rcs_resending_sms
+title: Send RCS with resending by SMS
+sidebar_label: Send RCS with resending by SMS
 hide_table_of_contents: true
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Example of request to send SMS message to the specified number.
+Example of request to send RCS message with text, image, button and resend the message by SMS in case of failure to deliver.
 
 `URI: /api/json.php`
 
@@ -81,6 +81,46 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                         <a class="description">Message text to be sent via SMS</a>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**rcs_signature**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Signature in the message</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**rcs_message**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Message text to be sent via SMS</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**rcs_image**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Link to the image to be sent in the message</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**rcs_link**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Link that will be followed after pressing the button</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**rcs_button**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Caption to be displayed on the button</a>
+                                    </td>
+                                </tr>                                
                             </tbody>
                             </table>
                         </td>
@@ -99,11 +139,16 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                     "auth": "bb56a4369eb19***cfec6d1776bd25",
                     "data": [
                         {
-                            "type": "sms",
+                            "type": "rcs+sms",
                             "id": 100500,
                             "phone": 380971234567,
                             "sms_signature": "SMSTest",
-                            "sms_message": "Message text to be sent via SMS"
+                            "sms_message": "Message text to be sent via SMS",
+                            "rcs_signature": "RCSTest",
+                            "rcs_message": "Message text to be sent via RCS",
+                            "rcs_image": "https://url.com/storage/images/image.png",
+                            "rcs_link": "https://redirect.url",
+                            "rcs_button": "Button caption"
                         }
                     ]
                 }

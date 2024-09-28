@@ -1,14 +1,14 @@
 ---
-id: send_sms
-title: Send SMS
-sidebar_label: Send SMS
+id: viber_text_link_image
+title: Send Viber message with text, link and image
+sidebar_label: Send Viber (Text+Link+Image)
 hide_table_of_contents: true
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Example of request to send SMS message to the specified number.
+Example of request to send a Viber message with a text, image and a button which, when clicked, will lead to the specified link.
 
 `URI: /api/json.php`
 
@@ -67,7 +67,15 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                 </tr>
                                 <tr>
                                     <td>
-                                        <a class="name">**sms_signature**</a>
+                                        <a class="name">**viber_type**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Viber message type</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**viber_signature**</a>
                                         <a class="type">string</a>
                                         <a class="required">required</a> <br/>
                                         <a class="description">Signature in the message</a>
@@ -75,10 +83,34 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                 </tr>
                                 <tr>
                                     <td>
-                                        <a class="name">**sms_message**</a>
+                                        <a class="name">**viber_message**</a>
                                         <a class="type">string</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Message text to be sent via SMS</a>
+                                        <a class="description">Message text to be sent via Viber</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**viber_image**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Link to the image to be sent in the message</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**viber_link**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Link that will be followed after pressing the button</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**viber_button**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Caption to be displayed on the button</a>
                                     </td>
                                 </tr>
                             </tbody>
@@ -99,11 +131,15 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                     "auth": "bb56a4369eb19***cfec6d1776bd25",
                     "data": [
                         {
-                            "type": "sms",
+                            "type": "viber",
                             "id": 100500,
                             "phone": 380971234567,
-                            "sms_signature": "SMSTest",
-                            "sms_message": "Message text to be sent via SMS"
+                            "viber_type": "text+image+link",
+                            "viber_signature": "ViberTest",
+                            "viber_message": "Message text to send via Viber",
+                            "viber_image": "https://url.com/storage/images/image.png",
+                            "viber_link": "https://redirect.url",
+                            "viber_button": "Button caption"
                         }
                     ]
                 }

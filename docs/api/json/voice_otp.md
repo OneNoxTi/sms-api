@@ -1,14 +1,14 @@
 ---
-id: balance
-title: Balance check
-sidebar_label: Balance check
+id: voice_otp
+title: Voice OTP
+sidebar_label: Voice OTP
 hide_table_of_contents: true
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Example of request to get the current balance status of the user's account in the [personal cabinet](../../general/getting_started.md).
+Example of a request for number verification via a call (Voice OTP).
 
 `URI: /api/json.php`
 
@@ -50,6 +50,14 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                         <a class="description">Request type</a>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**phone**</a>
+                                        <a class="type">number</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Phone number to be checked</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>
@@ -68,7 +76,8 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                     "auth": "bb56a4369eb19***cfec6d1776bd25",
                     "data": [
                         {
-                            "type": "balance"
+                            "type": "call/otp",
+                            "phone": 380971234567
                         }
                     ]
                 }
@@ -119,16 +128,16 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                                 <tbody>
                                                     <tr>
                                                         <td>
-                                                            <a class="name">**amount**</a>
-                                                            <a class="type">number</a> <br/>
-                                                            <a class="description">Current balance status</a>
+                                                            <a class="name">**code**</a>
+                                                            <a class="type">string</a> <br/>
+                                                            <a class="description">Description</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>                                              
-                                                            <a class="name">**currency**</a>
-                                                            <a class="type">string</a> <br/>
-                                                            <a class="description">Wallet currency</a>
+                                                            <a class="name">**price**</a>
+                                                            <a class="type">number</a> <br/>
+                                                            <a class="description">Verification fee</a>
                                                         </td>
                                                     </tr>
                                                 </tbody>
@@ -165,8 +174,8 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                         {
                             "success": true,
                             "data": {
-                                "amount": 31.1683,
-                                "currency": "UAH"
+                                "code": "0471",
+                                "price": 0.2
                             }
                         }
                     ]

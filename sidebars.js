@@ -19,7 +19,26 @@ let api = [
     label: 'JSON API',
     items: [
       'api/json/balance',
-      'api/json/send_sms'
+      'api/json/send_sms',
+      'api/json/viber_text',
+      'api/json/viber_image',
+      'api/json/viber_text_link',
+      'api/json/viber_text_link_image',
+      'api/json/viber_resending_sms',
+      'api/json/send_rcs',
+      'api/json/rcs_resending_sms',
+      'api/json/rcs_resending_sms_viber',
+      'api/json/voice_otp',
+      'api/json/hlr',
+      'api/json/message_status',
+      'api/json/viber_status_2way'
+    ]
+  },
+  {
+    type: 'category',
+    label: 'References',
+    items: [
+      'api/reference/message_statuses'
     ]
   }
 ]

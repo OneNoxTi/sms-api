@@ -1,14 +1,14 @@
 ---
-id: balance
-title: Balance check
-sidebar_label: Balance check
+id: message_status
+title: Message status
+sidebar_label: Message status
 hide_table_of_contents: true
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Example of request to get the current balance status of the user's account in the [personal cabinet](../../general/getting_started.md).
+Example of a request to get the status of a message.
 
 `URI: /api/json.php`
 
@@ -50,6 +50,14 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                         <a class="description">Request type</a>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**id**</a>
+                                        <a class="type">number</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Description</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>
@@ -68,7 +76,8 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                     "auth": "bb56a4369eb19***cfec6d1776bd25",
                     "data": [
                         {
-                            "type": "balance"
+                            "type": "status",
+                            "id": 100500
                         }
                     ]
                 }
@@ -119,16 +128,23 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                                 <tbody>
                                                     <tr>
                                                         <td>
-                                                            <a class="name">**amount**</a>
+                                                            <a class="name">**id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Current balance status</a>
+                                                            <a class="description">Description</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>                                              
-                                                            <a class="name">**currency**</a>
+                                                            <a class="name">**type**</a>
                                                             <a class="type">string</a> <br/>
-                                                            <a class="description">Wallet currency</a>
+                                                            <a class="description">Message type: `sms`, `viber`, `rcs`</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>                                              
+                                                            <a class="name">**status**</a>
+                                                            <a class="type">string</a> <br/>
+                                                            <a class="description">Current message status (see [Message statuses reference](../reference/message_statuses.md))</a>
                                                         </td>
                                                     </tr>
                                                 </tbody>
@@ -165,8 +181,9 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                         {
                             "success": true,
                             "data": {
-                                "amount": 31.1683,
-                                "currency": "UAH"
+                                "id":10500,
+                                "type": "viber",
+                                "status": "READ"
                             }
                         }
                     ]
