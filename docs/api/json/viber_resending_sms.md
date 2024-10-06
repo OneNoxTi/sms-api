@@ -152,7 +152,7 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                             "phone": 380971234567,
                             "sms_signature": "SMSTest",
                             "sms_message": "Message text to be sent via SMS",
-                            "viber_type": ""text+image+link",
+                            "viber_type": "text+image+link",
                             "viber_signature": "ViberTest",
                             "viber_message": "Message text to send via Viber",
                             "viber_image": "https://url.com/storage/images/image.png",
