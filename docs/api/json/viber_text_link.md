@@ -1,5 +1,4 @@
 ---
-id: viber_text_link
 title: Send Viber message with text and link
 sidebar_label: Send Viber (Text+Link)
 hide_table_of_contents: true

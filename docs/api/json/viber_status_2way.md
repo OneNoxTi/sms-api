@@ -1,5 +1,4 @@
 ---
-id: viber_status_2way
 title: Viber 2 Way message status
 sidebar_label: Viber 2 Way message status
 hide_table_of_contents: true

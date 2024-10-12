@@ -1,5 +1,4 @@
 ---
-id: voice_otp
 title: Voice OTP
 sidebar_label: Voice OTP
 hide_table_of_contents: true

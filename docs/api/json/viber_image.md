@@ -1,5 +1,4 @@
 ---
-id: viber_image
 title: Send Viber message with image
 sidebar_label: Send Viber (Image)
 hide_table_of_contents: true

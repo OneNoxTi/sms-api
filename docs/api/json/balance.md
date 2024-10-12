@@ -1,5 +1,4 @@
 ---
-id: balance
 title: Balance check
 sidebar_label: Balance check
 hide_table_of_contents: true

@@ -1,5 +1,4 @@
 ---
-id: rcs_resending_sms
 title: Send RCS with resending by SMS
 sidebar_label: Send RCS with resending by SMS
 hide_table_of_contents: true

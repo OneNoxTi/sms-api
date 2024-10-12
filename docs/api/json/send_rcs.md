@@ -1,5 +1,4 @@
 ---
-id: send_rcs
 title: Send RCS message
 sidebar_label: Send RCS message
 hide_table_of_contents: true

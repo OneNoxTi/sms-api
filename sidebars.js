@@ -17,6 +17,11 @@ let api = [
   {
     type: 'category',
     label: 'JSON API',
+    collapsed: true,
+    link: {
+      type: 'doc',
+      id: 'api/json/json'
+    },
     items: [
       'api/json/balance',
       'api/json/send_sms',
@@ -32,6 +37,24 @@ let api = [
       'api/json/hlr',
       'api/json/message_status',
       'api/json/viber_status_2way'
+    ]
+  },
+  {
+    type: 'category',
+    label: 'HTTP API',
+    collapsed: true,
+    link: {
+      type: 'doc',
+      id: 'api/http/http'
+    },
+    items: [
+      'api/http/balance',
+      'api/http/send_sms',
+      'api/http/scheduled_sms',
+      'api/http/viber',
+      'api/http/status',
+      'api/http/delete',
+      'api/http/sms_price'
     ]
   },
   {

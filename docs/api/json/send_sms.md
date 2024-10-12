@@ -1,5 +1,4 @@
 ---
-id: send_sms
 title: Send SMS
 sidebar_label: Send SMS
 hide_table_of_contents: true

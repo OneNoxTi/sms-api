@@ -1,5 +1,4 @@
 ---
-id: hlr
 title: HLR
 sidebar_label: HLR
 hide_table_of_contents: true

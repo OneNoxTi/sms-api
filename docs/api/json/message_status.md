@@ -1,5 +1,4 @@
 ---
-id: message_status
 title: Message status
 sidebar_label: Message status
 hide_table_of_contents: true

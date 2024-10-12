@@ -1,5 +1,4 @@
 ---
-id: rcs_resending_sms_viber
 title: Send RCS with resending by SMS and Viber
 sidebar_label: Send RCS with resending by SMS and Viber
 hide_table_of_contents: true
