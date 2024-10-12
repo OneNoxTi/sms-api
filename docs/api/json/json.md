@@ -2,7 +2,7 @@
 title: Request structure
 ---
 
-import PspApi from '@site/src/components/PspApi.js';
+import PspApiUrl from '@site/src/components/apiUrl.js';
 
 All requests to API are sent in **JSON** format using the <a class="green-text">**POST**</a> method.
 
@@ -10,7 +10,7 @@ Requests must contain header **Content-Type**: application/json, otherwise, the 
 
 ## Endpoint
 
-Base URL for API requests: **<PspApi />**
+Base URL for API requests: **<PspApiUrl/>**
 
 ## Authorization
 
