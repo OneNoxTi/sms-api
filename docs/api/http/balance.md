@@ -82,7 +82,7 @@ Interaction with API is carried out via **HTTP** or **HTTPS** (recommended), par
                 >
                 <TabItem value="login">
                 ```
-                /http.php?version=http&login=LOGIN&password=PASS&command=balance
+                /api/http.php?version=http&login=LOGIN&password=PASS&command=balance
                 ```
                 </TabItem>
                 <TabItem value="apikey">

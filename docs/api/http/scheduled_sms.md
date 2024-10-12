@@ -76,7 +76,7 @@ Interaction with API is carried out via **HTTP** or **HTTPS** (recommended), par
                             <a class="name">**to**</a>
                             <a class="type">string</a>
                             <a class="required">required</a> <br/>
-                            <a class="description">Recipient's phone number in international format format (for Ukraine it is possible in local)</a>
+                            <a class="description">Recipient's phone number in international format format</a>
                         </td>
                     </tr>
                     <tr>
@@ -125,8 +125,8 @@ Interaction with API is carried out via **HTTP** or **HTTPS** (recommended), par
             <div class="request-example">
                 ## Request example
                 ```
-                /http.php?version=http&key=api/key&command=send&from=test&to=38050123456
-                7&message=test&ask_date=ISO-8601:2013-01-21T16:35:00+0200
+                /api/http.php?version=http&key=api/key&command=send&from=test&to=3805012
+                34567&message=test&ask_date=ISO-8601:2013-01-21T16:35:00+0200
                 ```
             </div>
         </div>

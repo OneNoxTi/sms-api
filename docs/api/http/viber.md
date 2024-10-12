@@ -76,7 +76,7 @@ Interaction with API is carried out via **HTTP** or **HTTPS** (recommended), par
                             <a class="name">**to**</a>
                             <a class="type">string</a>
                             <a class="required">required</a> <br/>
-                            <a class="description">Recipient's phone number in international format format (for Ukraine it is possible in local)</a>
+                            <a class="description">Recipient's phone number in international format format</a>
                         </td>
                     </tr>
                     <tr>
@@ -190,9 +190,9 @@ Interaction with API is carried out via **HTTP** or **HTTPS** (recommended), par
             <div class="request-example">
                 ## Request example
                 ```
-                /http.php?version=http&key=api/key&command=send&from=test&to=38050123456
-                7&message=test&viber=1&viber_type=text&viber_message=test&viber_from=tes
-                t&viber_lifetime=60&viber_sms=true
+                /api/http.php?version=http&key=api/key&command=send&from=test&to=3805012
+                34567&message=test&viber=1&viber_type=text&viber_message=test&viber_from
+                =test&viber_lifetime=60&viber_sms=true
                 ```
             </div>
         </div>

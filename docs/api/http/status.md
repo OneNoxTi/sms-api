@@ -81,7 +81,7 @@ Interaction with API is carried out via **HTTP** or **HTTPS** (recommended), par
             <div class="request-example">
                 ## Request example
                 ```
-                /http.php?version=http&key=api/key&command=receive&id=123
+                /api/http.php?version=http&key=api/key&command=receive&id=123
                 ```
             </div>
         </div>
