@@ -6,7 +6,6 @@ hide_table_of_contents: true
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import PspApi from '@site/src/components/PspApi.js';
 
 Example of request to send SMS message to the specified number.
 

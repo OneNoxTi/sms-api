@@ -6,7 +6,6 @@ hide_table_of_contents: true
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import PspApi from '@site/src/components/PspApi.js';
 
 Example of a request to delete an SMS message from the queue.<br/>
 SMS messages are deleted from the queue only if the message has been [scheduled](scheduled_sms.md) (the date and time of sending the SMS message is specified).

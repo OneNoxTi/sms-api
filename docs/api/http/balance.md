@@ -6,7 +6,6 @@ hide_table_of_contents: true
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import PspApi from '@site/src/components/PspApi.js';
 
 Example of request to get the current balance status of the user's account in the [personal cabinet](../../general/getting_started.md).
 
