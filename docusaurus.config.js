@@ -56,6 +56,11 @@ module.exports = {
       title: process.env.PSP_NAME,
       items : [
         {
+          to: '/',
+          label: 'Documentation',
+          position: 'left',
+        },
+        {
           to: '/api_methods',
           label: 'API',
           position: 'left',

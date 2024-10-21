@@ -1,6 +1,8 @@
 {
   "title": {
-    "message": "SMS-Docs",
-    "description": "The title in the navbar"
+    "message": "SMS-Docs"
+  },
+  "item.label.Documentation": {
+    "message": "Документація"
   }
 }
