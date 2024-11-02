@@ -88,6 +88,14 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                         <a class="description">Message text to be sent via Viber</a>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**short_link**</a>
+                                        <a class="type">boolean</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Description</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>

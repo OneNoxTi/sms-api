@@ -7,6 +7,32 @@ const code_themes = {
   dark: themes.nightOwl,
 };
 
+let navbarItems = [
+  {
+    to: '/',
+    label: 'Documentation',
+    position: 'left',
+  },
+  // {
+  //   to: '/api_methods',
+  //   label: 'API',
+  //   position: 'left',
+  // },
+  {
+    type: 'localeDropdown',
+    position: 'right',
+  }
+]
+
+if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.net' || process.env.PSP_DOCS_DOMAIN == 'docs.blackbox.business' || process.env.PSP_DOCS_DOMAIN == 'sms-doc.pages.dev' || 
+  process.env.PSP_DOCS_DOMAIN == 'docs.interconnect.solutions' || process.env.PSP_DOCS_DOMAIN == 'partner.interconnect.solutions') {
+  navbarItems.push({
+    to: '/api_methods',
+    label: 'API',
+    position: 'left',
+  })
+}
+
 module.exports = {
   title: process.env.PSP_NAME,
   tagline: 'SMS',
@@ -54,22 +80,7 @@ module.exports = {
     ],
     navbar: {
       title: process.env.PSP_NAME,
-      items : [
-        {
-          to: '/',
-          label: 'Documentation',
-          position: 'left',
-        },
-        {
-          to: '/api_methods',
-          label: 'API',
-          position: 'left',
-        },
-        {
-          type: 'localeDropdown',
-          position: 'right',
-        }
-      ]
+      items: navbarItems
     },
     zoom: {
       selector: '.markdown :not(em) > img',
