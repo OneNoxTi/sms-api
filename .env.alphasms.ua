@@ -1,6 +1,7 @@
 PSP_NAME=AlphaSMS
 PSP_SITE_URL=/
 PSP_DOCS_DOMAIN=docs.alphasms.ua
+PSP_API_URL=https://alphasms.ua
 LOGO_NAME=logo.svg
 THEME_DEFAULT_MODE=light
 THEME=./src/css/alphasms.css
