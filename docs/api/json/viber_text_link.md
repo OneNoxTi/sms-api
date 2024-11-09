@@ -11,11 +11,11 @@ Example of request to send a Viber message with a text and a button which, when 
 
 `URI: /api/json.php`
 
-All requests to API are sent in JSON format using the <a class="green-text">**POST**</a> method.
+All requests to API are sent in **JSON** format using the <a class="green-text">**POST**</a> method.
 
 <div class="header">
     ## Header parameters
-    Requests must contain header **Content-Type**: application/json, otherwise, the request will be considered invalid even if it has valid JSON.
+    Requests must contain header **Content-Type**: application/json, otherwise, the request will be considered invalid even if it has valid **JSON**.
 </div>
 <div class="post-wrap">
     <div class="post-item">
@@ -103,7 +103,15 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                         <a class="required">required</a> <br/>
                                         <a class="description">Caption to be displayed on the button</a>
                                     </td>
-                                </tr>                                
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**short_link**</a>
+                                        <a class="type">boolean</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Shorter and track links</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>
@@ -129,7 +137,8 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                             "viber_signature": "ViberTest",
                             "viber_message": "Message text to send via Viber",
                             "viber_link": "https://redirect.url",
-                            "viber_button": "Button caption"
+                            "viber_button": "Button caption",
+                            "short_link": true
                         }
                     ]
                 }

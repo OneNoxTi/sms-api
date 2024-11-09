@@ -11,11 +11,11 @@ Example of request to send Viber message with image to the specified number.
 
 `URI: /api/json.php`
 
-All requests to API are sent in JSON format using the <a class="green-text">**POST**</a> method.
+All requests to API are sent in **JSON** format using the <a class="green-text">**POST**</a> method.
 
 <div class="header">
     ## Header parameters
-    Requests must contain header **Content-Type**: application/json, otherwise, the request will be considered invalid even if it has valid JSON.
+    Requests must contain header **Content-Type**: application/json, otherwise, the request will be considered invalid even if it has valid **JSON**.
 </div>
 <div class="post-wrap">
     <div class="post-item">
@@ -88,6 +88,14 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                                         <a class="description">Link to the image to be sent in the message</a>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**short_link**</a>
+                                        <a class="type">boolean</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Shorter and track links</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>
@@ -111,7 +119,8 @@ All requests to API are sent in JSON format using the <a class="green-text">**PO
                             "phone": 380971234567,
                             "viber_type": "image",
                             "viber_signature": "ViberTest",
-                            "viber_image": "https://url.com/storage/images/image.png"
+                            "viber_image": "https://url.com/storage/images/image.png",
+                            "short_link": true
                         }
                     ]
                 }

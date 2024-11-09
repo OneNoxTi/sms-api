@@ -11,11 +11,11 @@ Example of request to receive Viber 2 Way message status. Viber 2 Way service is
 
 `URI: /api/json.php`
 
-All requests to API are sent in JSON format using the <a class="green-text">**POST**</a> method.
+All requests to API are sent in **JSON** format using the <a class="green-text">**POST**</a> method.
 
 <div class="header">
     ## Header parameters
-    Requests must contain header **Content-Type**: application/json, otherwise, the request will be considered invalid even if it has valid JSON.
+    Requests must contain header **Content-Type**: application/json, otherwise, the request will be considered invalid even if it has valid **JSON**.
 </div>
 
 <div class="post-wrap">

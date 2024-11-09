@@ -1,13 +1,13 @@
 ---
-title: Send RCS with resending by SMS
-sidebar_label: Send RCS with resending by SMS
+title: Multi channel
+sidebar_label: Multi channel
 hide_table_of_contents: true
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Example of request to send RCS message with text, image, button and resend the message by SMS in case of failure to deliver.
+This API enables multi-channel message delivery with customizable channel selection and priority setting. Users specify their desired communication channels and the sequence in the pipeline parameter, including options like voice calls, Telegram, Viber, and SMS. Telegram can be used only for one-time password (OTP) delivery, while voice calls are recommended only for OTP. SMS and Viber are suitable for both OTP and transactional messages. Each channel’s parameters, such as message content, voice settings, or signature, can be customized to tailor the message for its purpose and recipients.
 
 `URI: /api/json.php`
 
@@ -50,6 +50,14 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 </tr>
                                 <tr>
                                     <td>
+                                        <a class="name">**pipeline**</a>
+                                        <a class="type">list[string]</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Sequence of use of communication channels</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
                                         <a class="name">**id**</a>
                                         <a class="type">number</a>
                                         <a class="required">required</a> <br/>
@@ -61,71 +69,155 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <a class="name">**phone**</a>
                                         <a class="type">number</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Phone number of the recipient of the message</a>
+                                        <a class="description">Phone number of the recipient of the messages</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>
-                                        <a class="name">**sms_signature**</a>
-                                        <a class="type">string</a>
+                                        <a class="name">**voice**</a>
+                                        <a class="type">object</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Signature in the message</a>
+                                        <a class="description">Voice message options</a>
+                                        <table class="t2">
+                                        <tbody>
+                                        <tr>
+                                            <td>
+                                                <a class="name">**message**</a>
+                                                <a class="type">string</a>
+                                                <a class="required">required</a> <br/>
+                                                <a class="description">The text of the message to be voiced</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a class="name">**voice**</a>
+                                                <a class="type">object</a>
+                                                <a class="required">required</a> <br/>
+                                                <a class="description">Voice parameters</a>
+                                                <table class="t2">
+                                                <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <a class="name">**gender**</a>
+                                                        <a class="type">string</a>
+                                                        <a class="required">required</a> <br/>
+                                                        <a class="description">Voice type (male or female)</a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a class="name">**language**</a>
+                                                        <a class="type">string</a>
+                                                        <a class="required">required</a> <br/>
+                                                        <a class="description">Voice language</a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <a class="name">**name**</a>
+                                                        <a class="type">string</a>
+                                                        <a class="required">required</a> <br/>
+                                                        <a class="description">Language model name</a>
+                                                    </td>
+                                                </tr>
+                                                </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a class="name">**dtmf**</a>
+                                                <a class="type">boolean</a>
+                                                <a class="required">required</a> <br/>
+                                                <a class="description">Tone set (DTMF) usage flag</a>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                        </table>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>
-                                        <a class="name">**sms_message**</a>
-                                        <a class="type">string</a>
+                                        <a class="name">**telegram**</a>
+                                        <a class="type">object</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Message text to be sent via SMS</a>
+                                        <a class="description">Telegram message parameters</a>
+                                        <table class="t2">
+                                        <tbody>
+                                        <tr>
+                                            <td>
+                                                <a class="name">**message**</a>
+                                                <a class="type">string</a>
+                                                <a class="required">required</a> <br/>
+                                                <a class="description">Message text to be sent via Telegram</a>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                        </table>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>
-                                        <a class="name">**rcs_signature**</a>
-                                        <a class="type">string</a>
+                                        <a class="name">**viber**</a>
+                                        <a class="type">object</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Signature in the message</a>
+                                        <a class="description">Viber message parameters</a>
+                                        <table class="t2">
+                                        <tbody>
+                                        <tr>
+                                            <td>
+                                                <a class="name">**type**</a>
+                                                <a class="type">string</a>
+                                                <a class="required">required</a> <br/>
+                                                <a class="description">Viber message type</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a class="name">**signature**</a>
+                                                <a class="type">string</a>
+                                                <a class="required">required</a> <br/>
+                                                <a class="description">Signature in the message</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a class="name">**message**</a>
+                                                <a class="type">string</a>
+                                                <a class="required">required</a> <br/>
+                                                <a class="description">Message text to be sent via Viber</a>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                        </table>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>
-                                        <a class="name">**rcs_message**</a>
-                                        <a class="type">string</a>
+                                        <a class="name">**sms**</a>
+                                        <a class="type">object</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Message text to be sent via SMS</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**rcs_image**</a>
-                                        <a class="type">string</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Link to the image to be sent in the message</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**rcs_link**</a>
-                                        <a class="type">string</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Link that will be followed after pressing the button</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**rcs_button**</a>
-                                        <a class="type">string</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Caption to be displayed on the button</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**short_link**</a>
-                                        <a class="type">boolean</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Shorter and track links</a>
+                                        <a class="description">SMS message parameters</a>
+                                        <table class="t2">
+                                        <tbody>
+                                        <tr>
+                                            <td>
+                                                <a class="name">**signature**</a>
+                                                <a class="type">string</a>
+                                                <a class="required">required</a> <br/>
+                                                <a class="description">Signature in the message</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a class="name">**message**</a>
+                                                <a class="type">string</a>
+                                                <a class="required">required</a> <br/>
+                                                <a class="description">Message text to be sent via SMS</a>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                        </table>
                                     </td>
                                 </tr>
                             </tbody>
@@ -146,17 +238,36 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                     "auth": "bb56a4369eb19***cfec6d1776bd25",
                     "data": [
                         {
-                            "type": "rcs+sms",
+                            "type": "pipeline",
+                            "pipeline": [
+                                "voice",
+                                "telegram",
+                                "viber",
+                                "sms"
+                            ],
                             "id": 100500,
                             "phone": 380971234567,
-                            "sms_signature": "SMSTest",
-                            "sms_message": "Message text to be sent via SMS",
-                            "rcs_signature": "RCSTest",
-                            "rcs_message": "Message text to be sent via RCS",
-                            "rcs_image": "https://url.com/storage/images/image.png",
-                            "rcs_link": "https://redirect.url",
-                            "rcs_button": "Button caption",
-                            "short_link": true
+                            "voice": {
+                                "message": "Your code is 100500",
+                                "voice": {
+                                    "gender": "female",
+                                    "language": "uk-UA",
+                                    "name": "uk-UA-Standard-A"
+                                },
+                                "dtmf": false
+                            },
+                            "telegram": {
+                                "message": "100500"
+                            },
+                            "viber": {
+                                "type": "text",
+                                "signature": "ViberTest",
+                                "message": "Your code is 100500"
+                            },
+                            "sms": {
+                                "signature": "SMSTest",
+                                "message": "Your code is 100500"
+                            }
                         }
                     ]
                 }
