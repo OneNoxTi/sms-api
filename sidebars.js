@@ -49,7 +49,14 @@ let api = [
       'api/json/multi_channel',
       'api/json/voice_otp',
       'api/json/hlr',
-      'api/json/message_status'
+      'api/json/message_status',
+      {
+        type: 'category',
+        label: 'References',
+        items: [
+          'api/json/message_statuses'
+        ]
+      }
     ]
   },
   {
@@ -72,9 +79,30 @@ let api = [
   },
   {
     type: 'category',
-    label: 'References',
+    label: 'XML API',
+    collapsed: true,
+    link: {
+      type: 'doc',
+      id: 'api/xml/xml'
+    },
     items: [
-      'api/reference/message_statuses'
+      'api/xml/send_sms',
+      'api/xml/scheduled_sms',
+      'api/xml/wap_push_sms',
+      'api/xml/send_viber',
+      'api/xml/balance',
+      'api/xml/scheduled_viber',
+      'api/xml/viber_image',
+      'api/xml/viber_image_button',
+      {
+        type: 'category',
+        label: 'References',
+        items: [
+          'api/xml/references/message_error',
+          'api/xml/references/request_error',
+          'api/xml/references/message_status_codes'
+        ]
+      }
     ]
   }
 ]

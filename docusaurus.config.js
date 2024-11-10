@@ -93,15 +93,8 @@ module.exports = {
       theme: code_themes.light,
       darkTheme: code_themes.dark,
       additionalLanguages: [
-        'dart',
-        'ruby',
-        'groovy',
-        'kotlin',
         'java',
-        'swift',
-        'objectivec',
-        'json',
-        'bash'
+        'json'
       ]
     }
   },
