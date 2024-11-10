@@ -131,8 +131,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 <tr>
                                     <td>
                                         <a class="name">**short_link**</a>
-                                        <a class="type">boolean</a>
-                                        <a class="required">required</a> <br/>
+                                        <a class="type">boolean</a> <br/>
                                         <a class="description">Shorter and track links</a>
                                     </td>
                                 </tr>
