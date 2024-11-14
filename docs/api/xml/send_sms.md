@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 Example of request to send SMS message to the specified number.
 
-`URI: /api/json.php`
+`URI: /api/xml.php`
 
 All requests to API are sent in **XML** format using the <a class="green-text">**POST**</a> method.
 

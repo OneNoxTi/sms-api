@@ -1,13 +1,13 @@
 ---
-title: Send Viber message with text
-sidebar_label: Send Viber (Text)
+title: Send OTP Code
+sidebar_label: Send OTP Code
 hide_table_of_contents: true
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Example of request to send Viber message with text to the specified number.
+An example of a request to send a one-time password (OTP) via Telegram.
 
 `URI: /api/json.php`
 
@@ -29,7 +29,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             <a class="name">**auth**</a>
                             <a class="type">string</a>
                             <a class="required">required</a> <br/>
-                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
+                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
                         </td>
                     </tr>
                     <tr>
@@ -53,7 +53,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <a class="name">**id**</a>
                                         <a class="type">number</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Description</a>
+                                        <a class="description">Unique message identifier in the client system</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -66,33 +66,10 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 </tr>
                                 <tr>
                                     <td>
-                                        <a class="name">**viber_type**</a>
+                                        <a class="name">**message**</a>
                                         <a class="type">string</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Viber message type</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**viber_signature**</a>
-                                        <a class="type">string</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Signature in the message</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**viber_message**</a>
-                                        <a class="type">string</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Message text to be sent via Viber</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**short_link**</a>
-                                        <a class="type">boolean</a> <br/>
-                                        <a class="description">Shorter and track links</a>
+                                        <a class="description">Message with one-time password <br/> Contains from 4 to 8 digits</a>
                                     </td>
                                 </tr>
                             </tbody>
@@ -113,13 +90,10 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                     "auth": "bb56a4369eb19***cfec6d1776bd25",
                     "data": [
                         {
-                            "type": "viber",
+                            "type": "telegram",
                             "id": 100500,
                             "phone": 380971234567,
-                            "viber_type": "text",
-                            "viber_signature": "ViberTest",
-                            "viber_message": "Message text to send via Viber",
-                            "short_link": true
+                            "message": "123456"
                         }
                     ]
                 }
@@ -179,14 +153,14 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                                         <td>
                                                             <a class="name">**id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Description</a>
+                                                            <a class="description">Unique message identifier in the client system</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>
                                                             <a class="name">**msg_id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Message identifier</a>
+                                                            <a class="description">Message identifier assigned by the gateway</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -225,8 +199,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                 defaultValue="successful"
                 values={[
                     { label: 'Successful', value: 'successful', },
-                    { label: 'Access denied', value: 'accessdenied', },
-                    { label: 'Error in Alpha-name', value: 'alphaname' }
+                    { label: 'Access denied', value: 'accessdenied', }
                 ]}
                 >
                 <TabItem value="successful">
@@ -254,23 +227,6 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                 {
                     "success": false,
                     "error": "Access denied"
-                }
-                ```
-                </TabItem>
-                <TabItem value="alphaname">
-                **HTTP Status Code**: <font color="green">**200**</font> <br/> **Content Type**: JSON application/json
-                ```json
-                {
-                    "success": true,
-                    "data": [
-                        {
-                            "success": false,
-                            "error": "Error in Alpha-name",
-                            "data": {
-                                "id": 100500
-                            }
-                        }
-                    ]
                 }
                 ```
                 </TabItem>

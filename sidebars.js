@@ -29,32 +29,46 @@ let api = [
         type: 'category',
         label: 'Viber',
         items: [
-          'api/json/viber_text',
-          'api/json/viber_image',
-          'api/json/viber_text_link',
-          'api/json/viber_text_link_image',
-          'api/json/viber_resending_sms',
-          'api/json/viber_status_2way'          
+          'api/json/viber/text',
+          'api/json/viber/image',
+          'api/json/viber/text_link',
+          'api/json/viber/text_link_image',
+          'api/json/viber/resending_sms',
+          'api/json/viber/status_2way'          
         ]
       },
       {
         type: 'category',
         label: 'RCS',
         items: [
-          'api/json/send_rcs',
-          'api/json/rcs_resending_sms',
-          'api/json/rcs_resending_sms_viber',
+          'api/json/rcs/send',
+          'api/json/rcs/resending_sms',
+          'api/json/rcs/resending_viber',
+        ]
+      },
+      {
+        type: 'category',
+        label: 'Telegram',
+        items: [
+          'api/json/telegram/otp'
+        ]
+      },
+      {
+        type: 'category',
+        label: 'Voice',
+        items: [
+          'api/json/voice/otp',
+          'api/json/voice/call'
         ]
       },
       'api/json/multi_channel',
-      'api/json/voice_otp',
       'api/json/hlr',
       'api/json/message_status',
       {
         type: 'category',
         label: 'References',
         items: [
-          'api/json/message_statuses'
+          'api/json/references/message_statuses'
         ]
       }
     ]
@@ -77,34 +91,34 @@ let api = [
       'api/http/sms_price'
     ]
   },
-  {
-    type: 'category',
-    label: 'XML API',
-    collapsed: true,
-    link: {
-      type: 'doc',
-      id: 'api/xml/xml'
-    },
-    items: [
-      'api/xml/send_sms',
-      'api/xml/scheduled_sms',
-      'api/xml/wap_push_sms',
-      'api/xml/send_viber',
-      'api/xml/balance',
-      'api/xml/scheduled_viber',
-      'api/xml/viber_image',
-      'api/xml/viber_image_button',
-      {
-        type: 'category',
-        label: 'References',
-        items: [
-          'api/xml/references/message_error',
-          'api/xml/references/request_error',
-          'api/xml/references/message_status_codes'
-        ]
-      }
-    ]
-  }
+  // {
+  //   type: 'category',
+  //   label: 'XML API',
+  //   collapsed: true,
+  //   link: {
+  //     type: 'doc',
+  //     id: 'api/xml/xml'
+  //   },
+  //   items: [
+  //     'api/xml/send_sms',
+  //     'api/xml/scheduled_sms',
+  //     'api/xml/wap_push_sms',
+  //     'api/xml/send_viber',
+  //     'api/xml/balance',
+  //     'api/xml/scheduled_viber',
+  //     'api/xml/viber_image',
+  //     'api/xml/viber_image_button',
+  //     {
+  //       type: 'category',
+  //       label: 'References',
+  //       items: [
+  //         'api/xml/references/message_error',
+  //         'api/xml/references/request_error',
+  //         'api/xml/references/message_status_codes'
+  //       ]
+  //     }
+  //   ]
+  // }
 ]
 
 let admin = []

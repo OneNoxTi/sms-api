@@ -51,6 +51,14 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 </tr>
                                 <tr>
                                     <td>
+                                        <a class="name">**id**</a>
+                                        <a class="type">number</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Unique message identifier in the client system</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
                                         <a class="name">**phone**</a>
                                         <a class="type">number</a>
                                         <a class="required">required</a> <br/>
@@ -76,6 +84,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                     "data": [
                         {
                             "type": "hlr",
+                            "id": 100500,
                             "phone": 380971234567
                         }
                     ]
@@ -136,7 +145,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                                         <td>                                              
                                                             <a class="name">**status**</a>
                                                             <a class="type">string</a> <br/>
-                                                            <a class="description">Current message status (see [Message statuses reference](../reference/message_statuses.md))</a>
+                                                            <a class="description">Current message status (see [Message statuses reference](./references/message_statuses.md))</a>
                                                         </td>
                                                     </tr>
                                                     <tr>

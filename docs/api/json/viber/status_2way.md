@@ -30,7 +30,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             <a class="name">**auth**</a>
                             <a class="type">string</a>
                             <a class="required">required</a> <br/>
-                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
+                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
                         </td>
                     </tr>
                     <tr>
@@ -54,7 +54,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <a class="name">**id**</a>
                                         <a class="type">number</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Description</a>
+                                        <a class="description">Unique message identifier in the client system</a>
                                     </td>
                                 </tr>
                             </tbody>
@@ -129,7 +129,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                                         <td>
                                                             <a class="name">**id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Description</a>
+                                                            <a class="description">Unique message identifier in the client system</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -143,7 +143,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                                         <td>                                              
                                                             <a class="name">**status**</a>
                                                             <a class="type">string</a> <br/>
-                                                            <a class="description">Current message status (see [Message statuses reference](../reference/message_statuses.md))</a>
+                                                            <a class="description">Current message status (see [Message statuses reference](../references/message_statuses.md))</a>
                                                         </td>
                                                     </tr>
                                                     <tr>

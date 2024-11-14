@@ -1,13 +1,13 @@
 ---
-title: Voice OTP
-sidebar_label: Voice OTP
+title: Voice Call
+sidebar_label: Voice Call
 hide_table_of_contents: true
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Example of a request for number verification via a call (Voice OTP).
+Example of a request to voice a message via a call.
 
 `URI: /api/json.php`
 
@@ -30,7 +30,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             <a class="name">**auth**</a>
                             <a class="type">string</a>
                             <a class="required">required</a> <br/>
-                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
+                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
                         </td>
                     </tr>
                     <tr>
@@ -51,10 +51,70 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 </tr>
                                 <tr>
                                     <td>
+                                        <a class="name">**id**</a>
+                                        <a class="type">number</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Unique message identifier in the client system</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
                                         <a class="name">**phone**</a>
                                         <a class="type">number</a>
                                         <a class="required">required</a> <br/>
                                         <a class="description">Phone number to be checked</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**message**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">The text of the message to be voiced</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**voice**</a>
+                                        <a class="type">object</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Voice parameters</a>
+                                        <table class="t2">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <a class="name">**gender**</a>
+                                                    <a class="type">string</a>
+                                                    <a class="required">required</a> <br/>
+                                                    <a class="description">Voice type (male or female)</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a class="name">**language**</a>
+                                                    <a class="type">string</a>
+                                                    <a class="required">required</a> <br/>
+                                                    <a class="description">Voice language</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a class="name">**name**</a>
+                                                    <a class="type">string</a>
+                                                    <a class="required">required</a> <br/>
+                                                    <a class="description">Language model name</a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**dtmf**</a>
+                                        <a class="type">boolean</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Tone set (DTMF) usage flag</a>
                                     </td>
                                 </tr>
                             </tbody>
@@ -75,8 +135,16 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                     "auth": "bb56a4369eb19***cfec6d1776bd25",
                     "data": [
                         {
-                            "type": "call/otp",
-                            "phone": 380971234567
+                            "type": "voice",
+                            "id": 100500,
+                            "phone": 380971234567,
+                            "message": "Your code is 100500",
+                            "voice": {
+                                "gender": "female",
+                                "language": "uk-UA",
+                                "name": "uk-UA-Standard-A"
+                            },
+                            "dtmf": false
                         }
                     ]
                 }
@@ -120,6 +188,13 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                     </tr>
                                     <tr>
                                         <td>
+                                            <a class="name">**error**</a>
+                                            <a class="type">string</a> <br/>
+                                            <a class="description">Error text, returned if `data.success=false`</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
                                             <a class="name">**data**</a>
                                             <a class="type">object</a><br/>
                                             <a class="description">Request execution result</a> <br/>
@@ -127,18 +202,32 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                                 <tbody>
                                                     <tr>
                                                         <td>
-                                                            <a class="name">**code**</a>
-                                                            <a class="type">string</a> <br/>
-                                                            <a class="description">Description</a>
+                                                            <a class="name">**id**</a>
+                                                            <a class="type">number</a> <br/>
+                                                            <a class="description">Unique message identifier in the client system</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td>                                              
-                                                            <a class="name">**price**</a>
+                                                        <td>
+                                                            <a class="name">**msg_id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Verification fee</a>
+                                                            <a class="description">Message identifier assigned by the gateway</a>
                                                         </td>
                                                     </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <a class="name">**data**</a>
+                                                            <a class="type">number</a> <br/>
+                                                            <a class="description">Description</a>
+                                                        </td>
+                                                    </tr> 
+                                                    <tr>
+                                                        <td>
+                                                            <a class="name">**parts**</a>
+                                                            <a class="type">number</a> <br/>
+                                                            <a class="description">Number of messages used to send the specified text</a>
+                                                        </td>
+                                                    </tr>                                                                                                       
                                                 </tbody>
                                             </table>
                                         </td>
@@ -161,7 +250,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                 defaultValue="successful"
                 values={[
                     { label: 'Successful', value: 'successful', },
-                    { label: 'Access denied', value: 'accessdenied' }
+                    { label: 'Access denied', value: 'accessdenied', }
                 ]}
                 >
                 <TabItem value="successful">
@@ -173,8 +262,10 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                         {
                             "success": true,
                             "data": {
-                                "code": "0471",
-                                "price": 0.2
+                                "id": 100500,
+                                "msg_id": 123456789,
+                                "data": 1,
+                                "parts": 1
                             }
                         }
                     ]

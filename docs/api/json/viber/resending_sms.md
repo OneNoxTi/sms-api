@@ -1,13 +1,13 @@
 ---
-title: Send RCS with resending by SMS and Viber
-sidebar_label: Send RCS with resending by SMS and Viber
+title: Send Viber with resending by SMS
+sidebar_label: Send Viber with resending by SMS
 hide_table_of_contents: true
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Example of request to send RCS message with text, image, button and resend the message by SMS and Viber in case of failure to deliver.
+Example of request to send Viber message with text, image, button and resend the message by SMS in case of failure to deliver.
 
 `URI: /api/json.php`
 
@@ -29,7 +29,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             <a class="name">**auth**</a>
                             <a class="type">string</a>
                             <a class="required">required</a> <br/>
-                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
+                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
                         </td>
                     </tr>
                     <tr>
@@ -53,7 +53,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <a class="name">**id**</a>
                                         <a class="type">number</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Description</a>
+                                        <a class="description">Unique message identifier in the client system</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -78,46 +78,6 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <a class="type">string</a>
                                         <a class="required">required</a> <br/>
                                         <a class="description">Message text to be sent via SMS</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**rcs_signature**</a>
-                                        <a class="type">string</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Signature in the message</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**rcs_message**</a>
-                                        <a class="type">string</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Message text to be sent via SMS</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**rcs_image**</a>
-                                        <a class="type">string</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Link to the image to be sent in the message</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**rcs_link**</a>
-                                        <a class="type">string</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Link that will be followed after pressing the button</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**rcs_button**</a>
-                                        <a class="type">string</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Caption to be displayed on the button</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -193,16 +153,11 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                     "auth": "bb56a4369eb19***cfec6d1776bd25",
                     "data": [
                         {
-                            "type": "rcs+viber+sms",
+                            "type": "viber+sms",
                             "id": 100500,
                             "phone": 380971234567,
                             "sms_signature": "SMSTest",
                             "sms_message": "Message text to be sent via SMS",
-                            "rcs_signature": "RCSTest",
-                            "rcs_message": "Message text to be sent via RCS",
-                            "rcs_image": "https://url.com/storage/images/image.png",
-                            "rcs_link": "https://redirect.url",
-                            "rcs_button": "Button caption",
                             "viber_type": "text+image+link",
                             "viber_signature": "ViberTest",
                             "viber_message": "Message text to send via Viber",
@@ -269,14 +224,14 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                                         <td>
                                                             <a class="name">**id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Description</a>
+                                                            <a class="description">Unique message identifier in the client system</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>
                                                             <a class="name">**msg_id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Message identifier</a>
+                                                            <a class="description">Message identifier assigned by the gateway</a>
                                                         </td>
                                                     </tr>
                                                     <tr>

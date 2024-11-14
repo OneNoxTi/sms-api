@@ -61,7 +61,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <a class="name">**id**</a>
                                         <a class="type">number</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Description</a>
+                                        <a class="description">Unique message identifier in the client system</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -327,14 +327,14 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                                         <td>
                                                             <a class="name">**id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Description</a>
+                                                            <a class="description">Unique message identifier in the client system</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>
                                                             <a class="name">**msg_id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Message identifier</a>
+                                                            <a class="description">Message identifier assigned by the gateway</a>
                                                         </td>
                                                     </tr>
                                                     <tr>

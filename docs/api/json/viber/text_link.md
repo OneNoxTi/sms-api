@@ -1,13 +1,13 @@
 ---
-title: Send Viber message with image
-sidebar_label: Send Viber (Image)
+title: Send Viber message with text and link
+sidebar_label: Send Viber (Text+Link)
 hide_table_of_contents: true
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Example of request to send Viber message with image to the specified number.
+Example of request to send a Viber message with a text and a button which, when clicked, will lead to the specified link.
 
 `URI: /api/json.php`
 
@@ -29,7 +29,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             <a class="name">**auth**</a>
                             <a class="type">string</a>
                             <a class="required">required</a> <br/>
-                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
+                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
                         </td>
                     </tr>
                     <tr>
@@ -53,7 +53,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <a class="name">**id**</a>
                                         <a class="type">number</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Description</a>
+                                        <a class="description">Unique message identifier in the client system</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -82,10 +82,26 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 </tr>
                                 <tr>
                                     <td>
-                                        <a class="name">**viber_image**</a>
+                                        <a class="name">**viber_message**</a>
                                         <a class="type">string</a>
                                         <a class="required">required</a> <br/>
-                                        <a class="description">Link to the image to be sent in the message</a>
+                                        <a class="description">Message text to be sent via Viber</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**viber_link**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Link that will be followed after pressing the button</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**viber_button**</a>
+                                        <a class="type">string</a>
+                                        <a class="required">required</a> <br/>
+                                        <a class="description">Caption to be displayed on the button</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -116,9 +132,11 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             "type": "viber",
                             "id": 100500,
                             "phone": 380971234567,
-                            "viber_type": "image",
+                            "viber_type": "text+link",
                             "viber_signature": "ViberTest",
-                            "viber_image": "https://url.com/storage/images/image.png",
+                            "viber_message": "Message text to send via Viber",
+                            "viber_link": "https://redirect.url",
+                            "viber_button": "Button caption",
                             "short_link": true
                         }
                     ]
@@ -179,14 +197,14 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                                         <td>
                                                             <a class="name">**id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Description</a>
+                                                            <a class="description">Unique message identifier in the client system</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>
                                                             <a class="name">**msg_id**</a>
                                                             <a class="type">number</a> <br/>
-                                                            <a class="description">Message identifier</a>
+                                                            <a class="description">Message identifier assigned by the gateway</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
