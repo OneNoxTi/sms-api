@@ -55,6 +55,13 @@ let api = [
       },
       {
         type: 'category',
+        label: 'WhatsApp',
+        items: [
+          'api/json/whatsapp/otp'
+        ]
+      },
+      {
+        type: 'category',
         label: 'Voice',
         items: [
           'api/json/voice/otp',

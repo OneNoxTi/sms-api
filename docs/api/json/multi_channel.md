@@ -243,6 +243,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 "voice",
                                 "telegram",
                                 "viber",
+                                "rcs",
                                 "sms"
                             ],
                             "id": 100500,
@@ -264,6 +265,10 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 "signature": "ViberTest",
                                 "message": "Your code is 100500"
                             },
+                            "rcs": {
+                                "signature": "AlphaRCS",
+                                "message": "Your code is 1234"
+                            }
                             "sms": {
                                 "signature": "SMSTest",
                                 "message": "Your code is 100500"
