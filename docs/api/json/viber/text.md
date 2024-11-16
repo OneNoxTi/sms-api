@@ -2,6 +2,10 @@
 title: Send Viber message with text
 sidebar_label: Send Viber (Text)
 hide_table_of_contents: true
+tags:
+  - JSON
+  - Viber
+  - Text
 ---
 
 import Tabs from '@theme/Tabs';

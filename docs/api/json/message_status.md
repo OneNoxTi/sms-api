@@ -2,6 +2,10 @@
 title: Message status
 sidebar_label: Message status
 hide_table_of_contents: true
+tags:
+  - JSON
+  - Message
+  - Status
 ---
 
 import Tabs from '@theme/Tabs';
@@ -143,7 +147,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                                         <td>                                              
                                                             <a class="name">**status**</a>
                                                             <a class="type">string</a> <br/>
-                                                            <a class="description">Current message status (see [Message statuses reference](./reference/message_statuses.md))</a>
+                                                            <a class="description">Current message status (see [Message statuses reference](./references/message_statuses.md))</a>
                                                         </td>
                                                     </tr>
                                                 </tbody>

@@ -2,6 +2,11 @@
 title: Viber 2 Way message status
 sidebar_label: Viber 2 Way message status
 hide_table_of_contents: true
+tags:
+  - JSON
+  - Viber
+  - Status
+  - 2 Way
 ---
 
 import Tabs from '@theme/Tabs';

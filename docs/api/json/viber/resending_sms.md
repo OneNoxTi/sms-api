@@ -2,6 +2,11 @@
 title: Send Viber with resending by SMS
 sidebar_label: Send Viber with resending by SMS
 hide_table_of_contents: true
+tags:
+  - JSON
+  - Viber
+  - Resending
+  - SMS
 ---
 
 import Tabs from '@theme/Tabs';

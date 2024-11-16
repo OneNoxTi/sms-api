@@ -2,6 +2,10 @@
 title: Send OTP Code
 sidebar_label: Send OTP Code
 hide_table_of_contents: true
+tags:
+  - JSON
+  - Telegram
+  - OTP
 ---
 
 import Tabs from '@theme/Tabs';

@@ -2,6 +2,10 @@
 title: Voice OTP
 sidebar_label: Voice OTP
 hide_table_of_contents: true
+tags:
+  - JSON
+  - Voice
+  - OTP
 ---
 
 import Tabs from '@theme/Tabs';

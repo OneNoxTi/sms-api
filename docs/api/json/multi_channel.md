@@ -268,7 +268,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             "rcs": {
                                 "signature": "AlphaRCS",
                                 "message": "Your code is 1234"
-                            }
+                            },
                             "sms": {
                                 "signature": "SMSTest",
                                 "message": "Your code is 100500"

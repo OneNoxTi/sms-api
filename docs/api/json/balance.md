@@ -2,6 +2,9 @@
 title: Balance check
 sidebar_label: Balance check
 hide_table_of_contents: true
+tags:
+  - JSON
+  - Balance
 ---
 
 import Tabs from '@theme/Tabs';

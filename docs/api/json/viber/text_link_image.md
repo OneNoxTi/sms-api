@@ -2,6 +2,14 @@
 title: Send Viber message with text, link and image
 sidebar_label: Send Viber (Text+Link+Image)
 hide_table_of_contents: true
+tags:
+  - JSON
+  - Viber
+  - Send
+  - Text
+  - Link
+  - Button
+  - Image
 ---
 
 import Tabs from '@theme/Tabs';

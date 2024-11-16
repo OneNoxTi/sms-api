@@ -2,6 +2,10 @@
 title: Send SMS
 sidebar_label: Send SMS
 hide_table_of_contents: true
+tags:
+  - JSON
+  - SMS
+  - Send
 ---
 
 import Tabs from '@theme/Tabs';

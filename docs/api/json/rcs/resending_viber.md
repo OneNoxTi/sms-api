@@ -2,6 +2,11 @@
 title: Send RCS with resending by SMS and Viber
 sidebar_label: Send RCS with resending by SMS and Viber
 hide_table_of_contents: true
+tags:
+  - JSON
+  - RCS
+  - Resending
+  - Viber
 ---
 
 import Tabs from '@theme/Tabs';

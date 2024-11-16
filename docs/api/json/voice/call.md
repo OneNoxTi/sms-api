@@ -2,6 +2,10 @@
 title: Voice Call
 sidebar_label: Voice Call
 hide_table_of_contents: true
+tags:
+  - JSON
+  - Voice
+  - Call
 ---
 
 import Tabs from '@theme/Tabs';

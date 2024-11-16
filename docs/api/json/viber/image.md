@@ -2,6 +2,11 @@
 title: Send Viber message with image
 sidebar_label: Send Viber (Image)
 hide_table_of_contents: true
+tags:
+  - JSON
+  - Viber
+  - Send
+  - Image
 ---
 
 import Tabs from '@theme/Tabs';
