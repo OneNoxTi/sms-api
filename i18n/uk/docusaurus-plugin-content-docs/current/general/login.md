@@ -6,13 +6,13 @@ hide_title: true
 slug: /login/
 ---
 
-import PspName from '@site/src/components/pspName.js';
+import Name from '@site/src/components/Name.js';
 
-# Як ввійти в особистий кабінет <PspName />
+# Як ввійти в особистий кабінет <Name />
 
 ## Вхід в особистий кабінет
 
-Перейдіть на вебсайт **<PspName />** і натисніть кнопку **Вхід** у верхньому правому куті сторінки.
+Перейдіть на вебсайт **<Name />** і натисніть кнопку **Вхід** у верхньому правому куті сторінки.
 
 ![image1](/img/uk/general_login/image1.png "Як ввійти в особистий кабінет") <center><u>Як ввійти в особистий кабінет - фото 1</u></center>
 

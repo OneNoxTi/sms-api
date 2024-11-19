@@ -5,9 +5,9 @@ sidebar_label: Регистрация
 slug: /registration/
 ---
 
-import PspName from '@site/src/components/pspName.js';
+import Name from '@site/src/components/Name.js';
 
-Чтобы зарегистрировать новый личный кабинет, перейдите на вебсайт **<PspName />** и нажмите кнопку **Регистрация** в верхнем правом углу страницы.
+Чтобы зарегистрировать новый личный кабинет, перейдите на вебсайт **<Name />** и нажмите кнопку **Регистрация** в верхнем правом углу страницы.
 
 ![image1](/img/ru/general_registration/image1.png "Как зарегистрировать учетную запись") <center><u>Как зарегистрировать учетную запись - фото 1</u></center>
 

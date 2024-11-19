@@ -1,12 +1,12 @@
 import React from "react";
 
-const API_URL = process.env.PSP_API_URL
+const API_URL = process.env.API_URL
 
-function PspApiUrl({asLink}) {
+function ApiUrl({asLink}) {
   if (asLink == "true") {
     return (<a href="{API_URL}">{API_URL}</a>);
   } else {
     return (<span>{API_URL}</span>);
   }
 }
-export default PspApiUrl;
+export default ApiUrl;

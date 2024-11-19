@@ -5,9 +5,9 @@ sidebar_label: Реєстрація
 slug: /registration/
 ---
 
-import PspName from '@site/src/components/pspName.js';
+import Name from '@site/src/components/Name.js';
 
-Щоб зареєструвати новий особистий кабінет, перейдіть на вебсайт **<PspName />** і натисніть кнопку **Реєстрація** у верхньому правому куті сторінки.
+Щоб зареєструвати новий особистий кабінет, перейдіть на вебсайт **<Name />** і натисніть кнопку **Реєстрація** у верхньому правому куті сторінки.
 
 ![image1](/img/uk/general_registration/image1.png "Як зареєструвати обліковий запис") <center><u>Як зареєструвати обліковий запис - фото 1</u></center>
 
