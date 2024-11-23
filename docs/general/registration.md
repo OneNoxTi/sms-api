@@ -5,9 +5,9 @@ sidebar_label: Registration
 slug: /registration/
 ---
 
-import PspName from '@site/src/components/pspName.js';
+import Name from '@site/src/components/Name.js';
 
-To register a new personal account, go to the website **<PspName />** and click the **Registration** button in the upper right corner of the page.
+To register a new personal account, go to the website **<Name />** and click the **Registration** button in the upper right corner of the page.
 
 ![image1](/img/en/general_registration/image1.png "How to register an account") <center><u>How to register an account - photo 1</u></center>
 

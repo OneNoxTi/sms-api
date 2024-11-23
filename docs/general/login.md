@@ -6,13 +6,13 @@ hide_title: true
 slug: /login/
 ---
 
-import PspName from '@site/src/components/pspName.js';
+import Name from '@site/src/components/Name.js';
 
-# How to log in to your personal account <PspName />
+# How to log in to your personal account <Name />
 
 ## Sign in to personal cabinet
 
-Go to the website **<PspName />** and click the **Login** button in the upper right corner of the page.
+Go to the website **<Name />** and click the **Login** button in the upper right corner of the page.
 
 ![image1](/img/en/general_login/image1.png "How to log in to your personal account") <center><u>How to log in to your personal account - photo 1</u></center>
 

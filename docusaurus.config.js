@@ -24,8 +24,8 @@ let navbarItems = [
   }
 ]
 
-if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.net' || process.env.PSP_DOCS_DOMAIN == 'docs.blackbox.business' || process.env.PSP_DOCS_DOMAIN == 'sms-doc.pages.dev' || 
-  process.env.PSP_DOCS_DOMAIN == 'docs.interconnect.solutions' || process.env.PSP_DOCS_DOMAIN == 'partner.interconnect.solutions') {
+if (process.env.DOCS_DOMAIN == 'docs.alphasms.net' || process.env.DOCS_DOMAIN == 'docs.blackbox.business' || process.env.DOCS_DOMAIN == 'sms-doc.pages.dev' || 
+  process.env.DOCS_DOMAIN == 'docs.interconnect.solutions' || process.env.DOCS_DOMAIN == 'partner.interconnect.solutions') {
   navbarItems.push({
     to: '/api_methods',
     label: 'API',
@@ -34,10 +34,10 @@ if (process.env.PSP_DOCS_DOMAIN == 'docs.alphasms.net' || process.env.PSP_DOCS_D
 }
 
 module.exports = {
-  title: process.env.PSP_NAME,
+  title: process.env.NAME,
   tagline: 'SMS',
   favicon: 'img/' + process.env.FAVICON,
-  url: 'https://' + process.env.PSP_DOCS_DOMAIN,
+  url: 'https://' + process.env.DOCS_DOMAIN,
   baseUrl: '/',
   organizationName: 'sms',
   projectName: 'sms',
@@ -79,7 +79,7 @@ module.exports = {
       }
     ],
     navbar: {
-      title: process.env.PSP_NAME,
+      title: process.env.NAME,
       items: navbarItems
     },
     zoom: {

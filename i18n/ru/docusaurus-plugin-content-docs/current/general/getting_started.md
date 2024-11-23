@@ -6,6 +6,6 @@ hide_title: true
 slug: /
 ---
 
-import PspName from '@site/src/components/pspName.js';
+import Name from '@site/src/components/Name.js';
 
-# Как начать работу с <PspName />
+# Как начать работу с <Name />

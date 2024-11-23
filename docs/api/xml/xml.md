@@ -2,7 +2,7 @@
 title: Request structure
 ---
 
-import PspApiUrl from '@site/src/components/apiUrl.js';
+import ApiUrl from '@site/src/components/apiUrl.js';
 
 Communication with the service is performed by sending **XML** requests in **UTF-8** encoding to the specified address of the service via HTTP/HTTPS protocol using <a class="green-text">**POST**</a> method, no content type check is performed.
 
@@ -10,7 +10,7 @@ Each request may consist of sending messages and (or) requests to receive status
 
 ## Endpoint
 
-Base URL for API requests: **<PspApiUrl/>**
+Base URL for API requests: **<ApiUrl/>**
 
 ## Authorization
 
