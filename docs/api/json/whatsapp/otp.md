@@ -76,6 +76,13 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <a class="description">Message with one-time password <br/> Contains from 4 to 8 digits</a>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**hook**</a>
+                                        <a class="type">string</a> <br/>
+                                        <a class="description">URL address of the script where the message delivery status will be sent</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>
@@ -97,7 +104,8 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             "type": "whatsapp",
                             "id": 100500,
                             "phone": 380971234567,
-                            "message": "123456"
+                            "message": "123456",
+                            "hook": "https://example.org/webhook/url.php"
                         }
                     ]
                 }

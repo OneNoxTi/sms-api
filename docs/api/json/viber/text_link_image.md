@@ -136,6 +136,13 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <a class="description">Shorter and track links</a>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**hook**</a>
+                                        <a class="type">string</a> <br/>
+                                        <a class="description">URL address of the script where the message delivery status will be sent</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>
@@ -164,7 +171,8 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             "viber_link": "https://redirect.url",
                             "viber_button": "Button caption",
                             "viber_lifetime": 172800,
-                            "short_link": true
+                            "short_link": true,
+                            "hook": "https://example.org/webhook/url.php"
                         }
                     ]
                 }

@@ -85,6 +85,13 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <br/> Default: 2 days (172800 seconds)</a>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**hook**</a>
+                                        <a class="type">string</a> <br/>
+                                        <a class="description">URL address of the script where the message delivery status will be sent</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>
@@ -107,7 +114,8 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             "id": 100500,
                             "phone": 380971234567,
                             "message": "123456",
-                            "telegram_lifetime": 172800
+                            "telegram_lifetime": 172800,
+                            "hook": "https://example.org/webhook/url.php"
                         }
                     ]
                 }

@@ -220,6 +220,13 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         </table>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**hook**</a>
+                                        <a class="type">string</a> <br/>
+                                        <a class="description">URL address of the script where the message delivery status will be sent</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>
@@ -272,7 +279,8 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             "sms": {
                                 "signature": "SMSTest",
                                 "message": "Your code is 100500"
-                            }
+                            },
+                            "hook": "https://example.org/webhook/url.php"
                         }
                     ]
                 }
