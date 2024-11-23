@@ -86,6 +86,16 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 </tr>
                                 <tr>
                                     <td>
+                                        <a class="name">**sms_lifetime**</a>
+                                        <a class="type">number</a> <br/>
+                                        <a class="description">SMS message lifetime in seconds
+                                        <br/> Min. value: 1 hour (3600 seconds)
+                                        <br/> Max. value: 3 days (259200 seconds)
+                                        <br/> Default: 2 days (172800 seconds)</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
                                         <a class="name">**short_link**</a>
                                         <a class="type">boolean</a> <br/>
                                         <a class="description">Shorter and track links</a>
@@ -114,6 +124,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             "phone": 380971234567,
                             "sms_signature": "SMSTest",
                             "sms_message": "Message text to be sent via SMS",
+                            "sms_lifetime": 172800,
                             "short_link": true
                         }
                     ]

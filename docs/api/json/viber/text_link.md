@@ -113,6 +113,15 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 </tr>
                                 <tr>
                                     <td>
+                                        <a class="name">**viber_lifetime**</a>
+                                        <a class="type">number</a> <br/>
+                                        <a class="description">Viber message lifetime in seconds 
+                                        <br/> Min. value: 60 seconds 
+                                        <br/> Default: 2 days (172800 seconds)</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
                                         <a class="name">**short_link**</a>
                                         <a class="type">boolean</a> <br/>
                                         <a class="description">Shorter and track links</a>
@@ -144,6 +153,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             "viber_message": "Message text to send via Viber",
                             "viber_link": "https://redirect.url",
                             "viber_button": "Button caption",
+                            "viber_lifetime": 172800,
                             "short_link": true
                         }
                     ]

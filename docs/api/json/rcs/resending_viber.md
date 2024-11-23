@@ -175,6 +175,15 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                 </tr>
                                 <tr>
                                     <td>
+                                        <a class="name">**rcs_lifetime**</a>
+                                        <a class="type">number</a> <br/>
+                                        <a class="description">RCS message lifetime in seconds 
+                                        <br/> Minimum value: 60 seconds 
+                                        <br/> Default: 2 days (172800 seconds) </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
                                         <a class="name">**short_link**</a>
                                         <a class="type">boolean</a> <br/>
                                         <a class="description">Shorter and track links</a>
@@ -214,6 +223,7 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             "viber_image": "https://url.com/storage/images/image.png",
                             "viber_link": "https://redirect.url",
                             "viber_button": "Button caption",
+                            "rcs_lifetime": 172800,
                             "short_link": true
                         }
                     ]

@@ -76,6 +76,15 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                                         <a class="description">Message with one-time password <br/> Contains from 4 to 8 digits</a>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <a class="name">**telegram_lifetime**</a>
+                                        <a class="type">number</a> <br/>
+                                        <a class="description">Telegram message lifetime in seconds 
+                                        <br/> Minimum value: 60 seconds 
+                                        <br/> Default: 2 days (172800 seconds)</a>
+                                    </td>
+                                </tr>
                             </tbody>
                             </table>
                         </td>
@@ -97,7 +106,8 @@ All requests to API are sent in **JSON** format using the <a class="green-text">
                             "type": "telegram",
                             "id": 100500,
                             "phone": 380971234567,
-                            "message": "123456"
+                            "message": "123456",
+                            "telegram_lifetime": 172800
                         }
                     ]
                 }
