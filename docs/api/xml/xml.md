@@ -26,15 +26,15 @@ Each request must contain an **auth** string with your API key obtained from you
                     <tr>
                         <td>
                             <a class="name">**package**</a>
-                            <a class="type">xml tag</a>
+                            <a class="type">tag</a>
                             <a class="required">required</a> <br/>
                             <a class="description">Tag to transmit the credentials required for authorization</a>
                             <table class="t2">
                             <tbody>
                                 <tr>
                                     <td>
-                                        <a class="name">**key**</a>
-                                        <a class="type">string</a>
+                                        <a class="attribute">**key**</a>
+                                        <a class="type">attribute | string</a>
                                         <a class="required">required</a> <br/>
                                         <a class="description">Your API key, which can be obtained in your [personal cabinet](../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
                                     </td>
@@ -77,40 +77,40 @@ The set of request parameters depends on the specified request type (see API met
                     <tr>
                         <td>
                             <a class="name">**package**</a>
-                            <a class="type">xml tag</a>
+                            <a class="type">tag</a>
                             <a class="required">required</a> <br/>
                             <a class="description">Tag to transmit the credentials required for authorization</a>
                             <table class="t2">
-                            <tbody>
-                                <tr>
-                                    <td>
-                                        <a class="name">**key**</a>
-                                        <a class="type">varchar</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Your API key, which can be obtained in your [personal cabinet](../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a class="name">**command**</a>
-                                        <a class="type">xml tag</a>
-                                        <a class="required">required</a> <br/>
-                                        <a class="description">Request type: <ul><li>**message** - sending SMS messages</li><li>**message-viber** - sending Viber messages</li><li>**status** - message status request</li><li>**balance** - balance check</li><li>**delete** - request to delete SMS from the queue</li><li>**message-async** - asynchronous message sending</li><li>**job** - requesting the results of an asynchronous task</li><li>**prices** - check the cost of sending a message</li></ul></a>
-                                        <table class="t2">
-                                        <tbody>
-                                            <tr>
-                                                <td>
-                                                    <a class="name">**parameter**</a>
-                                                    <a class="type">xml tag</a><br/>
-                                                    <a class="description">Request parameters, depends on the command being transmitted</a>
-                                                </td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <a class="attribute">**key**</a>
+                                            <a class="type">attribute | string</a>
+                                            <a class="required">required</a> <br/>
+                                            <a class="description">Your API key, which can be obtained in your [personal cabinet](../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a class="name">**command**</a>
+                                            <a class="type">tag</a>
+                                            <a class="required">required</a> <br/>
+                                            <a class="description">Request type: <ul><li>**message** - [sending SMS messages](send_sms.md)</li><li>**message-viber** - [sending Viber messages](send_viber.md)</li><li>**status** - [message status request](status.md)</li><li>**balance** - [balance check](balance.md)</li><li>**delete** - [request to delete SMS from the queue](delete.md)</li><li>**message-async** - [asynchronous message sending](message_async.md)</li><li>**job** - [requesting the results of an asynchronous task](job.md)</li><li>**prices** - [check the cost of sending a message](prices.md)</li></ul></a>
+                                            <table class="t2">
+                                                <tbody>
+                                                    <tr>
+                                                        <td>
+                                                            <a class="name">**parameter**</a>
+                                                            <a class="type">tag</a><br/>
+                                                            <a class="description">Request parameters, depends on the command being transmitted</a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </td>
                     </tr>
                 </tbody>

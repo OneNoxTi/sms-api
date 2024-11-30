@@ -98,34 +98,38 @@ let api = [
       'api/http/sms_price'
     ]
   },
-  // {
-  //   type: 'category',
-  //   label: 'XML API',
-  //   collapsed: true,
-  //   link: {
-  //     type: 'doc',
-  //     id: 'api/xml/xml'
-  //   },
-  //   items: [
-  //     'api/xml/send_sms',
-  //     'api/xml/scheduled_sms',
-  //     'api/xml/wap_push_sms',
-  //     'api/xml/send_viber',
-  //     'api/xml/balance',
-  //     'api/xml/scheduled_viber',
-  //     'api/xml/viber_image',
-  //     'api/xml/viber_image_button',
-  //     {
-  //       type: 'category',
-  //       label: 'References',
-  //       items: [
-  //         'api/xml/references/message_error',
-  //         'api/xml/references/request_error',
-  //         'api/xml/references/message_status_codes'
-  //       ]
-  //     }
-  //   ]
-  // }
+  {
+    type: 'category',
+    label: 'XML API',
+    collapsed: true,
+    link: {
+      type: 'doc',
+      id: 'api/xml/xml'
+    },
+    items: [
+      'api/xml/balance',
+      'api/xml/send_sms',
+      'api/xml/scheduled_sms',
+      'api/xml/wap_push_sms',
+      'api/xml/send_viber',
+      'api/xml/viber_image',
+      'api/xml/viber_image_button',
+      'api/xml/scheduled_viber',
+      'api/xml/status',
+      'api/xml/delete',
+      'api/xml/message_async',
+      'api/xml/job',
+      'api/xml/prices',
+      {
+        type: 'category',
+        label: 'References',
+        items: [
+          'api/xml/references/request_error',
+          'api/xml/references/message_status_codes'
+        ]
+      }
+    ]
+  }
 ]
 
 let admin = []

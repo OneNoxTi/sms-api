@@ -23,15 +23,15 @@ All requests to API are sent in **XML** format using the <a class="green-text">*
                     <tr>
                         <td>
                             <a class="name">**package**</a>
-                            <a class="type">xml tag</a>
+                            <a class="type">tag</a>
                             <a class="required">required</a> <br/>
                             <a class="description">Tag to transmit the credentials required for authorization</a>
                             <table class="t2">
                             <tbody>
                                 <tr>
                                     <td>
-                                        <a class="name">**key**</a>
-                                        <a class="type">varchar</a>
+                                        <a class="attribute">**key**</a>
+                                        <a class="type">attribute | varchar</a>
                                         <a class="required">required</a> <br/>
                                         <a class="description">Your API key, which can be obtained in your [personal cabinet](../../client/settings/api_settings.md#how-to-get-an-api-key)</a>
                                     </td>
@@ -39,7 +39,7 @@ All requests to API are sent in **XML** format using the <a class="green-text">*
                                 <tr>
                                     <td>
                                         <a class="name">**message**</a>
-                                        <a class="type">xml tag</a>
+                                        <a class="type">tag</a>
                                         <a class="required">required</a> <br/>
                                         <a class="description">Tag specifying the type of request</a>
                                         <table class="t2">
@@ -47,37 +47,37 @@ All requests to API are sent in **XML** format using the <a class="green-text">*
                                             <tr>
                                                 <td>
                                                     <a class="name">**msg**</a>
-                                                    <a class="type">xml tag</a><br/>
+                                                    <a class="type">tag</a><br/>
                                                     <a class="description">Message tag. The message text is passed as a parameter</a>
                                                     <table class="t2">
                                                     <tbody>
                                                         <tr>
                                                             <td>
-                                                                <a class="name">**id**</a>
-                                                                <a class="type">integer</a><br/>
+                                                                <a class="attribute">**id**</a>
+                                                                <a class="type">attribute | integer</a><br/>
                                                                 <a class="description">User numeric message identifier. When used, the user must ensure that this identifier is unique within their account</a>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                <a class="name">**recipient**</a>
-                                                                <a class="type">varchar(21)</a>
+                                                                <a class="attribute">**recipient**</a>
+                                                                <a class="type">attribute | varchar(21)</a>
                                                                 <a class="required">required</a> <br/>
                                                                 <a class="description">Phone number of the recipient of the message</a>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                <a class="name">**sender**</a>
-                                                                <a class="type">varchar(11)</a>
+                                                                <a class="attribute">**sender**</a>
+                                                                <a class="type">attribute | varchar(11)</a>
                                                                 <a class="required">required</a> <br/>
                                                                 <a class="description">Signature in the message</a>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                <a class="name">**type**</a>
-                                                                <a class="type">integer</a>
+                                                                <a class="attribute">**type**</a>
+                                                                <a class="type">attribute | integer</a>
                                                                 <a class="required">required</a> <br/>
                                                                 <a class="description">Type of message: <ul><li>**0** - usual message</li><li>**1** - flash message</li><li>**2** - wap-push message</li><li>**3** - voice message (only to home phones in Ukraine)</li></ul></a>
                                                             </td>
@@ -108,8 +108,7 @@ All requests to API are sent in **XML** format using the <a class="green-text">*
                 <package key="bb56a4369eb19***cfec6d1776bd25">
                     <message>
                         <msg id="1234" recipient="+380971234567" sender="SMSTest" type="0">Message text to be sent via SMS</msg>
-                        <msg recipient="+380501234567" sender="SMSTest" type="0">Message text to be sent via SMS</msg>
-                        ...
+                        <msg id="4321" recipient="+380501234567" sender="SMSTest" type="0">Message text to be sent via SMS</msg>
                     </message>
                 </package>
                 ```
@@ -125,42 +124,42 @@ All requests to API are sent in **XML** format using the <a class="green-text">*
                     <tr>
                         <td>
                             <a class="name">**package**</a>
-                            <a class="type">xml tag</a> <br/>
+                            <a class="type">tag</a> <br/>
                             <a class="description">Tag to transmit the credentials required for authorization</a>
                             <table class="t2">
                             <tbody>
                                 <tr>
                                     <td>
                                         <a class="name">**message**</a>
-                                        <a class="type">xml tag</a> <br/>
+                                        <a class="type">tag</a> <br/>
                                         <a class="description">Tag specifying the type of request</a>
                                         <table class="t2">
                                         <tbody>
                                             <tr>
                                                 <td>
                                                     <a class="name">**msg**</a>
-                                                    <a class="type">xml tag</a> <br/>
-                                                    <a class="description">Message tag. [Message status](message_statuses.md) is returned as a parameter</a>
+                                                    <a class="type">tag</a> <br/>
+                                                    <a class="description">Message tag. [Message status](./references/message_status_codes.md) is returned as a parameter</a>
                                                     <table class="t2">
                                                     <tbody>
                                                         <tr>
                                                             <td>
-                                                                <a class="name">**id**</a>
-                                                                <a class="type">integer</a><br/>
+                                                                <a class="attribute">**id**</a>
+                                                                <a class="type">attribute | integer</a><br/>
                                                                 <a class="description">User numeric message identifier</a>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                <a class="name">**sms_id**</a>
-                                                                <a class="type">integer</a> <br/>
+                                                                <a class="attribute">**sms_id**</a>
+                                                                <a class="type">attribute | integer</a> <br/>
                                                                 <a class="description">Numeric message identifier assigned by the gateway</a>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                <a class="name">**sms_count**</a>
-                                                                <a class="type">integer</a> <br/>
+                                                                <a class="attribute">**sms_count**</a>
+                                                                <a class="type">attribute | integer</a> <br/>
                                                                 <a class="description">Number of messages used to send the specified text</a>
                                                             </td>
                                                         </tr>
@@ -199,7 +198,8 @@ All requests to API are sent in **XML** format using the <a class="green-text">*
                 <?xml version="1.0" encoding="utf-8" ?>
                 <package>
                     <message>
-                        <msg sms_id="1234568" sms_count="1">1</msg>
+                        <msg id="1234" sms_id="1234568" sms_count="1">1</msg>
+                        <msg id="4321" sms_id="1234569" sms_count="1">1</msg>
                     </message>
                 </package>
                 ```
@@ -210,7 +210,7 @@ All requests to API are sent in **XML** format using the <a class="green-text">*
                 <?xml version="1.0" encoding="utf-8" ?>
                 <package>
                     <message>
-                        <msg id="1234" sms_id="0" sms_count="1">201</msg>
+                        <msg id="7777" sms_id="0" sms_count="1">201</msg>
                     </message>
                 </package>
                 ```

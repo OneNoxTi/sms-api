@@ -35,6 +35,11 @@
   font-size: large;
 }
 
+.item-content .attribute {
+  color: darkorange;
+  font-size: large;
+}
+
 .item-content .type {
   font-size: small;
   color: inherit;
